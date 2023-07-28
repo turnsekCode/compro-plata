@@ -46,7 +46,7 @@ export default function Home({
       <SEO
         title="Compro Oro al Mejor Precio. Tiendas Compro Oro | Quickgold"
         description="Quickgold es tu tienda compro oro de confianza. Obtén dinero extra por las joyas de oro que ya no quieras. Tasación transparente y segura."
-        icon="../../../../assets/favicon.png"
+        icon="/favicon.png"
         facebook={{
           image: "/facebook.png",
           url: "https://www.facebook.com/quickgold.es/",

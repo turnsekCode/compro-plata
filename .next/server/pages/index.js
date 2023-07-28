@@ -2119,7 +2119,7 @@ const Section_tres = ({ ciudad , ListadoCiudades  })=>{
                             children: [
                                 /*#__PURE__*/ jsx_runtime_.jsx("div", {
                                     children: /*#__PURE__*/ jsx_runtime_.jsx("img", {
-                                        src: "https://quickgold.es/logoOro.png",
+                                        src: "https://quickgold.es/imagenAdornoOro.png",
                                         alt: "Logo Oro"
                                     })
                                 }),
@@ -2472,7 +2472,7 @@ function Home({ menu_list , ListadoCiudades , listadoCiudadesServicios , ciudad 
             /*#__PURE__*/ jsx_runtime_.jsx((next_seo_default()), {
                 title: "Compro Oro al Mejor Precio. Tiendas Compro Oro | Quickgold",
                 description: "Quickgold es tu tienda compro oro de confianza. Obt\xe9n dinero extra por las joyas de oro que ya no quieras. Tasaci\xf3n transparente y segura.",
-                icon: "../../../../assets/favicon.png",
+                icon: "/favicon.png",
                 facebook: {
                     image: "/facebook.png",
                     url: "https://www.facebook.com/quickgold.es/",
