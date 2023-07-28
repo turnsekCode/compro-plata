@@ -44,13 +44,12 @@ const Section_uno = ({ ciudad, popUpCiudades }) => {
         </div>
       </div>
       <div className={styles.bloqueDer}>
-        <Image
+        <img
           src="/imagenComproOro.png"
           alt="Compro oro"
           className={styles.madridMobil}
           width={480}
           height={364}
-          priority
         />
       </div>
     </section>

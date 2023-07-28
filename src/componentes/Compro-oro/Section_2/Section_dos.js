@@ -19,7 +19,7 @@ const Section_dos = ({ ciudad }) => {
         <div className={styles.contenedorVentajas}>
           <div className={styles.imagenventaja1}>
             <img
-              src="/imagenventaja1.png"
+              src="https://quickgold.es/imagenVentaja1.png"
               alt="Mejor servicio y precio"
               width={40}
               height={42}
@@ -31,7 +31,7 @@ const Section_dos = ({ ciudad }) => {
         <div className={styles.contenedorVentajas}>
           <div className={styles.imagenventaja1}>
             <img
-              src="/imagenventaja2.png"
+              src="https://quickgold.es/imagenVentaja2.png"
               alt="Mejor servicio y precio"
               width={39}
               height={36}
@@ -43,7 +43,7 @@ const Section_dos = ({ ciudad }) => {
         <div className={styles.contenedorVentajas}>
           <div className={styles.imagenventaja1}>
             <img
-              src="/imagenventaja3.png"
+              src="https://quickgold.es/imagenVentaja3.png"
               alt="Mejor servicio y precio"
               width={36}
               height={36}
@@ -55,7 +55,7 @@ const Section_dos = ({ ciudad }) => {
         <div className={styles.contenedorVentajas}>
           <div className={styles.imagenventaja1}>
             <img
-              src="/imagenventaja4.png"
+              src="https://quickgold.es/imagenVentaja4.png"
               alt="Mejor servicio y precio"
               width={41}
               height={32}
@@ -67,7 +67,7 @@ const Section_dos = ({ ciudad }) => {
         <div className={styles.contenedorVentajas}>
           <div className={styles.imagenventaja1}>
             <img
-              src="/imagenventaja5.png"
+              src="https://quickgold.es/imagenVentaja5.png"
               alt="Mejor servicio y precio"
               width={38}
               height={38}
@@ -79,7 +79,7 @@ const Section_dos = ({ ciudad }) => {
         <div className={styles.contenedorVentajas}>
           <div className={styles.imagenventaja1}>
             <img
-              src="/imagenventaja6.png"
+              src="https://quickgold.es/imagenVentaja6.png"
               alt="Mejor servicio y precio"
               width={39}
               height={39}
