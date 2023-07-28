@@ -44,7 +44,7 @@ const Section_tres = ({ ciudad, ListadoCiudades }) => {
         <div id="calculadoraOro" className={styles.bloqueDer}>
           <div className={styles.bloqueSuperiorTexto}>
             <div>
-              <img src="../../../../logoOro.png" alt="Logo Oro" />
+              <img src="/logoOro.png" alt="Logo Oro" />
             </div>
             <div>
               <p>Compra de oro</p>
