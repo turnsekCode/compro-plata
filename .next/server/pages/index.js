@@ -1497,7 +1497,7 @@ const Section_dos = ({ ciudad  })=>{
                                 className: (sectionDos_module_default()).imagenventaja1,
                                 children: /*#__PURE__*/ jsx_runtime_.jsx("img", {
                                     src: "https://quickgold.es/imagenVentaja1.png",
-                                    alt: "Mejor servicio y precio"
+                                    alt: "a c\xf3mo est\xe1 el oro"
                                 })
                             }),
                             /*#__PURE__*/ jsx_runtime_.jsx("p", {
@@ -1512,7 +1512,7 @@ const Section_dos = ({ ciudad  })=>{
                                 className: (sectionDos_module_default()).imagenventaja1,
                                 children: /*#__PURE__*/ jsx_runtime_.jsx("img", {
                                     src: "https://quickgold.es/imagenVentaja2.png",
-                                    alt: "Mejor servicio y precio"
+                                    alt: "precio oro"
                                 })
                             }),
                             /*#__PURE__*/ jsx_runtime_.jsx("p", {
@@ -1527,7 +1527,7 @@ const Section_dos = ({ ciudad  })=>{
                                 className: (sectionDos_module_default()).imagenventaja1,
                                 children: /*#__PURE__*/ jsx_runtime_.jsx("img", {
                                     src: "https://quickgold.es/imagenVentaja3.png",
-                                    alt: "Mejor servicio y precio"
+                                    alt: "tiendas compro oro"
                                 })
                             }),
                             /*#__PURE__*/ jsx_runtime_.jsx("p", {
@@ -1542,7 +1542,7 @@ const Section_dos = ({ ciudad  })=>{
                                 className: (sectionDos_module_default()).imagenventaja1,
                                 children: /*#__PURE__*/ jsx_runtime_.jsx("img", {
                                     src: "https://quickgold.es/imagenVentaja4.png",
-                                    alt: "Mejor servicio y precio"
+                                    alt: "vender oro"
                                 })
                             }),
                             /*#__PURE__*/ jsx_runtime_.jsx("p", {
@@ -1557,7 +1557,7 @@ const Section_dos = ({ ciudad  })=>{
                                 className: (sectionDos_module_default()).imagenventaja1,
                                 children: /*#__PURE__*/ jsx_runtime_.jsx("img", {
                                     src: "https://quickgold.es/imagenVentaja5.png",
-                                    alt: "Mejor servicio y precio"
+                                    alt: "vender joyas"
                                 })
                             }),
                             /*#__PURE__*/ jsx_runtime_.jsx("p", {
@@ -1572,7 +1572,7 @@ const Section_dos = ({ ciudad  })=>{
                                 className: (sectionDos_module_default()).imagenventaja1,
                                 children: /*#__PURE__*/ jsx_runtime_.jsx("img", {
                                     src: "https://quickgold.es/imagenVentaja6.png",
-                                    alt: "Mejor servicio y precio"
+                                    alt: "tasaci\xf3n oro"
                                 })
                             }),
                             /*#__PURE__*/ jsx_runtime_.jsx("p", {

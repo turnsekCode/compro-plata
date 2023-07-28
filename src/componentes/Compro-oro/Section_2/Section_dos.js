@@ -20,7 +20,7 @@ const Section_dos = ({ ciudad }) => {
           <div className={styles.imagenventaja1}>
             <img
               src="https://quickgold.es/imagenVentaja1.png"
-              alt="Mejor servicio y precio"
+              alt="a cómo está el oro"
             />
           </div>
 
@@ -30,7 +30,7 @@ const Section_dos = ({ ciudad }) => {
           <div className={styles.imagenventaja1}>
             <img
               src="https://quickgold.es/imagenVentaja2.png"
-              alt="Mejor servicio y precio"
+              alt="precio oro"
             />
           </div>
 
@@ -40,7 +40,7 @@ const Section_dos = ({ ciudad }) => {
           <div className={styles.imagenventaja1}>
             <img
               src="https://quickgold.es/imagenVentaja3.png"
-              alt="Mejor servicio y precio"
+              alt="tiendas compro oro"
             />
           </div>
 
@@ -50,7 +50,7 @@ const Section_dos = ({ ciudad }) => {
           <div className={styles.imagenventaja1}>
             <img
               src="https://quickgold.es/imagenVentaja4.png"
-              alt="Mejor servicio y precio"
+              alt="vender oro"
             />
           </div>
 
@@ -60,7 +60,7 @@ const Section_dos = ({ ciudad }) => {
           <div className={styles.imagenventaja1}>
             <img
               src="https://quickgold.es/imagenVentaja5.png"
-              alt="Mejor servicio y precio"
+              alt="vender joyas"
             />
           </div>
 
@@ -70,7 +70,7 @@ const Section_dos = ({ ciudad }) => {
           <div className={styles.imagenventaja1}>
             <img
               src="https://quickgold.es/imagenVentaja6.png"
-              alt="Mejor servicio y precio"
+              alt="tasación oro"
             />
           </div>
 
