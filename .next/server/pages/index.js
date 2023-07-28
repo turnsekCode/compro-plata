@@ -2119,7 +2119,7 @@ const Section_tres = ({ ciudad , ListadoCiudades  })=>{
                             children: [
                                 /*#__PURE__*/ jsx_runtime_.jsx("div", {
                                     children: /*#__PURE__*/ jsx_runtime_.jsx("img", {
-                                        src: "/logoOro.png",
+                                        src: "https://quickgold.es/logoOro.png",
                                         alt: "Logo Oro"
                                     })
                                 }),
