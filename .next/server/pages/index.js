@@ -1393,8 +1393,7 @@ const external_react_scroll_namespaceObject = require("react-scroll");
 
 
 //import PopUpCiudades from "@/componentes/PopUpCiudades/PopUpCiudades";
-const Section_uno = ({ ciudad , popUpCiudades  })=>{
-    const { width  } = utilities_useScreenSize();
+const Section_uno = ({ ciudad  })=>{
     return /*#__PURE__*/ (0,jsx_runtime_.jsxs)("section", {
         className: (section_uno_module_default()).contenedorSectionUno,
         children: [
@@ -1446,7 +1445,7 @@ const Section_uno = ({ ciudad , popUpCiudades  })=>{
             /*#__PURE__*/ jsx_runtime_.jsx("div", {
                 className: (section_uno_module_default()).bloqueDer,
                 children: /*#__PURE__*/ jsx_runtime_.jsx("img", {
-                    src: "/imagenComproOro.png",
+                    src: "/imagenComproOro.webp",
                     alt: "Compro oro",
                     className: (section_uno_module_default()).madridMobil,
                     width: 480,
@@ -1498,9 +1497,7 @@ const Section_dos = ({ ciudad  })=>{
                                 className: (sectionDos_module_default()).imagenventaja1,
                                 children: /*#__PURE__*/ jsx_runtime_.jsx("img", {
                                     src: "https://quickgold.es/imagenVentaja1.png",
-                                    alt: "Mejor servicio y precio",
-                                    width: 40,
-                                    height: 42
+                                    alt: "Mejor servicio y precio"
                                 })
                             }),
                             /*#__PURE__*/ jsx_runtime_.jsx("p", {
@@ -1515,9 +1512,7 @@ const Section_dos = ({ ciudad  })=>{
                                 className: (sectionDos_module_default()).imagenventaja1,
                                 children: /*#__PURE__*/ jsx_runtime_.jsx("img", {
                                     src: "https://quickgold.es/imagenVentaja2.png",
-                                    alt: "Mejor servicio y precio",
-                                    width: 39,
-                                    height: 36
+                                    alt: "Mejor servicio y precio"
                                 })
                             }),
                             /*#__PURE__*/ jsx_runtime_.jsx("p", {
@@ -1532,9 +1527,7 @@ const Section_dos = ({ ciudad  })=>{
                                 className: (sectionDos_module_default()).imagenventaja1,
                                 children: /*#__PURE__*/ jsx_runtime_.jsx("img", {
                                     src: "https://quickgold.es/imagenVentaja3.png",
-                                    alt: "Mejor servicio y precio",
-                                    width: 36,
-                                    height: 36
+                                    alt: "Mejor servicio y precio"
                                 })
                             }),
                             /*#__PURE__*/ jsx_runtime_.jsx("p", {
@@ -1549,9 +1542,7 @@ const Section_dos = ({ ciudad  })=>{
                                 className: (sectionDos_module_default()).imagenventaja1,
                                 children: /*#__PURE__*/ jsx_runtime_.jsx("img", {
                                     src: "https://quickgold.es/imagenVentaja4.png",
-                                    alt: "Mejor servicio y precio",
-                                    width: 41,
-                                    height: 32
+                                    alt: "Mejor servicio y precio"
                                 })
                             }),
                             /*#__PURE__*/ jsx_runtime_.jsx("p", {
@@ -1566,9 +1557,7 @@ const Section_dos = ({ ciudad  })=>{
                                 className: (sectionDos_module_default()).imagenventaja1,
                                 children: /*#__PURE__*/ jsx_runtime_.jsx("img", {
                                     src: "https://quickgold.es/imagenVentaja5.png",
-                                    alt: "Mejor servicio y precio",
-                                    width: 38,
-                                    height: 38
+                                    alt: "Mejor servicio y precio"
                                 })
                             }),
                             /*#__PURE__*/ jsx_runtime_.jsx("p", {
@@ -1583,9 +1572,7 @@ const Section_dos = ({ ciudad  })=>{
                                 className: (sectionDos_module_default()).imagenventaja1,
                                 children: /*#__PURE__*/ jsx_runtime_.jsx("img", {
                                     src: "https://quickgold.es/imagenVentaja6.png",
-                                    alt: "Mejor servicio y precio",
-                                    width: 39,
-                                    height: 39
+                                    alt: "Mejor servicio y precio"
                                 })
                             }),
                             /*#__PURE__*/ jsx_runtime_.jsx("p", {

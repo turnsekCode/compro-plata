@@ -5,8 +5,7 @@ import Image from "next/image";
 import { Link } from "react-scroll";
 //import PopUpCiudades from "@/componentes/PopUpCiudades/PopUpCiudades";
 
-const Section_uno = ({ ciudad, popUpCiudades }) => {
-  const { width } = useScreenSize();
+const Section_uno = ({ ciudad }) => {
   return (
     <section className={styles.contenedorSectionUno}>
       <div className={styles.bloqueIzq}>
@@ -45,7 +44,7 @@ const Section_uno = ({ ciudad, popUpCiudades }) => {
       </div>
       <div className={styles.bloqueDer}>
         <img
-          src="/imagenComproOro.png"
+          src="/imagenComproOro.webp"
           alt="Compro oro"
           className={styles.madridMobil}
           width={480}
