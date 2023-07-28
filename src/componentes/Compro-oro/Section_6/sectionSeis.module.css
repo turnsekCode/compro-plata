@@ -1,0 +1,252 @@
+.contenedorSectionSeis{
+    background: #036F9A;
+}
+.contenedorSectionSeisMargen{
+    max-width: 1060px;
+    margin: 0 auto;
+    padding: 60px 0;
+}
+
+.BannerSelectorCiudad{
+    border-radius: 8px;
+    width: 280px;
+    height: 68px;
+    background-image: linear-gradient(180deg, #0F2D45 0%, rgba(22, 72, 117, 0.52) 107.1%), url(/bannerOro.png) ;
+    background-size: cover;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto 50px;
+
+}
+.BannerSelectorCiudad h5 {
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 48px;
+    color: #FFFFFF;
+    width: 50%;
+    display: none;
+}
+.tituloMobil{
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 27px;
+    text-align: center;
+    color: #FFFFFF;
+    margin: 0 auto 50px;
+    width: 60%;
+}
+.SelectCiudades{
+    width: 260px;
+    height: 50px;
+    background: #FFFFFF;
+    box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.2);
+    border-radius: 2px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.contenedorTexto h5{
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 29px;
+    color: #FFFFFF;
+    margin: 0 auto 20px;
+    text-align: center;
+    width: 80%;
+}
+.contenedorTexto p {
+    font-weight: 100;
+    font-size: 16px;
+    line-height: 15px;
+    color: #FFFFFF;
+    margin-bottom: 50px;
+    text-align: center;
+}
+.contenedorTiposOro{
+    padding: 0 20px;
+}
+.contenedorTiposOroCard1{
+    width: 100%;
+    height: auto;
+    left: 135px;
+    top: 3944px;
+    background: rgba(0, 45, 70, 0.2);
+    border-radius: 8px;
+    display: flex;
+    padding: 10px;
+    align-items: center;
+}
+.contenedorTiposOroCard1 p:nth-child(1){
+    width: 40%; 
+    text-align: center;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 16px;
+    color: #FFFFFF;
+}
+.contenedorTiposOroCard1 p:nth-child(2) {
+    width: 60%;
+    font-style: normal;
+    font-weight: 100;
+    font-size: 16px;
+    line-height: 20px;
+    color: #FFFFFF;
+}
+.contenedorTiposOroCard2 {
+    width: 100%;
+    height: auto;
+    left: 135px;
+    top: 3944px;
+    background: rgba(0, 45, 70, 0.1);
+    border-radius: 8px;
+    display: flex;
+    padding: 10px;
+    align-items: center;
+}
+
+.contenedorTiposOroCard2 p:nth-child(1) {
+    width: 40%;
+    text-align: center;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 16px;
+    color: #FFFFFF;
+}
+
+.contenedorTiposOroCard2 p:nth-child(2) {
+    width: 60%;
+    font-style: normal;
+    font-weight: 100;
+    font-size: 16px;
+    line-height: 20px;
+    color: #FFFFFF;
+}
+@media (min-width: 610px) {
+.contenedorSectionSeis {
+        background: #036F9A;
+    }
+.tituloMobil{
+    display: none;
+}
+    .contenedorSectionSeisMargen {
+        max-width: 1060px;
+        margin: 0 auto;
+        padding: 60px 0;
+    }
+
+    .BannerSelectorCiudad {
+        border-radius: 8px;
+        width: 100%;
+        height: 148px;
+        background-image: linear-gradient(180deg, #0F2D45 0%, rgba(22, 72, 117, 0.52) 107.1%), url(/bannerOro.png);
+        background-size: cover;
+        padding: 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-bottom: 50px;
+    }
+
+    .BannerSelectorCiudad h5 {
+        font-weight: 700;
+        font-size: 50px;
+        line-height: 48px;
+        color: #FFFFFF;
+        width: 50%;
+        display: block;
+    }
+
+    .SelectCiudades {
+        width: 260px;
+        height: 50px;
+        background: #FFFFFF;
+        box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.2);
+        border-radius: 2px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .contenedorTexto h5 {
+        font-weight: 700;
+        font-size: 30px;
+        line-height: 29px;
+        color: #FFFFFF;
+        margin-bottom: 20px;
+        text-align: left;
+        width: 100%;
+    }
+
+    .contenedorTexto p {
+        font-weight: 100;
+        font-size: 16px;
+        line-height: 15px;
+        color: #FFFFFF;
+        margin-bottom: 50px;
+        text-align: left;
+    }
+    .contenedorTiposOro {
+        padding: 0;
+    }
+    .contenedorTiposOroCard1 {
+        width: 100%;
+        height: 62px;
+        left: 135px;
+        top: 3944px;
+        background: rgba(0, 45, 70, 0.2);
+        border-radius: 8px;
+        display: flex;
+        padding: 10px;
+        align-items: center;
+    }
+
+    .contenedorTiposOroCard1 p:nth-child(1) {
+        width: 40%;
+        text-align: center;
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 16px;
+        color: #FFFFFF;
+    }
+
+    .contenedorTiposOroCard1 p:nth-child(2) {
+        width: 60%;
+        font-style: normal;
+        font-weight: 100;
+        font-size: 16px;
+        line-height: 20px;
+        color: #FFFFFF;
+    }
+
+    .contenedorTiposOroCard2 {
+        width: 100%;
+        height: 62px;
+        left: 135px;
+        top: 3944px;
+        background: rgba(0, 45, 70, 0.1);
+        border-radius: 8px;
+        display: flex;
+        padding: 10px;
+        align-items: center;
+    }
+
+    .contenedorTiposOroCard2 p:nth-child(1) {
+        width: 40%;
+        text-align: center;
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 16px;
+        color: #FFFFFF;
+    }
+
+    .contenedorTiposOroCard2 p:nth-child(2) {
+        width: 60%;
+        font-style: normal;
+        font-weight: 100;
+        font-size: 16px;
+        line-height: 20px;
+        color: #FFFFFF;
+    }
+}

@@ -1,0 +1,845 @@
+.contenedorConversor{
+    width: 100%;
+    height: auto;
+    background: #0692D0;
+    border-radius: 8px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 40px;
+}
+.conversorTitulo  {
+  display: flex;
+  gap: 15px;
+}
+.conversorTexto p{
+    font-weight: 100;
+    font-size: 13px;
+    line-height: 16px;
+    color: #FFFFFF;
+}
+.conversorTexto h2{
+    font-weight: 900;
+    font-size: 22px;
+    line-height: 37px;
+    color: #FFFFFF;
+}
+
+.botonLlamarTienda {
+    background: #E83C82;
+    box-shadow: 0px 8px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 2px;
+    align-items: center;
+    text-align: center;
+    padding: 13px 10px;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 14px;
+    color: #FFFFFF;
+    width: 280px;
+    margin-top: 30px;
+    display: block;
+}
+.contenedorAmbosBloquesOro{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin: 0;
+}
+.contenedorBloqueSuperior{
+    width: 310px;
+    height: auto;
+    background: #0692D0;
+    border-radius: 8px;
+    padding: 15px;
+}
+.botones{
+    display: flex;
+    gap: 10px;
+    margin-bottom: 22px;
+}
+.button{
+    background: #FFFFFF;
+    padding: 6px 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.24);
+    border-radius: 2px;
+    border: none;
+    color: #0692D0;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 10px;
+    font-family: 'Montserrat', Tahoma, Geneva, Verdana, sans-serif;
+    cursor: pointer;
+}
+.botonActivo{
+    background: #E83C82;
+    color: #FFFFFF;
+}
+.contenedorPrecios{
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 35px;
+}
+.contenedorPreciosPlata {
+    display: flex;
+    justify-content: space-between;
+}
+.contenedorprecioDestacado{
+    display: flex;
+    justify-content: center;
+    width: 70%;
+}
+.contenedorprecioDestacadoPlata {
+    display: flex;
+    justify-content: center;
+    width: 70%;
+}
+.precioDestacado{
+    width: 118px;
+    height: 76px;
+}
+.precioDestacadoPlata {
+    width: 118px;
+    height: 76px;
+}
+.masde{
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 20px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-bottom: 5px;
+}
+.precio18k{
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 33px;
+    color: #FFFFFF;
+    text-align: center;
+}
+.precio18k span{
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 33px;
+    color: #FFFFFF;
+}
+.kilates{
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 20px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.contenedorOtrosPrecios{
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.OtrosPrecios{
+    background: rgba(33, 62, 88, 0.2);
+    border-radius: 2px;
+    width: 85px;
+    height: 47px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.precio{
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.OtrosPrecios p span{
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 16px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.preciok{
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 16px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.contenedorCalculadora{
+    background: #0692D0;
+    border-radius: 8px;
+    width: 310px;
+    height: a;
+    margin-top: 20px;
+    padding: 15px;
+}
+.contenedorCalculadora h2{
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 25px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-bottom: 15px;
+}
+.contenedorCalculadora h2 span{
+    font-weight: 100;
+    font-size: 20px;
+    line-height: 22px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.contenedorSelect{
+    display: flex;
+}
+.Select, .input{
+    width: 50%;
+}
+.SelectDiv{
+    width: 120px;
+    height: 40px;
+    background: #F5F5F5;
+    border-radius: 2px;
+    outline: none;
+    padding: 5px 5px;
+    color: #213E58;
+    font-weight: 400;
+    font-size: 14px;
+    cursor: pointer;
+    color: #000;
+    position: relative;
+}
+.contenedorKilates{
+    position: absolute;
+    background: #F5F5F5;
+    width: 140px;
+    padding: 10px;
+    top: 40px;
+    left: 0;
+    border-radius: 5px;
+    display: none;
+    z-index: 1;
+}
+.contenedorKilatesActive{
+    display: block;
+}
+.contenedorUl li{
+    padding: 10px 5px;
+    background: #fff;
+    margin-bottom: 5px;
+}
+.SelectDivKilate{
+    color: #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Select select option{
+    color: #213E58;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 12px;
+}
+.Select p, .input p{
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 11px;
+    color: #FFFFFF;
+    margin-bottom: 5px;
+}
+.input span{
+    font-size: 16px;
+    line-height: 11px;
+    color: #FFFFFF;
+    margin-left: 4px;
+}
+.input input{
+    width: 110px;
+    height: 40px;
+    background: #F5F5F5;
+    border-radius: 2px;
+    border: none;
+    outline: none;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 12px;
+    color: #213E58;
+    padding: 0 5px;
+}
+.tituloInferior{
+    font-weight: 300;
+    font-size: 22px;
+    line-height: 19px;
+    color: #FFFFFF;
+    text-align: center;
+    margin-top: 25px;
+}
+.precioFinal{
+    font-weight: 900;
+    font-size: 30px;
+    line-height: 37px;
+    color: #FFFFFF;
+    text-align: center;
+    margin-top: 10px;
+}
+.precioFinal span{
+    font-size: 22px;
+}
+.promocion{
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 18px;
+    color: #FFFFFF;
+    text-align: center;
+    margin-top: 10px;
+}
+.linea {
+    position: relative;
+    display: inline-block;
+}
+
+.linea:before {
+    content: '';
+    width: 100%;
+    z-index: 0;
+    border-bottom: 7px solid #FBBE00;
+    position: absolute;
+    display: block;
+    height: 5px;
+    transform: translateY(15%);
+}
+
+.linea:before {
+    left: 2px;
+    top: calc(50% - 1px);
+}
+.contenedorPrecioPlata{
+    margin: 30px 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.bloqueIzq {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.bloqueDer {
+    width: 90%;
+    display: flex;
+    margin: 0 auto;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.bloqueIzqTexto h4 {
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 27px;
+    text-align: center;
+    color: #FFFFFF;
+    margin: 10px 0;
+}
+
+.select {
+    width: 260px;
+    height: 50px;
+    background: #FFFFFF;
+    box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.2);
+    border-radius: 2px;
+}
+
+.bloqueDer p {
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 29px;
+    color: #FFFFFF;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.bloqueDer p:nth-child(2) {
+    font-weight: 100;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: justify;
+    color: #FFFFFF;
+}
+
+.botonLlamar {
+    background: #E83C82;
+    border-radius: 2px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 13px 10px;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 14px;
+    color: #FFFFFF;
+    width: 215px;
+    height: 40px;
+    display: none;
+}
+
+
+
+.botonPopUp {
+    margin: 20px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.botonPopUp {
+    width: 260px;
+    height: 40px;
+    background: #0692D0;
+    box-shadow: 0px 8px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 2px;
+    font-weight: 700;
+    font-size: 13px;
+    line-height: 14px;
+    color: #fff;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    padding: 13px 5px;
+    text-transform: uppercase;
+    border: none;
+}
+
+.select {
+    width: 100%;
+    height: 27px;
+    background: #F5F5F5;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.24);
+    border-radius: 2px;
+    padding: 5px;
+    line-height: 17px;
+    color: #E83C82;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    font-size: 14px;
+}
+
+.selectCiudad_mobil {
+    width: 100%;
+    height: 50px;
+    background: #F5F5F5;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.24);
+    border-radius: 2px;
+    padding: 15px;
+    line-height: 17px;
+    color: #E83C82;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+    font-size: 16px;
+    padding: 20px;
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+}
+
+.select_ciudad {
+    display: none;
+}
+
+.select_monedas {
+    position: absolute;
+    top: 30px;
+    left: 0px;
+    background: #F5F5F5;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.14);
+    border-radius: 2px;
+    width: 250px;
+    height: 255px;
+    display: flex;
+    flex-direction: column;
+    display: none;
+    z-index: 50;
+    overflow-x: hidden;
+}
+
+.select_ciudad_mobil {
+    border-radius: 2px;
+    background: #F5F5F5;
+    box-shadow: 0px 4px 8px 0px rgba(0, 0, 0, 0.24);
+    padding: 15px;
+    width: 100%;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    text-align: center;
+    line-height: 20px;
+    border: none;
+    color: #E83C82;
+    outline: none;
+    position: relative;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+
+.select_ciudadOptionUno {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.contenedorOptions {
+    position: absolute;
+    width: 98%;
+    height: 220px;
+    background: #F5F5F5;
+    box-shadow: 0px 4px 8px 0px rgba(0, 0, 0, 0.24);
+    z-index: 20;
+    top: 37px;
+    padding: 10px;
+    display: none;
+    overflow-y: auto;
+    left: 3px;
+}
+
+.contenedorOptions::-webkit-scrollbar {
+    -webkit-appearance: none;
+}
+
+.contenedorOptions::-webkit-scrollbar:vertical {
+    width: 10px;
+}
+
+.contenedorOptions::-webkit-scrollbar-button:increment,
+.contenedorOptions::-webkit-scrollbar-button {
+    display: none;
+}
+
+.contenedorOptions::-webkit-scrollbar:horizontal {
+    background: #213E58;
+    border-radius: 20px;
+}
+
+.contenedorOptions::-webkit-scrollbar-thumb {
+    border-radius: 4px;
+    background: #213E58;
+}
+
+.contenedorOptionsActivo {
+    display: block;
+}
+
+.listaCiudad {
+    border-radius: 2px;
+    background: rgba(217, 217, 217, 0.2);
+    color: #213E58;
+    text-align: center;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px;
+    padding: 8px 0;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+@media (min-width: 610px) {
+.contenedorConversor {
+        width: 505px;
+        height: auto;
+        background: #0692D0;
+        border-radius: 8px;
+        padding: 20px;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .conversorTitulo {
+        display: flex;
+        gap: 15px;
+    }
+
+    .conversorTexto p {
+        font-weight: 100;
+        font-size: 13px;
+        line-height: 16px;
+        color: #FFFFFF;
+    }
+
+    .conversorTexto h2 {
+        font-weight: 900;
+        font-size: 30px;
+        line-height: 37px;
+        color: #FFFFFF;
+    }
+    .botonLlamarTienda {
+        background: #E83C82;
+        box-shadow: 0px 8px 8px rgba(0, 0, 0, 0.1);
+        border-radius: 2px;
+        align-items: center;
+        text-align: center;
+        padding: 13px 15px;
+        font-weight: 700;
+        font-size: 14px;
+        line-height: 14px;
+        color: #FFFFFF;
+        width: 100%;
+        margin-top: 15px;
+        display: block;
+    }
+    .contenedorBloqueSuperior {
+        width: 280px;
+        height: 250px;
+        background: #0692D0;
+        border-radius: 8px;
+        padding: 15px;
+    }
+    .contenedorCalculadora {
+        background: #0692D0;
+        border-radius: 8px;
+        width: 280px;
+        height: auto;
+        margin-top: 20px;
+        padding: 10px;
+    }
+    .contenedorKilates {
+        position: absolute;
+        background: #F5F5F5;
+        width: 140px;
+        padding: 10px;
+        top: 40px;
+        left: 0;
+        border-radius: 5px;
+        display: none;
+        z-index: 1;
+    }
+    .contenedorKilatesActive {
+        display: block;
+    }
+        .contenedorSectionCuatro {
+            background: #0692d0;
+            width: 100%;
+            margin: 0 auto;
+            border-radius: 0;
+            padding: 20px 0;
+        }
+    
+        .contenedorSectionCuatroMargen {
+            display: flex;
+            max-width: 1060px;
+            margin: 0 auto;
+            padding: 0;
+            gap: 60px;
+            flex-direction: row;
+        }
+    
+        .bloqueIzq {
+            width: 100%;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            align-items: center;
+        }
+    
+        .bloqueDer {
+            width: 31%;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            margin: 0;
+        }
+    
+    
+        .bloqueIzqTexto h4 {
+            font-weight: 500;
+            font-size: 24px;
+            line-height: 27px;
+            text-align: center;
+            color: #FFFFFF;
+            margin: 10px 0;
+        }
+     .bloqueIzqTexto{
+        width: 100%;
+        margin-bottom: 30px;
+     }
+    
+    
+        .select {
+            width: 455px;
+            height: 50px;
+            background: #FFFFFF;
+            box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.2);
+            border-radius: 2px;
+        }
+    
+        .bloqueDer p {
+            font-weight: 700;
+            font-size: 30px;
+            line-height: 29px;
+            color: #FFFFFF;
+            margin-bottom: 20px;
+        }
+    
+        .bloqueDer p:nth-child(2) {
+            font-weight: 100;
+            font-size: 14px;
+            line-height: 20px;
+            text-align: justify;
+            color: #FFFFFF;
+        }
+    
+        .botonLlamar {
+            background: #E83C82;
+            border-radius: 2px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 13px 10px;
+            font-weight: 700;
+            font-size: 14px;
+            line-height: 14px;
+            color: #FFFFFF;
+            width: 205px;
+            height: 40px;
+            display: block;
+        }
+    
+    
+    
+        .botonPopUp {
+            margin: 20px 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            cursor: pointer;
+        }
+    
+        .botonPopUp {
+            width: 455px;
+            height: 40px;
+            background: #0692D0;
+            box-shadow: 0px 8px 8px rgba(0, 0, 0, 0.1);
+            border-radius: 2px;
+            font-weight: 700;
+            font-size: 13px;
+            line-height: 14px;
+            color: #fff;
+            justify-content: center;
+            display: flex;
+            align-items: center;
+            padding: 13px 5px;
+            text-transform: uppercase;
+            border: none;
+        }
+    
+        .select {
+            width: 100%;
+            height: 27px;
+            background: #F5F5F5;
+            box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.24);
+            border-radius: 2px;
+            padding: 5px;
+            line-height: 17px;
+            color: #E83C82;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            position: relative;
+            font-size: 16px;
+        }
+    
+        .select_ciudad {
+            border-radius: 2px;
+            background: #F5F5F5;
+            box-shadow: 0px 4px 8px 0px rgba(0, 0, 0, 0.24);
+            padding: 5px;
+            width: 100%;
+            font-size: 14px;
+            font-style: normal;
+            font-weight: 700;
+            text-align: center;
+            line-height: 20px;
+            border: none;
+            color: #E83C82;
+            outline: none;
+            position: relative;
+        }
+    
+        .selectCiudad_mobil {
+            display: none;
+        }
+    
+        .select_ciudadOptionUno {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+        }
+    
+        .contenedorOptions {
+            position: absolute;
+            width: 98%;
+            height: 260px;
+            background: #F5F5F5;
+            box-shadow: 0px 4px 8px 0px rgba(0, 0, 0, 0.24);
+            z-index: 20;
+            top: 37px;
+            padding: 10px;
+            display: none;
+            overflow-y: auto;
+        }
+    
+        .contenedorOptions::-webkit-scrollbar {
+            -webkit-appearance: none;
+        }
+    
+        .contenedorOptions::-webkit-scrollbar:vertical {
+            width: 5px;
+        }
+    
+        .contenedorOptions::-webkit-scrollbar-button:increment,
+        .contenedorOptions::-webkit-scrollbar-button {
+            display: none;
+        }
+    
+        .contenedorOptions::-webkit-scrollbar:horizontal {
+            background: #213E58;
+            border-radius: 20px;
+        }
+    
+        .contenedorOptions::-webkit-scrollbar-thumb {
+            border-radius: 4px;
+            background: #213E58;
+        }
+    
+        .contenedorOptionsActivo {
+            display: block;
+        }
+    
+        .listaCiudad {
+            border-radius: 2px;
+            background: rgba(217, 217, 217, 0.2);
+            color: #213E58;
+            text-align: center;
+            font-size: 16px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: 16px;
+            padding: 8px 0;
+            margin-bottom: 10px;
+            cursor: pointer;
+        }
+    
+        .select_activo {
+            display: block;
+        }
+}

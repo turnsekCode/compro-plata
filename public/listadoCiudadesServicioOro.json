@@ -1,0 +1,27 @@
+
+
+{
+    "arrayMarker":[
+        {
+        "id": 1,
+        "ciudad": "Compro Oro Sevilla",
+        "url": "https://quickgold.es/compro-oro-sevilla/"
+        },
+        {
+        "id": 2,
+        "ciudad": "Compro Oro Bilbao",
+        "url": "https://quickgold.es/compro-oro-bilbao//"
+        },
+             {
+        "id": 3,
+        "ciudad": "Compro Oro Granada",
+        "url": "https://quickgold.es/compro-oro-granada/"
+        },
+             {
+        "id": 4,
+        "ciudad": "Compro Oro Tarragona",
+        "url": "https://quickgold.es/compro-oro-tarragona/"
+        }
+    ]
+    
+}

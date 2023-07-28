@@ -45,6 +45,153 @@ module.exports = {
 
 /***/ }),
 
+/***/ 3588:
+/***/ ((module) => {
+
+// Exports
+module.exports = {
+	"contenedorSectionUno": "section_uno_contenedorSectionUno__Nb_Si",
+	"linea": "section_uno_linea__QAeTJ",
+	"bloqueIzq": "section_uno_bloqueIzq__qGolw",
+	"bloqueDer": "section_uno_bloqueDer__OmvwL",
+	"madridMobil": "section_uno_madridMobil__UfBhE",
+	"botones": "section_uno_botones__rsL_M",
+	"botonPopUp": "section_uno_botonPopUp__3rQJ8"
+};
+
+
+/***/ }),
+
+/***/ 1738:
+/***/ ((module) => {
+
+// Exports
+module.exports = {
+	"contenedorSectionDos": "sectionDos_contenedorSectionDos__gB9C_",
+	"bloqueInferior": "sectionDos_bloqueInferior__JKSjz",
+	"bloqueSuperior": "sectionDos_bloqueSuperior__E5IEs",
+	"imagenventaja1": "sectionDos_imagenventaja1__iZ1Xc",
+	"contenedorVentajas": "sectionDos_contenedorVentajas__pg1iM",
+	"linea": "sectionDos_linea__VbALX"
+};
+
+
+/***/ }),
+
+/***/ 7211:
+/***/ ((module) => {
+
+// Exports
+module.exports = {
+	"contenedorSectionTresMargen": "sectionTres_contenedorSectionTresMargen__XMZeB",
+	"bloqueIzq": "sectionTres_bloqueIzq__EL1Ww",
+	"bloqueDer": "sectionTres_bloqueDer__0nyKB",
+	"contenidoBloqueDer": "sectionTres_contenidoBloqueDer__VsHQs",
+	"linea": "sectionTres_linea__lHMlx",
+	"bloqueSuperiorTexto": "sectionTres_bloqueSuperiorTexto__9HSws",
+	"bloqueIzqInferior": "sectionTres_bloqueIzqInferior__YAjgO"
+};
+
+
+/***/ }),
+
+/***/ 1470:
+/***/ ((module) => {
+
+// Exports
+module.exports = {
+	"contenedorSectionCinco": "sectionCinco_contenedorSectionCinco__Jmvg_",
+	"sectionCincoContenido": "sectionCinco_sectionCincoContenido__CnR5z",
+	"contenedorSectionCincoMargen": "sectionCinco_contenedorSectionCincoMargen__M5kbc",
+	"linea": "sectionCinco_linea__523j6",
+	"contenidoCard": "sectionCinco_contenidoCard__ln_hL"
+};
+
+
+/***/ }),
+
+/***/ 4988:
+/***/ ((module) => {
+
+// Exports
+module.exports = {
+	"contenedorSectionSeis": "sectionSeis_contenedorSectionSeis__nlh7S",
+	"contenedorSectionSeisMargen": "sectionSeis_contenedorSectionSeisMargen__v2lGi",
+	"BannerSelectorCiudad": "sectionSeis_BannerSelectorCiudad__OsNkG",
+	"tituloMobil": "sectionSeis_tituloMobil__nHXDL",
+	"SelectCiudades": "sectionSeis_SelectCiudades__P8NR_",
+	"contenedorTexto": "sectionSeis_contenedorTexto__K_BS0",
+	"contenedorTiposOro": "sectionSeis_contenedorTiposOro__WdpmL",
+	"contenedorTiposOroCard1": "sectionSeis_contenedorTiposOroCard1__DlThX",
+	"contenedorTiposOroCard2": "sectionSeis_contenedorTiposOroCard2__NBwiU"
+};
+
+
+/***/ }),
+
+/***/ 7741:
+/***/ ((module) => {
+
+// Exports
+module.exports = {
+	"contenedorConversor": "conversor_contenedorConversor__CWQNx",
+	"conversorTitulo": "conversor_conversorTitulo__e9dzq",
+	"conversorTexto": "conversor_conversorTexto__xGwjn",
+	"botonLlamarTienda": "conversor_botonLlamarTienda__xJhg1",
+	"contenedorAmbosBloquesOro": "conversor_contenedorAmbosBloquesOro__jB1gn",
+	"contenedorBloqueSuperior": "conversor_contenedorBloqueSuperior__YnWEZ",
+	"botones": "conversor_botones__FX1Pe",
+	"button": "conversor_button__xtM1c",
+	"botonActivo": "conversor_botonActivo__GDVtR",
+	"contenedorPrecios": "conversor_contenedorPrecios__3a5F_",
+	"contenedorPreciosPlata": "conversor_contenedorPreciosPlata__S6k8H",
+	"contenedorprecioDestacado": "conversor_contenedorprecioDestacado__qdZZi",
+	"contenedorprecioDestacadoPlata": "conversor_contenedorprecioDestacadoPlata__fdj3a",
+	"precioDestacado": "conversor_precioDestacado___DI6i",
+	"precioDestacadoPlata": "conversor_precioDestacadoPlata__V5zOJ",
+	"masde": "conversor_masde__aYJtx",
+	"precio18k": "conversor_precio18k__tEwgL",
+	"kilates": "conversor_kilates__9VvK6",
+	"contenedorOtrosPrecios": "conversor_contenedorOtrosPrecios__VTwI9",
+	"OtrosPrecios": "conversor_OtrosPrecios__wCKTc",
+	"precio": "conversor_precio__8VOV7",
+	"preciok": "conversor_preciok__pT5WY",
+	"contenedorCalculadora": "conversor_contenedorCalculadora__IchYz",
+	"contenedorSelect": "conversor_contenedorSelect__DEQ9M",
+	"Select": "conversor_Select___Zv_e",
+	"input": "conversor_input__z6wsX",
+	"SelectDiv": "conversor_SelectDiv__4SahR",
+	"contenedorKilates": "conversor_contenedorKilates__EuNmv",
+	"contenedorKilatesActive": "conversor_contenedorKilatesActive__MvM2A",
+	"contenedorUl": "conversor_contenedorUl__bt1r5",
+	"SelectDivKilate": "conversor_SelectDivKilate__95YNa",
+	"tituloInferior": "conversor_tituloInferior__m_q30",
+	"precioFinal": "conversor_precioFinal__gXXE0",
+	"promocion": "conversor_promocion__O5qwK",
+	"linea": "conversor_linea__GME8W",
+	"contenedorPrecioPlata": "conversor_contenedorPrecioPlata__PgLDe",
+	"bloqueIzq": "conversor_bloqueIzq__xbsma",
+	"bloqueDer": "conversor_bloqueDer__AXXhq",
+	"bloqueIzqTexto": "conversor_bloqueIzqTexto__Mg1Vy",
+	"select": "conversor_select__cOahp",
+	"botonLlamar": "conversor_botonLlamar__xszov",
+	"botonPopUp": "conversor_botonPopUp__7FbJr",
+	"selectCiudad_mobil": "conversor_selectCiudad_mobil___1bGz",
+	"select_ciudad": "conversor_select_ciudad__NINlY",
+	"select_monedas": "conversor_select_monedas__Crwwr",
+	"select_ciudad_mobil": "conversor_select_ciudad_mobil__MmKM4",
+	"select_ciudadOptionUno": "conversor_select_ciudadOptionUno__CiLWM",
+	"contenedorOptions": "conversor_contenedorOptions__yyWGj",
+	"contenedorOptionsActivo": "conversor_contenedorOptionsActivo__ZBpFa",
+	"listaCiudad": "conversor_listaCiudad__tez6c",
+	"contenedorSectionCuatro": "conversor_contenedorSectionCuatro__rNqRr",
+	"contenedorSectionCuatroMargen": "conversor_contenedorSectionCuatroMargen__XQn_c",
+	"select_activo": "conversor_select_activo__2pnpI"
+};
+
+
+/***/ }),
+
 /***/ 5319:
 /***/ ((module) => {
 
@@ -137,131 +284,6 @@ module.exports = {
 
 /***/ }),
 
-/***/ 8501:
-/***/ ((module) => {
-
-// Exports
-module.exports = {
-	"contenedorSectionUno": "section_uno_contenedorSectionUno__TYdi_",
-	"linea": "section_uno_linea__sE_iP",
-	"bloqueIzq": "section_uno_bloqueIzq__PPsV_",
-	"bloqueDer": "section_uno_bloqueDer__tgJlu",
-	"madridMobil": "section_uno_madridMobil__6tO4y",
-	"botones": "section_uno_botones__62UCW"
-};
-
-
-/***/ }),
-
-/***/ 7261:
-/***/ ((module) => {
-
-// Exports
-module.exports = {
-	"contenedorSectionDos": "sectionDos_contenedorSectionDos__BSfzG",
-	"bloqueInferior": "sectionDos_bloqueInferior__J_TfL",
-	"bloqueSuperior": "sectionDos_bloqueSuperior__OOVc3",
-	"imagenventaja1": "sectionDos_imagenventaja1__RctkE",
-	"contenedorVentajas": "sectionDos_contenedorVentajas__lrzhI",
-	"linea": "sectionDos_linea__frl8m"
-};
-
-
-/***/ }),
-
-/***/ 1746:
-/***/ ((module) => {
-
-// Exports
-module.exports = {
-	"bloqueDivHabituales": "estilosConversor_bloqueDivHabituales__ODTZj",
-	"bloqueTituloSuperior": "estilosConversor_bloqueTituloSuperior__KsBI9",
-	"tituloDivisaHabitual": "estilosConversor_tituloDivisaHabitual__rQNEO",
-	"divisasHabituales": "estilosConversor_divisasHabituales___QRSA",
-	"bloqueDer": "estilosConversor_bloqueDer__UsE19",
-	"bloqueDerInput": "estilosConversor_bloqueDerInput__RiHRW",
-	"contenedorInput": "estilosConversor_contenedorInput__dlRkD",
-	"dolar": "estilosConversor_dolar__kJm5B",
-	"libra": "estilosConversor_libra__tR9Ln",
-	"imgMoneda": "estilosConversor_imgMoneda__VZizZ",
-	"nombreMoneda": "estilosConversor_nombreMoneda__EoUxn",
-	"contenedorInputSuperior": "estilosConversor_contenedorInputSuperior__2eDPp",
-	"contenedorInputInferior": "estilosConversor_contenedorInputInferior__cVj5i",
-	"bloqueIzqInput": "estilosConversor_bloqueIzqInput__XCS_v",
-	"select": "estilosConversor_select__ZV4iU",
-	"select_monedas": "estilosConversor_select_monedas__tNdq6",
-	"contenedor_list": "estilosConversor_contenedor_list__O2Lti",
-	"moneda": "estilosConversor_moneda__gRGRf",
-	"nombre": "estilosConversor_nombre__Mbx19",
-	"select_activo": "estilosConversor_select_activo__fU3pb",
-	"bandera": "estilosConversor_bandera__MnsiZ",
-	"botonSwith": "estilosConversor_botonSwith__9nw1w",
-	"monedaInferior": "estilosConversor_monedaInferior__SaVTf",
-	"selectCiudad": "estilosConversor_selectCiudad__swMuw",
-	"botonLlamarTienda": "estilosConversor_botonLlamarTienda__aXL2E",
-	"selectCiudad_mobil": "estilosConversor_selectCiudad_mobil__XgY95",
-	"select_ciudad_mobil": "estilosConversor_select_ciudad_mobil__ekuzG",
-	"select_ciudadOptionUno": "estilosConversor_select_ciudadOptionUno__looNI",
-	"contenedorOptions": "estilosConversor_contenedorOptions__05QH5",
-	"contenedorOptionsActivo": "estilosConversor_contenedorOptionsActivo__kThlR",
-	"listaCiudad": "estilosConversor_listaCiudad__bcXNM",
-	"textoEntreInputs": "estilosConversor_textoEntreInputs__428Nr",
-	"select_ciudad": "estilosConversor_select_ciudad__bCfaH",
-	"inputInferior": "estilosConversor_inputInferior__j5E0O"
-};
-
-
-/***/ }),
-
-/***/ 1699:
-/***/ ((module) => {
-
-// Exports
-module.exports = {
-	"contenedorSectionCuatro": "sectionCuatro_contenedorSectionCuatro__M2a4p",
-	"contenedorSectionCuatroMargen": "sectionCuatro_contenedorSectionCuatroMargen__epGQp",
-	"bloqueIzq": "sectionCuatro_bloqueIzq__urYm9",
-	"bloqueDer": "sectionCuatro_bloqueDer__blaD7",
-	"linea": "sectionCuatro_linea__koTbC"
-};
-
-
-/***/ }),
-
-/***/ 9111:
-/***/ ((module) => {
-
-// Exports
-module.exports = {
-	"contenedorSectionCinco": "sectionDos_contenedorSectionCinco__RLlU8",
-	"sectionCincoContenido": "sectionDos_sectionCincoContenido__JIaK7",
-	"contenedorSectionCincoMargen": "sectionDos_contenedorSectionCincoMargen__pmFlx",
-	"linea": "sectionDos_linea__r_Xwh",
-	"contenidoCard": "sectionDos_contenidoCard__08UGQ",
-	"parrafoVenderDiamantes": "sectionDos_parrafoVenderDiamantes__zPTmj"
-};
-
-
-/***/ }),
-
-/***/ 8869:
-/***/ ((module) => {
-
-// Exports
-module.exports = {
-	"contenedorSectionSeis": "sectionSeis_contenedorSectionSeis__p_SsQ",
-	"contenedorSectionSeisMargen": "sectionSeis_contenedorSectionSeisMargen__Avz3j",
-	"BannerSelectorCiudad": "sectionSeis_BannerSelectorCiudad__dfEPE",
-	"tituloMobil": "sectionSeis_tituloMobil__NSP3u",
-	"SelectCiudades": "sectionSeis_SelectCiudades__7UIfI",
-	"contenedorTexto": "sectionSeis_contenedorTexto__4eRjZ",
-	"contenedorTiposDivisas": "sectionSeis_contenedorTiposDivisas__F8Udt",
-	"contenedorTiposDivisasCard1": "sectionSeis_contenedorTiposDivisasCard1__DRNdQ"
-};
-
-
-/***/ }),
-
 /***/ 8410:
 /***/ ((module) => {
 
@@ -287,7 +309,7 @@ module.exports = {
 
 /***/ }),
 
-/***/ 7431:
+/***/ 7555:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -337,904 +359,14 @@ const Breadcrumbs = ()=>{
                 ]
             }),
             /*#__PURE__*/ jsx_runtime_.jsx("a", {
-                href: "https://quickgold.es/dolar-euro/",
-                title: "Ir a casa cambio madrid",
-                children: "Cambio dolares - euros"
+                href: "https://quickgold.es/compro-oro/",
+                title: "Compro oro",
+                children: "Compro oro"
             })
         ]
     });
 };
 /* harmony default export */ const Breadcrumbs_Breadcrumbs = (Breadcrumbs);
-
-// EXTERNAL MODULE: ./src/componentes/Section_1/section_uno.module.css
-var section_uno_module = __webpack_require__(8501);
-var section_uno_module_default = /*#__PURE__*/__webpack_require__.n(section_uno_module);
-;// CONCATENATED MODULE: external "@mui/icons-material/LocationOnOutlined"
-const LocationOnOutlined_namespaceObject = require("@mui/icons-material/LocationOnOutlined");
-;// CONCATENATED MODULE: external "react-scroll"
-const external_react_scroll_namespaceObject = require("react-scroll");
-;// CONCATENATED MODULE: ./src/utilities/useScreenSize.js
-
-if (false) { var height1, width1; }
-const useScreenSize = ()=>{
-    const [width, setWidth] = (0,external_react_.useState)(width1);
-    const [height, setHeight] = (0,external_react_.useState)(height1);
-    if (false) {}
-    return {
-        width,
-        height
-    };
-};
-/* harmony default export */ const utilities_useScreenSize = (useScreenSize);
-
-;// CONCATENATED MODULE: ./src/componentes/Section_1/Section_uno.js
-
-
-//import Image from "next/image";
-
-
-
-
-const Section_uno = ()=>{
-    const { width  } = utilities_useScreenSize();
-    return /*#__PURE__*/ (0,jsx_runtime_.jsxs)("section", {
-        className: (section_uno_module_default()).contenedorSectionUno,
-        children: [
-            /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
-                className: (section_uno_module_default()).bloqueIzq,
-                children: [
-                    /*#__PURE__*/ jsx_runtime_.jsx("h1", {
-                        children: "Cambio de d\xf3lares a euros"
-                    }),
-                    /*#__PURE__*/ jsx_runtime_.jsx("p", {
-                        children: "Si necesitas cambiar d\xf3lares por euros en Espa\xf1a, Quickgold es tu mejor opci\xf3n: ofrecemos un servicio totalmente especializado en d\xf3lares, realizamos mejoras por cantidad y ofrecemos el mejor precio de tu ciudad."
-                    }),
-                    /*#__PURE__*/ jsx_runtime_.jsx("p", {
-                        children: /*#__PURE__*/ jsx_runtime_.jsx("strong", {
-                            children: "Consulta el precio del d\xf3lar actualizado."
-                        })
-                    }),
-                    /*#__PURE__*/ jsx_runtime_.jsx("div", {
-                        className: (section_uno_module_default()).botones,
-                        children: /*#__PURE__*/ jsx_runtime_.jsx("a", {
-                            href: "tel:900 373 629",
-                            title: "Tel\xe9fono",
-                            children: "llama gratis al 900 373 629"
-                        })
-                    })
-                ]
-            }),
-            /*#__PURE__*/ jsx_runtime_.jsx("div", {
-                className: (section_uno_module_default()).bloqueDer,
-                children: /*#__PURE__*/ jsx_runtime_.jsx("img", {
-                    src: "/imagenDolarEuro.png",
-                    alt: "Cambio dolar - euro",
-                    className: (section_uno_module_default()).madridMobil,
-                    width: 290,
-                    height: 220
-                })
-            })
-        ]
-    });
-};
-/* harmony default export */ const Section_1_Section_uno = (Section_uno);
-
-// EXTERNAL MODULE: ./src/componentes/Section_3/sectionCuatro.module.css
-var sectionCuatro_module = __webpack_require__(1699);
-var sectionCuatro_module_default = /*#__PURE__*/__webpack_require__.n(sectionCuatro_module);
-// EXTERNAL MODULE: ./src/componentes/Section_3/ConversorDivisa/estilosConversor.module.css
-var estilosConversor_module = __webpack_require__(1746);
-var estilosConversor_module_default = /*#__PURE__*/__webpack_require__.n(estilosConversor_module);
-;// CONCATENATED MODULE: external "@mui/icons-material/KeyboardArrowDown"
-const KeyboardArrowDown_namespaceObject = require("@mui/icons-material/KeyboardArrowDown");
-var KeyboardArrowDown_default = /*#__PURE__*/__webpack_require__.n(KeyboardArrowDown_namespaceObject);
-;// CONCATENATED MODULE: external "@mui/icons-material/PowerInput"
-const PowerInput_namespaceObject = require("@mui/icons-material/PowerInput");
-var PowerInput_default = /*#__PURE__*/__webpack_require__.n(PowerInput_namespaceObject);
-;// CONCATENATED MODULE: external "@mui/icons-material/ImportExport"
-const ImportExport_namespaceObject = require("@mui/icons-material/ImportExport");
-var ImportExport_default = /*#__PURE__*/__webpack_require__.n(ImportExport_namespaceObject);
-;// CONCATENATED MODULE: ./src/componentes/Section_3/ConversorDivisa/Comprar.js
-
-
-
-
-
-
-const Comprar_Comprar = ({ ListadoCiudades  })=>{
-    const [ciudad, setCiudad] = (0,external_react_.useState)("");
-    const [ciudadOpen, setCiudadOpen] = (0,external_react_.useState)(null);
-    const [selectDivisa, setSelectDivisa] = (0,external_react_.useState)(true);
-    const datosCiudad = ListadoCiudades.arrayMarker;
-    const [data, setData] = (0,external_react_.useState)([]);
-    //const datos = data;
-    //console.log(datos.splice(0, 1, "USD"));
-    (0,external_react_.useEffect)(()=>{
-        fetch(`https://quickgold.es/archivos-cache/Fixing${ciudad}.txt`, {
-            cache: "no-cache"
-        }).then((response)=>response.json()).then((response)=>{
-            setData(response?.result?.Tarifas?.Divisas_Compra.reverse());
-        });
-    }, [
-        ciudad
-    ]);
-    //const [InputDivisa, setInputDivisa] = useState(<PowerInputIcon />);
-    const [valorMoneda, setValorMoneda] = (0,external_react_.useState)("");
-    const [DataAcronimo, setAcronimo] = (0,external_react_.useState)("");
-    const [DataNombre, setDataNombre] = (0,external_react_.useState)("");
-    const [valorInput, setValorInput] = (0,external_react_.useState)("");
-    const [switched, setSwitched] = (0,external_react_.useState)(null);
-    const [opened, setOpened] = (0,external_react_.useState)(true);
-    const [select, setSelect] = (0,external_react_.useState)(null);
-    const precioDividido = valorMoneda / 1000;
-    const precioDividido2 = 1 / precioDividido;
-    const valorFinal = valorInput * precioDividido;
-    const valorFinal2 = valorInput / precioDividido;
-    const captureCodigo = (e)=>{
-        setAcronimo(e.target.dataset.acronimo);
-        setValorMoneda(e.target.dataset.precio);
-    };
-    const MonedaSeleccionada = ()=>{
-        setSelectDivisa(false);
-    };
-    const captureHabitual = (e)=>{
-        setCiudadOpen(false);
-    };
-    return /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
-        className: (estilosConversor_module_default()).bloqueDer,
-        children: [
-            /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
-                className: (estilosConversor_module_default()).bloqueTituloSuperior,
-                children: [
-                    /*#__PURE__*/ jsx_runtime_.jsx("h3", {
-                        children: "CAMBIO DE D\xd3LAR A EURO"
-                    }),
-                    /*#__PURE__*/ jsx_runtime_.jsx("p", {
-                        children: "Ciudad donde quieres cambiar"
-                    }),
-                    /*#__PURE__*/ jsx_runtime_.jsx("div", {
-                        className: (estilosConversor_module_default()).selectCiudad,
-                        children: /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
-                            className: (estilosConversor_module_default()).select_ciudad,
-                            children: [
-                                /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
-                                    onClick: (event)=>{
-                                        setSelect(false);
-                                        setCiudadOpen(!ciudadOpen);
-                                    },
-                                    className: (estilosConversor_module_default()).select_ciudadOptionUno,
-                                    children: [
-                                        " ",
-                                        opened ? /*#__PURE__*/ (0,jsx_runtime_.jsxs)(jsx_runtime_.Fragment, {
-                                            children: [
-                                                /*#__PURE__*/ jsx_runtime_.jsx("p", {
-                                                    children: "Seleccione ciudad"
-                                                }),
-                                                /*#__PURE__*/ jsx_runtime_.jsx((KeyboardArrowDown_default()), {})
-                                            ]
-                                        }) : /*#__PURE__*/ (0,jsx_runtime_.jsxs)(jsx_runtime_.Fragment, {
-                                            children: [
-                                                DataNombre,
-                                                " ",
-                                                /*#__PURE__*/ jsx_runtime_.jsx((KeyboardArrowDown_default()), {})
-                                            ]
-                                        })
-                                    ]
-                                }),
-                                /*#__PURE__*/ jsx_runtime_.jsx("div", {
-                                    className: ciudadOpen ? `${(estilosConversor_module_default()).contenedorOptions} ${(estilosConversor_module_default()).contenedorOptionsActivo}` : `${(estilosConversor_module_default()).contenedorOptions}`,
-                                    children: /*#__PURE__*/ jsx_runtime_.jsx("ul", {
-                                        children: datosCiudad.map((ciudad, i)=>/*#__PURE__*/ jsx_runtime_.jsx("li", {
-                                                className: (estilosConversor_module_default()).listaCiudad,
-                                                onClick: (e)=>{
-                                                    captureHabitual(e);
-                                                    //setAcronimo(e.target.dataset.acronimo);
-                                                    //setValorMoneda(e.target.dataset.precio);
-                                                    setCiudad(e.target.dataset.minusculas);
-                                                    setDataNombre(e.target.dataset.nombre);
-                                                    setSelectDivisa(true);
-                                                    setOpened(false);
-                                                },
-                                                "data-minusculas": ciudad.nombreMinusculas,
-                                                "data-nombre": ciudad.nombre,
-                                                children: ciudad.nombre
-                                            }, i))
-                                    })
-                                })
-                            ]
-                        })
-                    }),
-                    /*#__PURE__*/ jsx_runtime_.jsx("div", {
-                        className: (estilosConversor_module_default()).selectCiudad_mobil,
-                        children: /*#__PURE__*/ jsx_runtime_.jsx("select", {
-                            className: (estilosConversor_module_default()).select_ciudad_mobil,
-                            onChange: (e)=>{
-                                setCiudad(e.target.value);
-                                setSelectDivisa(true);
-                                setOpened(false);
-                            },
-                            children: datosCiudad.map((ciudad, i)=>/*#__PURE__*/ jsx_runtime_.jsx("option", {
-                                    value: ciudad.nombreMinusculas,
-                                    children: ciudad.nombre
-                                }, i))
-                        })
-                    }),
-                    /*#__PURE__*/ jsx_runtime_.jsx("p", {
-                        className: (estilosConversor_module_default()).textoEntreInputs,
-                        children: "Selecciona la divisa D\xd3LAR para saber su precio"
-                    })
-                ]
-            }),
-            /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
-                className: (estilosConversor_module_default()).contenedorInputSuperior,
-                children: [
-                    /*#__PURE__*/ jsx_runtime_.jsx("div", {
-                        className: (estilosConversor_module_default()).bloqueIzqInput,
-                        children: /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
-                            className: (estilosConversor_module_default()).select,
-                            onClick: ()=>{
-                                setSelect(!select);
-                            },
-                            children: [
-                                selectDivisa ? /*#__PURE__*/ (0,jsx_runtime_.jsxs)(jsx_runtime_.Fragment, {
-                                    children: [
-                                        "Seleccione Divisa",
-                                        /*#__PURE__*/ jsx_runtime_.jsx((KeyboardArrowDown_default()), {})
-                                    ]
-                                }) : /*#__PURE__*/ (0,jsx_runtime_.jsxs)(jsx_runtime_.Fragment, {
-                                    children: [
-                                        DataAcronimo,
-                                        " ",
-                                        /*#__PURE__*/ jsx_runtime_.jsx((KeyboardArrowDown_default()), {})
-                                    ]
-                                }),
-                                /*#__PURE__*/ jsx_runtime_.jsx("div", {
-                                    className: select ? `${(estilosConversor_module_default()).select_monedas} ${(estilosConversor_module_default()).select_activo}` : `${(estilosConversor_module_default()).select_monedas}`,
-                                    children: data?.filter((currency)=>currency.Name !== "HRK" && currency.Name !== "DKK" && currency.Name !== "RUB" && currency.Name !== "NOK" && currency.Name !== "SEK").map((data, i)=>/*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
-                                            className: (estilosConversor_module_default()).contenedor_list,
-                                            "data-acronimo": data?.Productos[0].Acronimo,
-                                            "data-precio": data?.Productos[0].Precio,
-                                            onClick: (e)=>{
-                                                captureCodigo(e);
-                                                MonedaSeleccionada();
-                                            },
-                                            children: [
-                                                /*#__PURE__*/ jsx_runtime_.jsx("div", {
-                                                    className: (estilosConversor_module_default()).bandera,
-                                                    children: /*#__PURE__*/ jsx_runtime_.jsx("img", {
-                                                        src: `/${data?.Productos[0].Acronimo}.png`,
-                                                        "data-acronimo": data?.Productos[0].Acronimo,
-                                                        "data-precio": data?.Productos[0].Precio,
-                                                        alt: data?.Productos[0].Acronimo
-                                                    })
-                                                }),
-                                                /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
-                                                    className: (estilosConversor_module_default()).moneda,
-                                                    children: [
-                                                        /*#__PURE__*/ jsx_runtime_.jsx("p", {
-                                                            "data-acronimo": data?.Productos[0].Acronimo,
-                                                            "data-precio": data?.Productos[0].Precio,
-                                                            children: data?.Productos[0].Acronimo
-                                                        }),
-                                                        /*#__PURE__*/ jsx_runtime_.jsx("span", {
-                                                            className: (estilosConversor_module_default()).nombre,
-                                                            "data-acronimo": data?.Productos[0].Acronimo,
-                                                            "data-precio": data?.Productos[0].Precio,
-                                                            children: data?.Productos[0].Nombre
-                                                        })
-                                                    ]
-                                                })
-                                            ]
-                                        }, i))
-                                })
-                            ]
-                        })
-                    }),
-                    /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
-                        className: (estilosConversor_module_default()).bloqueDerInput,
-                        children: [
-                            selectDivisa ? /*#__PURE__*/ jsx_runtime_.jsx((PowerInput_default()), {}) : /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
-                                className: (estilosConversor_module_default()).contenedorInput,
-                                children: [
-                                    switched ? /*#__PURE__*/ jsx_runtime_.jsx("input", {
-                                        style: {
-                                            border: "none"
-                                        },
-                                        type: "text",
-                                        pattern: "[0-9]*",
-                                        placeholder: "0.00",
-                                        inputMode: "numeric",
-                                        readOnly: true,
-                                        value: valorFinal2.toFixed(2)
-                                    }) : /*#__PURE__*/ jsx_runtime_.jsx("input", {
-                                        type: "text",
-                                        pattern: "[0-9]*",
-                                        placeholder: "0.00",
-                                        inputMode: "numeric",
-                                        className: (estilosConversor_module_default()).inputInferior,
-                                        onChange: (event)=>setValorInput(event.target.value)
-                                    }),
-                                    /*#__PURE__*/ jsx_runtime_.jsx("span", {
-                                        children: DataAcronimo
-                                    })
-                                ]
-                            }),
-                            selectDivisa ? /*#__PURE__*/ jsx_runtime_.jsx("p", {}) : /*#__PURE__*/ (0,jsx_runtime_.jsxs)("p", {
-                                children: [
-                                    "1",
-                                    DataAcronimo,
-                                    " = ",
-                                    precioDividido.toFixed(4),
-                                    "EUR"
-                                ]
-                            })
-                        ]
-                    })
-                ]
-            }),
-            /*#__PURE__*/ jsx_runtime_.jsx("div", {
-                className: (estilosConversor_module_default()).botonSwith,
-                children: /*#__PURE__*/ jsx_runtime_.jsx((ImportExport_default()), {
-                    onClick: (e)=>{
-                        setSwitched(!switched);
-                    }
-                })
-            }),
-            /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
-                className: (estilosConversor_module_default()).contenedorInputInferior,
-                children: [
-                    selectDivisa ? /*#__PURE__*/ jsx_runtime_.jsx("span", {}) : /*#__PURE__*/ jsx_runtime_.jsx("div", {
-                        className: (estilosConversor_module_default()).monedaInferior,
-                        children: "EUR"
-                    }),
-                    /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
-                        className: (estilosConversor_module_default()).bloqueDerInput,
-                        children: [
-                            selectDivisa ? /*#__PURE__*/ jsx_runtime_.jsx((PowerInput_default()), {}) : /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
-                                className: (estilosConversor_module_default()).contenedorInput,
-                                children: [
-                                    switched ? /*#__PURE__*/ jsx_runtime_.jsx("input", {
-                                        type: "text",
-                                        pattern: "[0-9]*",
-                                        placeholder: "Cantidad",
-                                        inputMode: "numeric",
-                                        className: (estilosConversor_module_default()).inputInferior,
-                                        onChange: (event)=>setValorInput(event.target.value)
-                                    }) : /*#__PURE__*/ jsx_runtime_.jsx("input", {
-                                        type: "text",
-                                        pattern: "[0-9]*",
-                                        placeholder: "Cantidad",
-                                        inputMode: "numeric",
-                                        value: valorFinal.toFixed(2),
-                                        readOnly: true,
-                                        style: {
-                                            border: "none"
-                                        }
-                                    }),
-                                    /*#__PURE__*/ jsx_runtime_.jsx("span", {
-                                        children: "EUR"
-                                    })
-                                ]
-                            }),
-                            selectDivisa ? /*#__PURE__*/ jsx_runtime_.jsx("p", {}) : /*#__PURE__*/ (0,jsx_runtime_.jsxs)("p", {
-                                children: [
-                                    "1EUR = ",
-                                    precioDividido2.toFixed(4),
-                                    DataAcronimo
-                                ]
-                            })
-                        ]
-                    })
-                ]
-            }),
-            /*#__PURE__*/ jsx_runtime_.jsx("a", {
-                className: (estilosConversor_module_default()).botonLlamarTienda,
-                href: "tel:900 373 629",
-                children: "LLAMAR A TIENDA"
-            })
-        ]
-    });
-};
-/* harmony default export */ const ConversorDivisa_Comprar = (Comprar_Comprar);
-
-;// CONCATENATED MODULE: ./src/componentes/Section_3/ConversorDivisa/Vender.js
-
-
-
-
-
-
-//import { useFetchData } from "../../utilities/DataTiendas";
-const Vender_Comprar = ()=>{
-    const nombreCiudad = "madrid";
-    const [data, setData] = useState([]);
-    const [loading, setLoading] = useState(null);
-    useEffect(()=>{
-        fetch(`https://quickgold.es/archivos-cache/Fixing${nombreCiudad}.txt`, {
-            cache: "no-cache"
-        }).then((response)=>response.json()).then((response)=>{
-            setData(response?.result?.Tarifas?.Divisas_Venta.reverse());
-            setLoading(true);
-        });
-    }, []);
-    //const { data, loading } = useFetchData();
-    //const dataCompras = datos?.result?.Tarifas?.Divisas_Compra;
-    //const dataReverse = dataCompras?.reverse();
-    const precioLibra = data[0]?.Productos[0].Precio / 1000;
-    const precioDolar = data[1]?.Productos[0].Precio / 1000;
-    const [valorMoneda, setValorMoneda] = useState("0");
-    const [DataAcronimo, setAcronimo] = useState("");
-    //const [DataNombre, setDataNombre] = useState("");
-    const [valorInput, setValorInput] = useState("");
-    const [selectDivisa, setSelectDivisa] = useState(true);
-    const [switched, setSwitched] = useState(null);
-    const [select, setSelect] = useState(null);
-    const precioDividido = valorMoneda / 1000;
-    const precioDividido2 = 1 / precioDividido;
-    const valorFinal = valorInput * precioDividido;
-    const valorFinal2 = valorInput / precioDividido;
-    const captureCodigo = (e)=>{
-        setAcronimo(e.target.dataset.acronimo);
-        //setDataNombre(e.target.dataset.nombre);
-        setValorMoneda(e.target.dataset.precio);
-    };
-    const MonedaSeleccionada = ()=>{
-        setSelectDivisa(false);
-    };
-    const captureHabitual = (e)=>{
-        setAcronimo(e.target.dataset.acronimo);
-        setValorMoneda(e.target.dataset.precio);
-        setSelectDivisa(false);
-    }; /*
-  const seleccion = () => {
-    setSelectOpen(true);
-  };*/ 
-    return /*#__PURE__*/ _jsxs("div", {
-        className: styles.bloqueDer,
-        children: [
-            /*#__PURE__*/ _jsxs("div", {
-                className: styles.bloqueDivHabituales,
-                children: [
-                    /*#__PURE__*/ _jsxs("div", {
-                        className: styles.bloqueTituloSuperior,
-                        children: [
-                            /*#__PURE__*/ _jsxs("h3", {
-                                children: [
-                                    "Conversor ",
-                                    /*#__PURE__*/ _jsx("span", {}),
-                                    " de divisa"
-                                ]
-                            }),
-                            /*#__PURE__*/ _jsx("p", {
-                                className: styles.tituloDivisaHabitual,
-                                children: "Divisas m\xe1s habituales:"
-                            })
-                        ]
-                    }),
-                    /*#__PURE__*/ _jsxs("div", {
-                        className: styles.divisasHabituales,
-                        children: [
-                            /*#__PURE__*/ _jsxs("div", {
-                                className: styles.dolar,
-                                onClick: (e)=>{
-                                    captureHabitual(e);
-                                    setSelect(false);
-                                },
-                                "data-acronimo": data[1]?.Productos[0]?.Acronimo,
-                                "data-precio": data[1]?.Productos[0]?.Precio,
-                                children: [
-                                    /*#__PURE__*/ _jsxs("div", {
-                                        className: styles.imgMoneda,
-                                        onClick: (e)=>{
-                                            captureHabitual(e);
-                                            setSelect(false);
-                                        },
-                                        "data-acronimo": data[1]?.Productos[0]?.Acronimo,
-                                        "data-precio": data[1]?.Productos[0]?.Precio,
-                                        children: [
-                                            /*#__PURE__*/ _jsx("img", {
-                                                src: "/banderaUSA.png",
-                                                onClick: (e)=>{
-                                                    captureHabitual(e);
-                                                    setSelect(false);
-                                                },
-                                                "data-acronimo": data[1]?.Productos[0]?.Acronimo,
-                                                "data-precio": data[1]?.Productos[0]?.Precio,
-                                                alt: data[1]?.Productos[0]?.Acronimo
-                                            }),
-                                            /*#__PURE__*/ _jsx("span", {
-                                                onClick: (e)=>{
-                                                    captureHabitual(e);
-                                                    setSelect(false);
-                                                },
-                                                "data-acronimo": data[1]?.Productos[0]?.Acronimo,
-                                                "data-precio": data[1]?.Productos[0]?.Precio,
-                                                children: "USD"
-                                            })
-                                        ]
-                                    }),
-                                    /*#__PURE__*/ _jsxs("div", {
-                                        className: styles.nombreMoneda,
-                                        children: [
-                                            /*#__PURE__*/ _jsx("p", {
-                                                onClick: (e)=>{
-                                                    captureHabitual(e);
-                                                    setSelect(false);
-                                                },
-                                                "data-acronimo": data[1]?.Productos[0]?.Acronimo,
-                                                "data-precio": data[1]?.Productos[0]?.Precio,
-                                                children: "D\xf3lar USA"
-                                            }),
-                                            /*#__PURE__*/ _jsx("p", {
-                                                onClick: (e)=>{
-                                                    captureHabitual(e);
-                                                    setSelect(false);
-                                                },
-                                                "data-acronimo": data[1]?.Productos[0]?.Acronimo,
-                                                "data-precio": data[1]?.Productos[0]?.Precio,
-                                                children: /*#__PURE__*/ _jsxs("span", {
-                                                    onClick: (e)=>{
-                                                        captureHabitual(e);
-                                                        setSelect(false);
-                                                    },
-                                                    "data-acronimo": data[1]?.Productos[0]?.Acronimo,
-                                                    "data-precio": data[1]?.Productos[0]?.Precio,
-                                                    children: [
-                                                        loading ? precioDolar.toFixed(4) : "Cargando...",
-                                                        "€"
-                                                    ]
-                                                })
-                                            })
-                                        ]
-                                    })
-                                ]
-                            }),
-                            /*#__PURE__*/ _jsxs("div", {
-                                className: styles.libra,
-                                onClick: (e)=>{
-                                    captureHabitual(e);
-                                    setSelect(false);
-                                },
-                                "data-acronimo": data[0]?.Productos[0]?.Acronimo,
-                                "data-precio": data[0]?.Productos[0]?.Precio,
-                                children: [
-                                    /*#__PURE__*/ _jsxs("div", {
-                                        className: styles.imgMoneda,
-                                        onClick: (e)=>{
-                                            captureHabitual(e);
-                                            setSelect(false);
-                                        },
-                                        "data-acronimo": data[0]?.Productos[0]?.Acronimo,
-                                        "data-precio": data[0]?.Productos[0]?.Precio,
-                                        children: [
-                                            /*#__PURE__*/ _jsx("img", {
-                                                src: "/banderaGBP.png",
-                                                onClick: (e)=>{
-                                                    captureHabitual(e);
-                                                    setSelect(false);
-                                                },
-                                                "data-acronimo": data[0]?.Productos[0]?.Acronimo,
-                                                "data-precio": data[0]?.Productos[0]?.Precio,
-                                                alt: data[0]?.Productos[0]?.Acronimo
-                                            }),
-                                            /*#__PURE__*/ _jsx("span", {
-                                                onClick: (e)=>{
-                                                    captureHabitual(e);
-                                                    setSelect(false);
-                                                },
-                                                "data-acronimo": data[0]?.Productos[0]?.Acronimo,
-                                                "data-precio": data[0]?.Productos[0]?.Precio,
-                                                children: "GBP"
-                                            })
-                                        ]
-                                    }),
-                                    /*#__PURE__*/ _jsxs("div", {
-                                        className: styles.nombreMoneda,
-                                        children: [
-                                            /*#__PURE__*/ _jsx("p", {
-                                                onClick: (e)=>{
-                                                    captureHabitual(e);
-                                                    setSelect(false);
-                                                },
-                                                "data-acronimo": data[0]?.Productos[0]?.Acronimo,
-                                                "data-precio": data[0]?.Productos[0]?.Precio,
-                                                children: "Libra Esterlina"
-                                            }),
-                                            /*#__PURE__*/ _jsx("p", {
-                                                onClick: (e)=>{
-                                                    captureHabitual(e);
-                                                    setSelect(false);
-                                                },
-                                                "data-acronimo": data[0]?.Productos[0]?.Acronimo,
-                                                "data-precio": data[0]?.Productos[0]?.Precio,
-                                                children: /*#__PURE__*/ _jsxs("span", {
-                                                    onClick: (e)=>{
-                                                        captureHabitual(e);
-                                                        setSelect(false);
-                                                    },
-                                                    "data-acronimo": data[0]?.Productos[0]?.Acronimo,
-                                                    "data-precio": data[0]?.Productos[0]?.Precio,
-                                                    children: [
-                                                        loading ? precioLibra.toFixed(4) : "Cargando...",
-                                                        "€"
-                                                    ]
-                                                })
-                                            })
-                                        ]
-                                    })
-                                ]
-                            })
-                        ]
-                    })
-                ]
-            }),
-            /*#__PURE__*/ _jsxs("div", {
-                className: styles.contenedorInputSuperior,
-                children: [
-                    /*#__PURE__*/ _jsx("div", {
-                        className: styles.bloqueIzqInput,
-                        children: /*#__PURE__*/ _jsxs("div", {
-                            className: styles.select,
-                            onClick: ()=>{
-                                setSelect(!select);
-                            },
-                            children: [
-                                selectDivisa ? /*#__PURE__*/ _jsxs(_Fragment, {
-                                    children: [
-                                        /*#__PURE__*/ _jsx("p", {
-                                            children: "Seleccione Divisa"
-                                        }),
-                                        /*#__PURE__*/ _jsx(KeyboardArrowDownIcon, {})
-                                    ]
-                                }) : /*#__PURE__*/ _jsxs(_Fragment, {
-                                    children: [
-                                        DataAcronimo,
-                                        " ",
-                                        /*#__PURE__*/ _jsx(KeyboardArrowDownIcon, {})
-                                    ]
-                                }),
-                                /*#__PURE__*/ _jsx("div", {
-                                    className: select ? `${styles.select_monedas} ${styles.select_activo}` : `${styles.select_monedas}`,
-                                    children: data?.filter((currency)=>currency.Name !== "HRK").map((data, i)=>/*#__PURE__*/ _jsxs("div", {
-                                            className: styles.contenedor_list,
-                                            "data-acronimo": data?.Productos[0].Acronimo,
-                                            "data-precio": data?.Productos[0].Precio,
-                                            onClick: (e)=>{
-                                                captureCodigo(e);
-                                                MonedaSeleccionada();
-                                            },
-                                            children: [
-                                                /*#__PURE__*/ _jsx("div", {
-                                                    className: styles.bandera,
-                                                    children: /*#__PURE__*/ _jsx("img", {
-                                                        src: `/${data?.Productos[0].Acronimo}.png`,
-                                                        "data-acronimo": data?.Productos[0].Acronimo,
-                                                        "data-precio": data?.Productos[0].Precio,
-                                                        alt: data?.Productos[0].Acronimo
-                                                    })
-                                                }),
-                                                /*#__PURE__*/ _jsxs("div", {
-                                                    className: styles.moneda,
-                                                    children: [
-                                                        /*#__PURE__*/ _jsx("p", {
-                                                            "data-acronimo": data?.Productos[0].Acronimo,
-                                                            "data-precio": data?.Productos[0].Precio,
-                                                            children: data?.Productos[0].Acronimo
-                                                        }),
-                                                        /*#__PURE__*/ _jsx("span", {
-                                                            className: styles.nombre,
-                                                            "data-acronimo": data?.Productos[0].Acronimo,
-                                                            "data-precio": data?.Productos[0].Precio,
-                                                            children: data?.Productos[0].Nombre
-                                                        })
-                                                    ]
-                                                })
-                                            ]
-                                        }, i))
-                                })
-                            ]
-                        })
-                    }),
-                    /*#__PURE__*/ _jsxs("div", {
-                        className: styles.bloqueDerInput,
-                        children: [
-                            selectDivisa ? /*#__PURE__*/ _jsx(PowerInputIcon, {}) : /*#__PURE__*/ _jsxs("div", {
-                                className: styles.contenedorInput,
-                                children: [
-                                    switched ? /*#__PURE__*/ _jsx("input", {
-                                        style: {
-                                            border: "none"
-                                        },
-                                        type: "text",
-                                        pattern: "[0-9]*",
-                                        placeholder: "0.00",
-                                        inputMode: "numeric",
-                                        readOnly: true,
-                                        //id="input-izquierdo"
-                                        //ref={refInput1}
-                                        //onChange={calcularCambio}
-                                        value: valorFinal2.toFixed(2)
-                                    }) : /*#__PURE__*/ _jsx("input", {
-                                        type: "text",
-                                        pattern: "[0-9]*",
-                                        placeholder: "0.00",
-                                        inputMode: "numeric",
-                                        className: styles.inputInferior,
-                                        //readOnly
-                                        //id="input-izquierdo"
-                                        //ref={refInput1}
-                                        //onChange={calcularCambio}
-                                        //value={valorFinal.toFixed(2)}
-                                        onChange: (event)=>setValorInput(event.target.value)
-                                    }),
-                                    /*#__PURE__*/ _jsx("span", {
-                                        children: DataAcronimo
-                                    })
-                                ]
-                            }),
-                            selectDivisa ? /*#__PURE__*/ _jsx("p", {}) : /*#__PURE__*/ _jsxs("p", {
-                                children: [
-                                    "1",
-                                    DataAcronimo,
-                                    " = ",
-                                    precioDividido.toFixed(4),
-                                    "EUR"
-                                ]
-                            })
-                        ]
-                    })
-                ]
-            }),
-            /*#__PURE__*/ _jsx("div", {
-                className: styles.botonSwith,
-                children: /*#__PURE__*/ _jsx(ImportExportIcon, {
-                    onClick: (e)=>{
-                        setSwitched(!switched);
-                    }
-                })
-            }),
-            /*#__PURE__*/ _jsxs("div", {
-                className: styles.contenedorInputInferior,
-                children: [
-                    selectDivisa ? /*#__PURE__*/ _jsx("span", {
-                        children: DataAcronimo
-                    }) : /*#__PURE__*/ _jsx("div", {
-                        className: styles.monedaInferior,
-                        children: "EUR"
-                    }),
-                    /*#__PURE__*/ _jsxs("div", {
-                        className: styles.bloqueDerInput,
-                        children: [
-                            selectDivisa ? /*#__PURE__*/ _jsx(PowerInputIcon, {}) : /*#__PURE__*/ _jsxs("div", {
-                                className: styles.contenedorInput,
-                                children: [
-                                    switched ? /*#__PURE__*/ _jsx("input", {
-                                        type: "text",
-                                        pattern: "[0-9]*",
-                                        placeholder: "Cantidad",
-                                        inputMode: "numeric",
-                                        className: styles.inputInferior,
-                                        //id="input-derecho"
-                                        //ref={refInput2}
-                                        //onChange={calcularCambio}
-                                        //value={valorFinal.toFixed(2)}
-                                        onChange: (event)=>setValorInput(event.target.value)
-                                    }) : /*#__PURE__*/ _jsx("input", {
-                                        type: "text",
-                                        pattern: "[0-9]*",
-                                        placeholder: "Cantidad",
-                                        inputMode: "numeric",
-                                        //id="input-derecho"
-                                        //ref={refInput2}
-                                        //onChange={calcularCambio}
-                                        value: valorFinal.toFixed(2),
-                                        readOnly: true,
-                                        style: {
-                                            border: "none"
-                                        }
-                                    }),
-                                    /*#__PURE__*/ _jsx("span", {
-                                        children: "EUR"
-                                    })
-                                ]
-                            }),
-                            selectDivisa ? /*#__PURE__*/ _jsx("p", {}) : /*#__PURE__*/ _jsxs("p", {
-                                children: [
-                                    "1EUR = ",
-                                    precioDividido2.toFixed(4),
-                                    DataAcronimo
-                                ]
-                            })
-                        ]
-                    })
-                ]
-            }),
-            /*#__PURE__*/ _jsx("a", {
-                className: styles.botonLlamarTienda,
-                href: "tel:900 373 629",
-                children: "LLAMAR A TIENDA"
-            })
-        ]
-    });
-};
-/* harmony default export */ const Vender = ((/* unused pure expression or super */ null && (Vender_Comprar)));
-
-;// CONCATENATED MODULE: ./src/componentes/Section_4/SectionCuatro.js
-
-
-
-
-
-const SectionDos = ({ ListadoCiudades  })=>{
-    const [switched, setSwitched] = useState(null);
-    return /*#__PURE__*/ _jsx("section", {
-        className: styles.contendorSectionDos,
-        children: /*#__PURE__*/ _jsxs("div", {
-            id: "bloqueCalculadora",
-            className: styles.contendorBloques,
-            children: [
-                /*#__PURE__*/ _jsx("p", {
-                    className: styles.tituloCalculadora,
-                    children: "\xbfCu\xe1l es el tipo de cambio d\xf3lar-euro?"
-                }),
-                /*#__PURE__*/ _jsx("p", {
-                    className: styles.textoCalculadora,
-                    children: "Selecciona la ciudad donde vas a cambiar tus d\xf3lares y podr\xe1s conocer al instante cu\xe1l es el tiempo de cambio, siempre actualizado"
-                }),
-                /*#__PURE__*/ _jsx(Comprar, {
-                    ListadoCiudades: ListadoCiudades
-                })
-            ]
-        })
-    });
-};
-/* harmony default export */ const SectionCuatro = ((/* unused pure expression or super */ null && (SectionDos)));
-
-;// CONCATENATED MODULE: ./src/componentes/Section_3/SectionTres.js
-
-
-//import Image from "next/image";
-
-
-
-const SectionTres_SectionCuatro = ({ ListadoCiudades , setCiudadOpen , ciudadOpen  })=>{
-    return /*#__PURE__*/ jsx_runtime_.jsx("section", {
-        className: (sectionCuatro_module_default()).contenedorSectionCuatro,
-        children: /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
-            className: (sectionCuatro_module_default()).contenedorSectionCuatroMargen,
-            children: [
-                /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
-                    className: (sectionCuatro_module_default()).bloqueIzq,
-                    children: [
-                        /*#__PURE__*/ jsx_runtime_.jsx("h2", {
-                            children: "Precio del d\xf3lar hoy"
-                        }),
-                        /*#__PURE__*/ (0,jsx_runtime_.jsxs)("p", {
-                            children: [
-                                "El precio del d\xf3lar hoy en Espa\xf1a es un tema de inter\xe9s para muchas personas que est\xe1n planeando viajar a Estados Unidos o que tienen transacciones internacionales. El valor del d\xf3lar en relaci\xf3n al euro puede fluctuar diariamente debido a diversos factores econ\xf3micos y pol\xedticos. En nuestra web puedes consultar la tasa de cambio actualizada siempre.",
-                                /*#__PURE__*/ jsx_runtime_.jsx("br", {}),
-                                /*#__PURE__*/ jsx_runtime_.jsx("br", {}),
-                                " En Quickgold te ofrecemos m\xe1s de 50 oficinas de cambio de d\xf3lares a euros por toda Espa\xf1a. Nuestras tiendas se encuentran en las mejores ubicaciones de cada ciudad y te ofrecemos un horario amplio de lunes a s\xe1bado (en determinadas tiendas podr\xe1s encontrar horario de apertura tambi\xe9n los domingos).",
-                                /*#__PURE__*/ jsx_runtime_.jsx("br", {}),
-                                /*#__PURE__*/ jsx_runtime_.jsx("br", {}),
-                                " Si quieres cambiar d\xf3lares a euros en Espa\xf1a, el precio puede variar, pero acudir a Quickgold es una excelente opci\xf3n para cambiar d\xf3lares a euros. Comprueba nuestro listado de tiendas y elige la m\xe1s cercana a tu ubicaci\xf3n. En nuestras casas de cambio de d\xf3lares ofrecemos tasas de cambio competitivas, transparencia y un servicio personalizado. Confiar en expertos en cambio de divisas te proporcionar\xe1 una experiencia segura y satisfactoria."
-                            ]
-                        })
-                    ]
-                }),
-                /*#__PURE__*/ jsx_runtime_.jsx("div", {
-                    className: (sectionCuatro_module_default()).bloqueDer,
-                    children: /*#__PURE__*/ jsx_runtime_.jsx(ConversorDivisa_Comprar, {
-                        ListadoCiudades: ListadoCiudades,
-                        setCiudadOpen: setCiudadOpen,
-                        ciudadOpen: ciudadOpen
-                    })
-                })
-            ]
-        })
-    });
-};
-/* harmony default export */ const SectionTres = (SectionTres_SectionCuatro);
 
 // EXTERNAL MODULE: ./src/componentes/Layout/layout.module.css
 var layout_module = __webpack_require__(6088);
@@ -1251,6 +383,23 @@ var Facebook_default = /*#__PURE__*/__webpack_require__.n(Facebook_namespaceObje
 ;// CONCATENATED MODULE: external "@mui/icons-material/Instagram"
 const Instagram_namespaceObject = require("@mui/icons-material/Instagram");
 var Instagram_default = /*#__PURE__*/__webpack_require__.n(Instagram_namespaceObject);
+;// CONCATENATED MODULE: ./src/utilities/useScreenSize.js
+
+if (false) { var height1, width1; }
+const useScreenSize = ()=>{
+    const [width, setWidth] = (0,external_react_.useState)(width1);
+    const [height, setHeight] = (0,external_react_.useState)(height1);
+    if (false) {}
+    return {
+        width,
+        height
+    };
+};
+/* harmony default export */ const utilities_useScreenSize = (useScreenSize);
+
+;// CONCATENATED MODULE: external "@mui/icons-material/KeyboardArrowDown"
+const KeyboardArrowDown_namespaceObject = require("@mui/icons-material/KeyboardArrowDown");
+var KeyboardArrowDown_default = /*#__PURE__*/__webpack_require__.n(KeyboardArrowDown_namespaceObject);
 ;// CONCATENATED MODULE: ./src/utilities/useSticky.js
 
 const useSticky = ()=>{
@@ -2226,12 +1375,95 @@ function Layout({ children , menu_list  }) {
     });
 }
 
-// EXTERNAL MODULE: ./src/componentes/Section_2/sectionDos.module.css
-var sectionDos_module = __webpack_require__(7261);
-var sectionDos_module_default = /*#__PURE__*/__webpack_require__.n(sectionDos_module);
+;// CONCATENATED MODULE: external "@bradgarropy/next-seo"
+const next_seo_namespaceObject = require("@bradgarropy/next-seo");
+var next_seo_default = /*#__PURE__*/__webpack_require__.n(next_seo_namespaceObject);
+// EXTERNAL MODULE: ./src/componentes/Compro-oro/Section_1/section_uno.module.css
+var section_uno_module = __webpack_require__(3588);
+var section_uno_module_default = /*#__PURE__*/__webpack_require__.n(section_uno_module);
 // EXTERNAL MODULE: ./node_modules/next/image.js
 var next_image = __webpack_require__(5675);
-;// CONCATENATED MODULE: ./src/componentes/Section_2/Section_dos.js
+var image_default = /*#__PURE__*/__webpack_require__.n(next_image);
+;// CONCATENATED MODULE: external "react-scroll"
+const external_react_scroll_namespaceObject = require("react-scroll");
+;// CONCATENATED MODULE: ./src/componentes/Compro-oro/Section_1/Section_uno.js
+
+
+
+
+
+
+//import PopUpCiudades from "@/componentes/PopUpCiudades/PopUpCiudades";
+const Section_uno = ({ ciudad , popUpCiudades  })=>{
+    const { width  } = utilities_useScreenSize();
+    return /*#__PURE__*/ (0,jsx_runtime_.jsxs)("section", {
+        className: (section_uno_module_default()).contenedorSectionUno,
+        children: [
+            /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
+                className: (section_uno_module_default()).bloqueIzq,
+                children: [
+                    /*#__PURE__*/ (0,jsx_runtime_.jsxs)("h1", {
+                        children: [
+                            "Tiendas compro oro ",
+                            /*#__PURE__*/ jsx_runtime_.jsx("span", {
+                                className: (section_uno_module_default()).linea,
+                                children: "quickgold"
+                            })
+                        ]
+                    }),
+                    /*#__PURE__*/ jsx_runtime_.jsx("p", {
+                        children: "Si tienes joyas de oro que ya no desees tener y quieres obtener dinero extra por ellas, elige vender tus piezas de oro en quickgold y te garantizamos el servicio que estabas buscando, con una tasaci\xf3n a la vista, detallada y a un precio justo. Somos tu Compro Oro de confianza."
+                    }),
+                    /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
+                        className: (section_uno_module_default()).botones,
+                        children: [
+                            /*#__PURE__*/ jsx_runtime_.jsx(external_react_scroll_namespaceObject.Link, {
+                                to: "calculadoraOro",
+                                smooth: true,
+                                offset: -110,
+                                spy: true,
+                                duration: 500,
+                                title: "texto",
+                                passive: "true",
+                                children: /*#__PURE__*/ jsx_runtime_.jsx("button", {
+                                    className: (section_uno_module_default()).botonPopUp,
+                                    title: "texto",
+                                    children: "CONOCE EL PRECIO DEL ORO"
+                                })
+                            }),
+                            /*#__PURE__*/ (0,jsx_runtime_.jsxs)("a", {
+                                className: (section_uno_module_default()).botonLlamar,
+                                href: `tel:${ciudad?.acf?.telefono}`,
+                                title: "Tel\xe9fono",
+                                children: [
+                                    "llama gratis al ",
+                                    ciudad?.acf?.telefono
+                                ]
+                            })
+                        ]
+                    })
+                ]
+            }),
+            /*#__PURE__*/ jsx_runtime_.jsx("div", {
+                className: (section_uno_module_default()).bloqueDer,
+                children: /*#__PURE__*/ jsx_runtime_.jsx((image_default()), {
+                    src: "/imagenComproOro.png",
+                    alt: "Compro oro",
+                    className: (section_uno_module_default()).madridMobil,
+                    width: 480,
+                    height: 364,
+                    priority: true
+                })
+            })
+        ]
+    });
+};
+/* harmony default export */ const Section_1_Section_uno = (Section_uno);
+
+// EXTERNAL MODULE: ./src/componentes/Compro-oro/Section_2/sectionDos.module.css
+var sectionDos_module = __webpack_require__(1738);
+var sectionDos_module_default = /*#__PURE__*/__webpack_require__.n(sectionDos_module);
+;// CONCATENATED MODULE: ./src/componentes/Compro-oro/Section_2/Section_dos.js
 
 
 
@@ -2240,18 +1472,23 @@ const Section_dos = ({ ciudad  })=>{
     return /*#__PURE__*/ (0,jsx_runtime_.jsxs)("section", {
         className: (sectionDos_module_default()).contenedorSectionDos,
         children: [
-            /*#__PURE__*/ jsx_runtime_.jsx("div", {
+            /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
                 className: (sectionDos_module_default()).bloqueSuperior,
-                children: /*#__PURE__*/ (0,jsx_runtime_.jsxs)("h2", {
-                    children: [
-                        "Ventajas de cambiar d\xf3lares en",
-                        " ",
-                        /*#__PURE__*/ jsx_runtime_.jsx("span", {
-                            className: (sectionDos_module_default()).linea,
-                            children: "quickgold"
-                        })
-                    ]
-                })
+                children: [
+                    /*#__PURE__*/ (0,jsx_runtime_.jsxs)("h2", {
+                        children: [
+                            "Disfruta de ventajas exclusivas en",
+                            " ",
+                            /*#__PURE__*/ jsx_runtime_.jsx("span", {
+                                className: (sectionDos_module_default()).linea,
+                                children: "quickgold"
+                            })
+                        ]
+                    }),
+                    /*#__PURE__*/ jsx_runtime_.jsx("p", {
+                        children: "*Para realizar una venta de oro es necesario ser mayor de edad y aportar DNI en vigor."
+                    })
+                ]
             }),
             /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
                 className: (sectionDos_module_default()).bloqueInferior,
@@ -2262,12 +1499,14 @@ const Section_dos = ({ ciudad  })=>{
                             /*#__PURE__*/ jsx_runtime_.jsx("div", {
                                 className: (sectionDos_module_default()).imagenventaja1,
                                 children: /*#__PURE__*/ jsx_runtime_.jsx("img", {
-                                    src: "/imagenVentaja1.png",
-                                    alt: "Mejor servicio y precio"
+                                    src: "/imagenventaja1.png",
+                                    alt: "Mejor servicio y precio",
+                                    width: 40,
+                                    height: 42
                                 })
                             }),
                             /*#__PURE__*/ jsx_runtime_.jsx("p", {
-                                children: "Servicio 100% personalizado"
+                                children: "Mejor servicio y precio garantizado."
                             })
                         ]
                     }),
@@ -2277,12 +1516,14 @@ const Section_dos = ({ ciudad  })=>{
                             /*#__PURE__*/ jsx_runtime_.jsx("div", {
                                 className: (sectionDos_module_default()).imagenventaja1,
                                 children: /*#__PURE__*/ jsx_runtime_.jsx("img", {
-                                    src: "/imagenVentaja2.png",
-                                    alt: "Mejor servicio y precio"
+                                    src: "/imagenventaja2.png",
+                                    alt: "Mejor servicio y precio",
+                                    width: 39,
+                                    height: 36
                                 })
                             }),
                             /*#__PURE__*/ jsx_runtime_.jsx("p", {
-                                children: "Precio del d\xf3lar siempre actualizado"
+                                children: "Precio del oro siempre actualizado."
                             })
                         ]
                     }),
@@ -2292,12 +1533,14 @@ const Section_dos = ({ ciudad  })=>{
                             /*#__PURE__*/ jsx_runtime_.jsx("div", {
                                 className: (sectionDos_module_default()).imagenventaja1,
                                 children: /*#__PURE__*/ jsx_runtime_.jsx("img", {
-                                    src: "/imagenVentaja3.png",
-                                    alt: "Mejor servicio y precio"
+                                    src: "/imagenventaja3.png",
+                                    alt: "Mejor servicio y precio",
+                                    width: 36,
+                                    height: 36
                                 })
                             }),
                             /*#__PURE__*/ jsx_runtime_.jsx("p", {
-                                children: "M\xe1s de 50 casas de cambio"
+                                children: "M\xe1s de 50 tiendas para realizar tu venta de oro."
                             })
                         ]
                     }),
@@ -2307,12 +1550,14 @@ const Section_dos = ({ ciudad  })=>{
                             /*#__PURE__*/ jsx_runtime_.jsx("div", {
                                 className: (sectionDos_module_default()).imagenventaja1,
                                 children: /*#__PURE__*/ jsx_runtime_.jsx("img", {
-                                    src: "/imagenVentaja4.png",
-                                    alt: "Mejor servicio y precio"
+                                    src: "/imagenventaja4.png",
+                                    alt: "Mejor servicio y precio",
+                                    width: 41,
+                                    height: 32
                                 })
                             }),
                             /*#__PURE__*/ jsx_runtime_.jsx("p", {
-                                children: "Mejor tipo de cambio de tu ciudad"
+                                children: "Atenci\xf3n personalizada."
                             })
                         ]
                     }),
@@ -2322,12 +1567,14 @@ const Section_dos = ({ ciudad  })=>{
                             /*#__PURE__*/ jsx_runtime_.jsx("div", {
                                 className: (sectionDos_module_default()).imagenventaja1,
                                 children: /*#__PURE__*/ jsx_runtime_.jsx("img", {
-                                    src: "/imagenVentaja5.png",
-                                    alt: "Mejor servicio y precio"
+                                    src: "/imagenventaja5.png",
+                                    alt: "Mejor servicio y precio",
+                                    width: 38,
+                                    height: 38
                                 })
                             }),
                             /*#__PURE__*/ jsx_runtime_.jsx("p", {
-                                children: "Euros en efectivo al instante"
+                                children: "Dinero en efectivo al instante."
                             })
                         ]
                     }),
@@ -2337,12 +1584,14 @@ const Section_dos = ({ ciudad  })=>{
                             /*#__PURE__*/ jsx_runtime_.jsx("div", {
                                 className: (sectionDos_module_default()).imagenventaja1,
                                 children: /*#__PURE__*/ jsx_runtime_.jsx("img", {
-                                    src: "/imagenVentaja6.png",
-                                    alt: "Mejor servicio y precio"
+                                    src: "/imagenventaja6.png",
+                                    alt: "Mejor servicio y precio",
+                                    width: 39,
+                                    height: 39
                                 })
                             }),
                             /*#__PURE__*/ jsx_runtime_.jsx("p", {
-                                children: "Sin comisiones"
+                                children: "Tasaci\xf3n profesional, justa y segura."
                             })
                         ]
                     })
@@ -2353,85 +1602,632 @@ const Section_dos = ({ ciudad  })=>{
 };
 /* harmony default export */ const Section_2_Section_dos = (Section_dos);
 
-// EXTERNAL MODULE: ./src/componentes/Section_5/sectionDos.module.css
-var Section_5_sectionDos_module = __webpack_require__(9111);
-var Section_5_sectionDos_module_default = /*#__PURE__*/__webpack_require__.n(Section_5_sectionDos_module);
-;// CONCATENATED MODULE: ./src/componentes/Section_5/Section_cinco.js
+// EXTERNAL MODULE: ./src/componentes/Compro-oro/Section_3/sectionTres.module.css
+var sectionTres_module = __webpack_require__(7211);
+var sectionTres_module_default = /*#__PURE__*/__webpack_require__.n(sectionTres_module);
+// EXTERNAL MODULE: ./src/componentes/ConversorPlata/conversor.module.css
+var conversor_module = __webpack_require__(7741);
+var conversor_module_default = /*#__PURE__*/__webpack_require__.n(conversor_module);
+;// CONCATENATED MODULE: ./src/componentes/ConversorPlata/CalculadoraOro.js
+
+
+
+
+const CalculadoraOro = ({ ciudad , ListadoCiudades  })=>{
+    //const nombreCiudad = ciudad?.acf?.ciudad_oro;
+    //const nombreCiudad = "alcaladehenares";
+    const [data, setData] = (0,external_react_.useState)([]);
+    const [loading, setLoading] = (0,external_react_.useState)(null);
+    const [ciudadSelect, setCiudadSelect] = (0,external_react_.useState)("");
+    (0,external_react_.useEffect)(()=>{
+        fetch(`https://quickgold.es/archivos-cache/Fixing${ciudadSelect}.txt`, {
+            cache: "no-cache"
+        }).then((response)=>response.json()).then((response)=>{
+            setData(response);
+            setLoading(true);
+        });
+    }, [
+        ciudadSelect
+    ]);
+    const [valorInput, setValorInput] = (0,external_react_.useState)("0.00");
+    const [valorSelect, setValorSelect] = (0,external_react_.useState)("0.00");
+    const [masDe, setMasDe] = (0,external_react_.useState)(true);
+    const precio24k = data?.result?.Tarifas?.Oro[12].Productos[0].Precio / 1000;
+    const precio18k = data?.result?.Tarifas?.Oro[2].Productos[0].Precio / 1000;
+    const precio14k = data?.result?.Tarifas?.Oro[10].Productos[0].Precio / 1000;
+    //const masDeOro = ciudad?.acf?.precio_mas_de_oro;
+    const masDeOro = 0.35;
+    const precioMas24k = (precio24k + parseFloat(masDeOro)).toFixed(2);
+    const precioMas18k = (precio18k + parseFloat(masDeOro)).toFixed(2);
+    const precioMas14k = (precio14k + parseFloat(masDeOro)).toFixed(2);
+    //const paraMasOro = ciudad?.acf?.para_mas_de_oro;
+    const paraMasOro = 100;
+    const valorSelectSuma = parseFloat(valorSelect) + parseFloat(masDeOro);
+    const valorSelectNormal = parseFloat(valorSelect);
+    const [selectKilates2, setSelectKilates2] = (0,external_react_.useState)(null);
+    const datosCiudad = ListadoCiudades.arrayMarker;
+    const [opened, setOpened] = (0,external_react_.useState)(true);
+    const [ciudadOpen, setCiudadOpen] = (0,external_react_.useState)(null);
+    const [DataNombre, setDataNombre] = (0,external_react_.useState)("");
+    const [DataNombreKilate, setDataNombreKilate] = (0,external_react_.useState)("");
+    const [selectKilates, setSelectKilates] = (0,external_react_.useState)(true);
+    const [selectKilates3, setSelectKilates3] = (0,external_react_.useState)(false);
+    return /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
+        className: (conversor_module_default()).contenedorAmbosBloquesOro,
+        children: [
+            /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
+                className: (conversor_module_default()).contenedorBloqueSuperior,
+                children: [
+                    /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
+                        className: (conversor_module_default()).bloqueIzq,
+                        children: [
+                            /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
+                                className: (conversor_module_default()).select_ciudad,
+                                children: [
+                                    /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
+                                        onClick: (event)=>{
+                                            setCiudadSelect(false);
+                                            setCiudadOpen(!ciudadOpen);
+                                            setSelectKilates(false);
+                                        },
+                                        className: (conversor_module_default()).select_ciudadOptionUno,
+                                        children: [
+                                            " ",
+                                            opened ? /*#__PURE__*/ (0,jsx_runtime_.jsxs)(jsx_runtime_.Fragment, {
+                                                children: [
+                                                    /*#__PURE__*/ jsx_runtime_.jsx("p", {
+                                                        children: "Seleccione ciudad"
+                                                    }),
+                                                    /*#__PURE__*/ jsx_runtime_.jsx((KeyboardArrowDown_default()), {})
+                                                ]
+                                            }) : /*#__PURE__*/ (0,jsx_runtime_.jsxs)(jsx_runtime_.Fragment, {
+                                                children: [
+                                                    DataNombre,
+                                                    " ",
+                                                    /*#__PURE__*/ jsx_runtime_.jsx((KeyboardArrowDown_default()), {})
+                                                ]
+                                            })
+                                        ]
+                                    }),
+                                    /*#__PURE__*/ jsx_runtime_.jsx("div", {
+                                        className: ciudadOpen ? `${(conversor_module_default()).contenedorOptions} ${(conversor_module_default()).contenedorOptionsActivo}` : `${(conversor_module_default()).contenedorOptions}`,
+                                        children: /*#__PURE__*/ jsx_runtime_.jsx("ul", {
+                                            children: datosCiudad.map((ciudad, i)=>/*#__PURE__*/ jsx_runtime_.jsx("li", {
+                                                    className: (conversor_module_default()).listaCiudad,
+                                                    onClick: (e)=>{
+                                                        //captureHabitual(e);
+                                                        //setAcronimo(e.target.dataset.acronimo);
+                                                        //setValorMoneda(e.target.dataset.precio);
+                                                        setCiudadSelect(e.target.dataset.minusculas);
+                                                        setDataNombre(e.target.dataset.nombre);
+                                                        setCiudadOpen(false);
+                                                        setSelectKilates(false);
+                                                        setSelectKilates3(false);
+                                                        setOpened(false);
+                                                    },
+                                                    "data-minusculas": ciudad.nombreMinusculas,
+                                                    "data-nombre": ciudad.nombre,
+                                                    children: ciudad.nombre
+                                                }, i))
+                                        })
+                                    })
+                                ]
+                            }),
+                            /*#__PURE__*/ jsx_runtime_.jsx("select", {
+                                className: (conversor_module_default()).select_ciudad_mobil,
+                                onChange: (e)=>{
+                                    setCiudadSelect(e.target.value);
+                                    setCiudadOpen(false);
+                                    setSelectKilates(false);
+                                    setSelectKilates3(false);
+                                    setOpened(false);
+                                },
+                                children: datosCiudad.map((ciudad, i)=>/*#__PURE__*/ jsx_runtime_.jsx("option", {
+                                        value: ciudad.nombreMinusculas,
+                                        children: ciudad.nombre
+                                    }, i))
+                            })
+                        ]
+                    }),
+                    /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
+                        className: (conversor_module_default()).botones,
+                        children: [
+                            /*#__PURE__*/ (0,jsx_runtime_.jsxs)("button", {
+                                onClick: ()=>{
+                                    setMasDe(true);
+                                },
+                                className: masDe ? `${(conversor_module_default()).button} ${(conversor_module_default()).botonActivo}` : `${(conversor_module_default()).button} `,
+                                children: [
+                                    "M\xe1s de ",
+                                    paraMasOro,
+                                    "g"
+                                ]
+                            }),
+                            /*#__PURE__*/ (0,jsx_runtime_.jsxs)("button", {
+                                onClick: ()=>{
+                                    setMasDe(false);
+                                },
+                                className: masDe ? `${(conversor_module_default()).button} ` : `${(conversor_module_default()).button} ${(conversor_module_default()).botonActivo}`,
+                                children: [
+                                    "Menos de ",
+                                    paraMasOro,
+                                    "g"
+                                ]
+                            })
+                        ]
+                    }),
+                    masDe ? /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
+                        className: (conversor_module_default()).contenedorPrecios,
+                        children: [
+                            /*#__PURE__*/ jsx_runtime_.jsx("div", {
+                                className: (conversor_module_default()).contenedorprecioDestacado,
+                                children: /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
+                                    className: (conversor_module_default()).precioDestacado,
+                                    children: [
+                                        /*#__PURE__*/ (0,jsx_runtime_.jsxs)("p", {
+                                            className: (conversor_module_default()).masde,
+                                            children: [
+                                                "M\xe1s de ",
+                                                paraMasOro,
+                                                "g"
+                                            ]
+                                        }),
+                                        !loading ? /*#__PURE__*/ jsx_runtime_.jsx("p", {
+                                            className: (conversor_module_default()).precio18k,
+                                            children: "Cargando"
+                                        }) : /*#__PURE__*/ (0,jsx_runtime_.jsxs)("p", {
+                                            className: (conversor_module_default()).precio18k,
+                                            children: [
+                                                selectKilates ? "--- " : precioMas18k,
+                                                /*#__PURE__*/ jsx_runtime_.jsx("span", {
+                                                    children: "€/g"
+                                                })
+                                            ]
+                                        }),
+                                        /*#__PURE__*/ jsx_runtime_.jsx("p", {
+                                            className: (conversor_module_default()).kilates,
+                                            children: "18K"
+                                        })
+                                    ]
+                                })
+                            }),
+                            /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
+                                className: (conversor_module_default()).contenedorOtrosPrecios,
+                                children: [
+                                    /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
+                                        className: (conversor_module_default()).OtrosPrecios,
+                                        children: [
+                                            !loading ? /*#__PURE__*/ jsx_runtime_.jsx("p", {
+                                                className: (conversor_module_default()).precio,
+                                                children: "Cargando"
+                                            }) : /*#__PURE__*/ (0,jsx_runtime_.jsxs)("p", {
+                                                className: (conversor_module_default()).precio,
+                                                children: [
+                                                    selectKilates ? "--- " : precioMas24k,
+                                                    " ",
+                                                    /*#__PURE__*/ jsx_runtime_.jsx("span", {
+                                                        children: "€/g"
+                                                    })
+                                                ]
+                                            }),
+                                            /*#__PURE__*/ jsx_runtime_.jsx("p", {
+                                                className: (conversor_module_default()).preciok,
+                                                children: "24K"
+                                            })
+                                        ]
+                                    }),
+                                    /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
+                                        className: (conversor_module_default()).OtrosPrecios,
+                                        children: [
+                                            !loading ? /*#__PURE__*/ jsx_runtime_.jsx("p", {
+                                                className: (conversor_module_default()).precio,
+                                                children: "Cargando"
+                                            }) : /*#__PURE__*/ (0,jsx_runtime_.jsxs)("p", {
+                                                className: (conversor_module_default()).precio,
+                                                children: [
+                                                    selectKilates ? "--- " : precioMas14k,
+                                                    " ",
+                                                    /*#__PURE__*/ jsx_runtime_.jsx("span", {
+                                                        children: "€/g"
+                                                    })
+                                                ]
+                                            }),
+                                            /*#__PURE__*/ jsx_runtime_.jsx("p", {
+                                                className: (conversor_module_default()).preciok,
+                                                children: "14K"
+                                            })
+                                        ]
+                                    })
+                                ]
+                            })
+                        ]
+                    }) : /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
+                        className: (conversor_module_default()).contenedorPrecios,
+                        children: [
+                            /*#__PURE__*/ jsx_runtime_.jsx("div", {
+                                className: (conversor_module_default()).contenedorprecioDestacado,
+                                children: /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
+                                    className: (conversor_module_default()).precioDestacado,
+                                    children: [
+                                        /*#__PURE__*/ (0,jsx_runtime_.jsxs)("p", {
+                                            className: (conversor_module_default()).masde,
+                                            children: [
+                                                "Menos de ",
+                                                paraMasOro,
+                                                "g"
+                                            ]
+                                        }),
+                                        /*#__PURE__*/ (0,jsx_runtime_.jsxs)("p", {
+                                            className: (conversor_module_default()).precio18k,
+                                            children: [
+                                                selectKilates ? "--- " : precio18k.toFixed(2),
+                                                /*#__PURE__*/ jsx_runtime_.jsx("span", {
+                                                    children: "€/g"
+                                                })
+                                            ]
+                                        }),
+                                        /*#__PURE__*/ jsx_runtime_.jsx("p", {
+                                            className: (conversor_module_default()).kilates,
+                                            children: "18K"
+                                        })
+                                    ]
+                                })
+                            }),
+                            /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
+                                className: (conversor_module_default()).contenedorOtrosPrecios,
+                                children: [
+                                    /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
+                                        className: (conversor_module_default()).OtrosPrecios,
+                                        children: [
+                                            /*#__PURE__*/ (0,jsx_runtime_.jsxs)("p", {
+                                                className: (conversor_module_default()).precio,
+                                                children: [
+                                                    selectKilates ? "--- " : precio24k.toFixed(2),
+                                                    " ",
+                                                    /*#__PURE__*/ jsx_runtime_.jsx("span", {
+                                                        children: "€/g"
+                                                    })
+                                                ]
+                                            }),
+                                            /*#__PURE__*/ jsx_runtime_.jsx("p", {
+                                                className: (conversor_module_default()).preciok,
+                                                children: "24K"
+                                            })
+                                        ]
+                                    }),
+                                    /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
+                                        className: (conversor_module_default()).OtrosPrecios,
+                                        children: [
+                                            /*#__PURE__*/ (0,jsx_runtime_.jsxs)("p", {
+                                                className: (conversor_module_default()).precio,
+                                                children: [
+                                                    selectKilates ? "--- " : precio14k.toFixed(2),
+                                                    " ",
+                                                    /*#__PURE__*/ jsx_runtime_.jsx("span", {
+                                                        children: "€/g"
+                                                    })
+                                                ]
+                                            }),
+                                            /*#__PURE__*/ jsx_runtime_.jsx("p", {
+                                                className: (conversor_module_default()).preciok,
+                                                children: "14K"
+                                            })
+                                        ]
+                                    })
+                                ]
+                            })
+                        ]
+                    })
+                ]
+            }),
+            /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
+                className: (conversor_module_default()).contenedorCalculadora,
+                children: [
+                    /*#__PURE__*/ (0,jsx_runtime_.jsxs)("h2", {
+                        children: [
+                            "\xbfCu\xe1nto ",
+                            /*#__PURE__*/ jsx_runtime_.jsx("span", {
+                                children: "te vamos a dar"
+                            }),
+                            " por tus joyas?"
+                        ]
+                    }),
+                    /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
+                        className: (conversor_module_default()).contenedorSelect,
+                        children: [
+                            /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
+                                className: (conversor_module_default()).Select,
+                                children: [
+                                    /*#__PURE__*/ jsx_runtime_.jsx("p", {
+                                        children: "Selecciona kilates"
+                                    }),
+                                    /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
+                                        className: (conversor_module_default()).SelectDiv,
+                                        onClick: ()=>{
+                                            setSelectKilates2(!selectKilates2);
+                                        },
+                                        children: [
+                                            /*#__PURE__*/ jsx_runtime_.jsx("span", {
+                                                className: (conversor_module_default()).SelectDivKilate,
+                                                "data-precio": precio18k.toFixed(2),
+                                                children: selectKilates3 ? DataNombreKilate : /*#__PURE__*/ (0,jsx_runtime_.jsxs)(jsx_runtime_.Fragment, {
+                                                    children: [
+                                                        /*#__PURE__*/ jsx_runtime_.jsx("span", {
+                                                            style: {
+                                                                color: "#000"
+                                                            },
+                                                            children: "---"
+                                                        }),
+                                                        " ",
+                                                        /*#__PURE__*/ jsx_runtime_.jsx((KeyboardArrowDown_default()), {
+                                                            style: {
+                                                                marginLeft: "65px"
+                                                            }
+                                                        })
+                                                    ]
+                                                })
+                                            }),
+                                            /*#__PURE__*/ jsx_runtime_.jsx("div", {
+                                                className: selectKilates2 ? `${(conversor_module_default()).contenedorKilates} ${(conversor_module_default()).contenedorKilatesActive}` : `${(conversor_module_default()).contenedorKilates}`,
+                                                children: /*#__PURE__*/ (0,jsx_runtime_.jsxs)("ul", {
+                                                    className: (conversor_module_default()).contenedorUl,
+                                                    children: [
+                                                        /*#__PURE__*/ jsx_runtime_.jsx("li", {
+                                                            onClick: (e)=>{
+                                                                setValorSelect(e.target.dataset.precio);
+                                                                setDataNombreKilate(e.target.dataset.nombre);
+                                                                setSelectKilates3(true);
+                                                            },
+                                                            "data-precio": precio18k.toFixed(2),
+                                                            "data-nombre": "18k",
+                                                            children: "18K"
+                                                        }),
+                                                        /*#__PURE__*/ jsx_runtime_.jsx("li", {
+                                                            onClick: (e)=>{
+                                                                setValorSelect(e.target.dataset.precio);
+                                                                setDataNombreKilate(e.target.dataset.nombre);
+                                                                setSelectKilates3(true);
+                                                            },
+                                                            "data-precio": precio14k.toFixed(2),
+                                                            "data-nombre": "14k",
+                                                            children: "14K"
+                                                        }),
+                                                        /*#__PURE__*/ jsx_runtime_.jsx("li", {
+                                                            onClick: (e)=>{
+                                                                setValorSelect(e.target.dataset.precio);
+                                                                setDataNombreKilate(e.target.dataset.nombre);
+                                                                setSelectKilates3(true);
+                                                            },
+                                                            "data-precio": precio24k.toFixed(2),
+                                                            "data-nombre": "24k",
+                                                            children: "24K"
+                                                        })
+                                                    ]
+                                                })
+                                            })
+                                        ]
+                                    })
+                                ]
+                            }),
+                            /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
+                                className: (conversor_module_default()).input,
+                                children: [
+                                    /*#__PURE__*/ jsx_runtime_.jsx("p", {
+                                        children: "Introduce gramos"
+                                    }),
+                                    /*#__PURE__*/ jsx_runtime_.jsx("input", {
+                                        placeholder: "Cantidad",
+                                        pattern: "[0-9]*",
+                                        inputMode: "numeric",
+                                        onChange: (event)=>setValorInput(event.target.value)
+                                    }),
+                                    /*#__PURE__*/ jsx_runtime_.jsx("span", {
+                                        children: "g"
+                                    })
+                                ]
+                            })
+                        ]
+                    }),
+                    /*#__PURE__*/ jsx_runtime_.jsx("p", {
+                        className: (conversor_module_default()).tituloInferior,
+                        children: "TE DAMOS POR TU ORO"
+                    }),
+                    /*#__PURE__*/ (0,jsx_runtime_.jsxs)("p", {
+                        className: (conversor_module_default()).precioFinal,
+                        children: [
+                            selectKilates3 ? valorInput > parseFloat(paraMasOro) ? (valorInput * valorSelectSuma).toLocaleString("es", {
+                                style: "currency",
+                                currency: "EUR"
+                            }) : (valorInput * valorSelectNormal).toLocaleString("es", {
+                                style: "currency",
+                                currency: "EUR"
+                            }) : "----",
+                            /*#__PURE__*/ jsx_runtime_.jsx("span", {})
+                        ]
+                    }),
+                    /*#__PURE__*/ jsx_runtime_.jsx("p", {
+                        className: (conversor_module_default()).promocion,
+                        children: /*#__PURE__*/ jsx_runtime_.jsx("span", {
+                            className: (conversor_module_default()).linea,
+                            children: "Promoci\xf3n Online"
+                        })
+                    }),
+                    /*#__PURE__*/ (0,jsx_runtime_.jsxs)("a", {
+                        className: (conversor_module_default()).botonLlamarTienda,
+                        href: `tel:${ciudad?.acf?.telefono}`,
+                        children: [
+                            "LLAMA GRATIS AL ",
+                            ciudad?.acf?.telefono
+                        ]
+                    })
+                ]
+            })
+        ]
+    });
+};
+/* harmony default export */ const ConversorPlata_CalculadoraOro = (CalculadoraOro);
+
+;// CONCATENATED MODULE: ./src/componentes/Compro-oro/Section_3/Section_tres.js
+
+
+
+
+
+const Section_tres = ({ ciudad , ListadoCiudades  })=>{
+    return /*#__PURE__*/ jsx_runtime_.jsx("section", {
+        className: (sectionTres_module_default()).contenedorSectionTres,
+        children: /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
+            className: (sectionTres_module_default()).contenedorSectionTresMargen,
+            children: [
+                /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
+                    className: (sectionTres_module_default()).bloqueIzq,
+                    children: [
+                        /*#__PURE__*/ (0,jsx_runtime_.jsxs)("h2", {
+                            children: [
+                                "Vender oro en ",
+                                /*#__PURE__*/ jsx_runtime_.jsx("span", {
+                                    className: (sectionTres_module_default()).linea,
+                                    children: "quickgold"
+                                }),
+                                " es f\xe1cil"
+                            ]
+                        }),
+                        /*#__PURE__*/ (0,jsx_runtime_.jsxs)("p", {
+                            children: [
+                                "El proceso de venta es muy sencillo y c\xf3modo. Primeramente, realizamos la tasaci\xf3n por parte de nuestro equipo de profesionales que te informar\xe1n en todo momento de los pasos que van efectuando. Adem\xe1s, \xe9sta se realiza siempre a la vista para que puedas comprobar por ti mismo los datos aportados por nuestras compa\xf1eras.",
+                                " "
+                            ]
+                        }),
+                        /*#__PURE__*/ jsx_runtime_.jsx("p", {
+                            children: "Puedes traernos cualquier pieza de oro de la cual te quieras desprender, no importa si est\xe1 deteriorada o desparejada. Una vez que hayamos comprobado la pureza de la misma y est\xe9s conforme con el precio de venta, basado en la cotizaci\xf3n del momento, se te otorgar\xe1 el efectivo."
+                        }),
+                        /*#__PURE__*/ jsx_runtime_.jsx("p", {
+                            children: "En quickgold llevamos al frente m\xe1s de 15 a\xf1os ofreciendo nuestro servicio de compro oro, por lo que cuentas con especialistas con una larga trayectoria que te ayudar\xe1n en todo lo que necesites. Como nos encanta recibir tu satisfacci\xf3n y confianza nos adaptamos a tus circunstancias ofreci\xe9ndote siempre el mejor servicio posible."
+                        }),
+                        /*#__PURE__*/ jsx_runtime_.jsx("div", {
+                            className: (sectionTres_module_default()).bloqueIzqInferior,
+                            children: /*#__PURE__*/ jsx_runtime_.jsx("p", {
+                                children: "Ven a cualquier tienda quickgold sin necesidad de cita previa, estaremos encantados de atenderte y ayudarte en la venta de tus joyas de oro."
+                            })
+                        })
+                    ]
+                }),
+                /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
+                    id: "calculadoraOro",
+                    className: (sectionTres_module_default()).bloqueDer,
+                    children: [
+                        /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
+                            className: (sectionTres_module_default()).bloqueSuperiorTexto,
+                            children: [
+                                /*#__PURE__*/ jsx_runtime_.jsx("div", {
+                                    children: /*#__PURE__*/ jsx_runtime_.jsx("img", {
+                                        src: "../../../../logoOro.png",
+                                        alt: "Logo Oro"
+                                    })
+                                }),
+                                /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
+                                    children: [
+                                        /*#__PURE__*/ jsx_runtime_.jsx("p", {
+                                            children: "Compra de oro"
+                                        }),
+                                        /*#__PURE__*/ jsx_runtime_.jsx("p", {
+                                            children: "Ciudad donde quieres comprar"
+                                        })
+                                    ]
+                                })
+                            ]
+                        }),
+                        /*#__PURE__*/ jsx_runtime_.jsx(ConversorPlata_CalculadoraOro, {
+                            ciudad: ciudad,
+                            ListadoCiudades: ListadoCiudades
+                        })
+                    ]
+                })
+            ]
+        })
+    });
+};
+/* harmony default export */ const Section_3_Section_tres = (Section_tres);
+
+// EXTERNAL MODULE: ./src/componentes/Compro-oro/Section_5/sectionCinco.module.css
+var sectionCinco_module = __webpack_require__(1470);
+var sectionCinco_module_default = /*#__PURE__*/__webpack_require__.n(sectionCinco_module);
+;// CONCATENATED MODULE: ./src/componentes/Compro-oro/Section_5/Section_cinco.js
 
 
 
 const Section_cinco = ({ ciudad  })=>{
     return /*#__PURE__*/ (0,jsx_runtime_.jsxs)("section", {
-        className: (Section_5_sectionDos_module_default()).contenedorSectionCinco,
+        className: (sectionCinco_module_default()).contenedorSectionCinco,
         children: [
             /*#__PURE__*/ jsx_runtime_.jsx("div", {
-                className: (Section_5_sectionDos_module_default()).contenedorSectionCincoMargen,
-                children: /*#__PURE__*/ (0,jsx_runtime_.jsxs)("h2", {
+                className: (sectionCinco_module_default()).contenedorSectionCincoMargen,
+                children: /*#__PURE__*/ (0,jsx_runtime_.jsxs)("h4", {
                     children: [
-                        "C\xf3mo vender d\xf3lares en ",
+                        "C\xf3mo vender oro en ",
                         /*#__PURE__*/ jsx_runtime_.jsx("span", {
-                            className: (Section_5_sectionDos_module_default()).linea,
+                            className: (sectionCinco_module_default()).linea,
                             children: "quickgold"
                         })
                     ]
                 })
             }),
             /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
-                className: (Section_5_sectionDos_module_default()).sectionCincoContenido,
+                className: (sectionCinco_module_default()).sectionCincoContenido,
                 children: [
                     /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
-                        className: (Section_5_sectionDos_module_default()).contenidoCard,
+                        className: (sectionCinco_module_default()).contenidoCard,
                         children: [
                             /*#__PURE__*/ jsx_runtime_.jsx("p", {
                                 children: "#1"
                             }),
                             /*#__PURE__*/ jsx_runtime_.jsx("p", {
-                                children: "Visita en tienda"
+                                children: "Comprobaci\xf3n inicial"
                             }),
                             /*#__PURE__*/ jsx_runtime_.jsx("p", {
-                                children: "Acude a nuestra casa de cambio de d\xf3lares m\xe1s cercana e ind\xedcanos la cantidad de d\xf3lares que quieres cambiar a euros. Recuerda que realizamos mejoras en el tipo de cambio seg\xfan la cantidad a cambiar as\xed que siempre te vamos a ofrecer nuestro mejor precio y la mejor tasa de cambio de tu ciudad."
+                                children: "La comprobaci\xf3n del oro sigue un procedimiento riguroso y claro, independientemente de que se trate de nuestro servicio de compraventa o empe\xf1o. Nuestras compa\xf1eras, por seguridad, realizar\xe1n una comprobaci\xf3n previa para ver el estado y procedencia de \xe9stas. No importa si est\xe1n rotas o desparejadas, utilizaremos un im\xe1n y una comprobaci\xf3n visual con lupa de los contrastes de la pieza para determinar si es oro."
                             })
                         ]
                     }),
                     /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
-                        className: (Section_5_sectionDos_module_default()).contenidoCard,
+                        className: (sectionCinco_module_default()).contenidoCard,
                         children: [
                             /*#__PURE__*/ jsx_runtime_.jsx("p", {
                                 children: "#2"
                             }),
                             /*#__PURE__*/ jsx_runtime_.jsx("p", {
-                                children: "Acuerdo en precio"
+                                children: "Tasaci\xf3n profesional a la vista"
                             }),
                             /*#__PURE__*/ jsx_runtime_.jsx("p", {
-                                children: "Seg\xfan el tipo de cambio del d\xf3lar en ese momento, fijaremos el mejor precio del d\xf3lar hoy y comprobaremos tus d\xf3lares antes de realiza la transacci\xf3n."
+                                children: "Una vez realizada la comprobaci\xf3n previa. Comenzamos con el proceso de tasaci\xf3n utilizando herramientas homologadas. Todos los pasos que nuestras compa\xf1eras van efectuando se detallan al cliente, adem\xe1s, cada uno de ellos se realiza a la vista para que resulte un proceso totalmente transparente. Utilizaremos dens\xedmetros para determinar el quilataje de la pieza y \xe1cidos que por norma general no ser\xe1 inferior a 14K."
                             })
                         ]
                     }),
                     /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
-                        className: (Section_5_sectionDos_module_default()).contenidoCard,
+                        className: (sectionCinco_module_default()).contenidoCard,
                         children: [
                             /*#__PURE__*/ jsx_runtime_.jsx("p", {
                                 children: "#3"
                             }),
                             /*#__PURE__*/ jsx_runtime_.jsx("p", {
-                                children: "Firma comprobante"
+                                children: "Valoraci\xf3n de las piezas de oro"
                             }),
                             /*#__PURE__*/ jsx_runtime_.jsx("p", {
-                                children: "Te haremos firmar un comprobante en el que se indica la cantidad de d\xf3lares que nos has tra\xeddo y la cantidad de euros que recibes, un documento sencillo y r\xe1pido de gestionar."
+                                children: "Una vez tasadas las joyas de oro se ofrece un importe basado en la cotizaci\xf3n actual del mercado. Si est\xe1s de acuerdo con \xe9ste tan s\xf3lo necesitamos tu DNI u otra identificaci\xf3n en vigor para realizar la compra de las joyas. Recuerda que debes ser mayor de edad y presentar DNI en vigor."
                             })
                         ]
                     }),
                     /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
-                        className: (Section_5_sectionDos_module_default()).contenidoCard,
+                        className: (sectionCinco_module_default()).contenidoCard,
                         children: [
                             /*#__PURE__*/ jsx_runtime_.jsx("p", {
                                 children: "#4"
                             }),
                             /*#__PURE__*/ jsx_runtime_.jsx("p", {
-                                children: "Pago inmediato"
+                                children: "Pago inmediato del valor fijado y acordado"
                             }),
                             /*#__PURE__*/ jsx_runtime_.jsx("p", {
-                                children: "Una vez tenemos los d\xf3lares y el comprobante de la operaci\xf3n, nuestro equipo te dar\xe1 un sobre con los euros en efectivo que se acordaron para el pago."
+                                children: "Te entregaremos el importe acordado en el momento para que dispongas de forma inmediata el efectivo de la transacci\xf3n. Te garantizamos, durante todo el proceso de venta, el mejor servicio y atenci\xf3n para tu satisfacci\xf3n. Siempre con la sonrisa que nos provoca realizar el trabajo que nos encanta poder ofrecerte."
                             })
                         ]
                     })
@@ -2442,8 +2238,8 @@ const Section_cinco = ({ ciudad  })=>{
 };
 /* harmony default export */ const Section_5_Section_cinco = (Section_cinco);
 
-// EXTERNAL MODULE: ./src/componentes/Section_6/sectionSeis.module.css
-var sectionSeis_module = __webpack_require__(8869);
+// EXTERNAL MODULE: ./src/componentes/Compro-oro/Section_6/sectionSeis.module.css
+var sectionSeis_module = __webpack_require__(4988);
 var sectionSeis_module_default = /*#__PURE__*/__webpack_require__.n(sectionSeis_module);
 // EXTERNAL MODULE: ./src/componentes/SelectorCiudadesServicio/SelectorCiudades.module.css
 var SelectorCiudades_module = __webpack_require__(8410);
@@ -2486,7 +2282,7 @@ const SelectorCiudadesServicio = ({ listadoCiudadesServicios  })=>{
 };
 /* harmony default export */ const SelectorCiudadesServicio_SelectorCiudadesServicio = (SelectorCiudadesServicio);
 
-;// CONCATENATED MODULE: ./src/componentes/Section_6/Section_seis.js
+;// CONCATENATED MODULE: ./src/componentes/Compro-oro/Section_6/Section_seis.js
 
 
 
@@ -2505,13 +2301,128 @@ const Section_seis = ({ listadoCiudadesServicios  })=>{
                     className: (sectionSeis_module_default()).BannerSelectorCiudad,
                     children: [
                         /*#__PURE__*/ jsx_runtime_.jsx("h5", {
-                            children: "Nuestras casas de cambio"
+                            children: "Nuestras tiendas compro oro"
                         }),
                         /*#__PURE__*/ jsx_runtime_.jsx("div", {
                             className: (sectionSeis_module_default()).SelectCiudades,
                             children: /*#__PURE__*/ jsx_runtime_.jsx(SelectorCiudadesServicio_SelectorCiudadesServicio, {
                                 listadoCiudadesServicios: listadoCiudadesServicios
                             })
+                        })
+                    ]
+                }),
+                /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
+                    className: (sectionSeis_module_default()).contenedorTexto,
+                    children: [
+                        /*#__PURE__*/ jsx_runtime_.jsx("h5", {
+                            children: "\xbfQu\xe9 tipo de oro hay en el mercado?"
+                        }),
+                        /*#__PURE__*/ jsx_runtime_.jsx("p", {
+                            children: "Existe diferentes tipo de oro seg\xfan sus quilates, caracter\xedsticas, calidad, etc."
+                        })
+                    ]
+                }),
+                /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
+                    className: (sectionSeis_module_default()).contenedorTiposOro,
+                    children: [
+                        /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
+                            className: (sectionSeis_module_default()).contenedorTiposOroCard1,
+                            children: [
+                                /*#__PURE__*/ jsx_runtime_.jsx("p", {
+                                    children: "Oro 24K "
+                                }),
+                                /*#__PURE__*/ jsx_runtime_.jsx("p", {
+                                    children: "Es m\xe1s conocido por ser el llamado \xaboro de inversi\xf3n\xbb. Tiene un grado de pureza de 99,9% por lo que se le considera oro puro. Lo encontrar\xe1s en lingotes de oro."
+                                })
+                            ]
+                        }),
+                        /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
+                            className: (sectionSeis_module_default()).contenedorTiposOroCard2,
+                            children: [
+                                /*#__PURE__*/ jsx_runtime_.jsx("p", {
+                                    children: "Oro 18K "
+                                }),
+                                /*#__PURE__*/ jsx_runtime_.jsx("p", {
+                                    children: "El oro alto tiene una pureza del 75%. Es el m\xe1s usado en joyer\xeda y orfebrer\xeda."
+                                })
+                            ]
+                        }),
+                        /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
+                            className: (sectionSeis_module_default()).contenedorTiposOroCard1,
+                            children: [
+                                /*#__PURE__*/ jsx_runtime_.jsx("p", {
+                                    children: "Oro 14K "
+                                }),
+                                /*#__PURE__*/ jsx_runtime_.jsx("p", {
+                                    children: "Es conocido como oro bajo ya que tiene una pureza del 60% y est\xe1 compuesto por 14 partes de oro y 10 de otros metales."
+                                })
+                            ]
+                        }),
+                        /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
+                            className: (sectionSeis_module_default()).contenedorTiposOroCard2,
+                            children: [
+                                /*#__PURE__*/ jsx_runtime_.jsx("p", {
+                                    children: "Oro amarillo "
+                                }),
+                                /*#__PURE__*/ jsx_runtime_.jsx("p", {
+                                    children: "Se trata de oro noble cuyo color no suele cambiar y suele ser de 24K o 18K."
+                                })
+                            ]
+                        }),
+                        /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
+                            className: (sectionSeis_module_default()).contenedorTiposOroCard1,
+                            children: [
+                                /*#__PURE__*/ jsx_runtime_.jsx("p", {
+                                    children: "Oro blanco "
+                                }),
+                                /*#__PURE__*/ jsx_runtime_.jsx("p", {
+                                    children: "Com\xfanmente es de 18K y contiene un 75% de oro fino y una aleaci\xf3n de paladio o de Liga Italiana (material proveniente de Italia de alta calidad que permite realizar una mejor fundici\xf3n)."
+                                })
+                            ]
+                        }),
+                        /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
+                            className: (sectionSeis_module_default()).contenedorTiposOroCard2,
+                            children: [
+                                /*#__PURE__*/ jsx_runtime_.jsx("p", {
+                                    children: "Oro rosado "
+                                }),
+                                /*#__PURE__*/ jsx_runtime_.jsx("p", {
+                                    children: "Es una mezcla de oro fijo, cobre y plata."
+                                })
+                            ]
+                        }),
+                        /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
+                            className: (sectionSeis_module_default()).contenedorTiposOroCard1,
+                            children: [
+                                /*#__PURE__*/ jsx_runtime_.jsx("p", {
+                                    children: "Oro rojo "
+                                }),
+                                /*#__PURE__*/ jsx_runtime_.jsx("p", {
+                                    children: "Oro mezclado con cobre."
+                                })
+                            ]
+                        }),
+                        /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
+                            className: (sectionSeis_module_default()).contenedorTiposOroCard2,
+                            children: [
+                                /*#__PURE__*/ jsx_runtime_.jsx("p", {
+                                    children: "Oro gris "
+                                }),
+                                /*#__PURE__*/ jsx_runtime_.jsx("p", {
+                                    children: "Mezcla de oro y n\xedquel que se presenta en bajas denominaciones de quilates."
+                                })
+                            ]
+                        }),
+                        /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
+                            className: (sectionSeis_module_default()).contenedorTiposOroCard1,
+                            children: [
+                                /*#__PURE__*/ jsx_runtime_.jsx("p", {
+                                    children: "Oro verde "
+                                }),
+                                /*#__PURE__*/ jsx_runtime_.jsx("p", {
+                                    children: "Oro mezclado con plata."
+                                })
+                            ]
                         })
                     ]
                 })
@@ -2521,10 +2432,8 @@ const Section_seis = ({ listadoCiudadesServicios  })=>{
 };
 /* harmony default export */ const Section_6_Section_seis = (Section_seis);
 
-;// CONCATENATED MODULE: external "@bradgarropy/next-seo"
-const next_seo_namespaceObject = require("@bradgarropy/next-seo");
-var next_seo_default = /*#__PURE__*/__webpack_require__.n(next_seo_namespaceObject);
 ;// CONCATENATED MODULE: ./src/pages/index.js
+
 
 
 
@@ -2540,7 +2449,7 @@ const schema = {
     "@context": "http://www.schema.org",
     "@type": "Organization",
     name: "Quickgold",
-    url: "https://quickgold.es/cambio-dolares-euros/",
+    url: "https://quickgold.es/compro-oro/",
     sameAs: [
         "https://instagram.com/quickgold.es",
         "https://twitter.com/quickgoldqg",
@@ -2548,7 +2457,7 @@ const schema = {
     ],
     logo: "https://quickgold.es/wp-content/uploads/img/logo.jpg",
     image: "https://quickgold.es/wp-content/uploads/img/logo.jpg",
-    description: "Cambia d\xf3lares por euros en nuestras oficinas de cambio de divisas Quickgold. Precio del d\xf3lar siempre actualizado y el mejor tipo de cambio de tu ciudad.",
+    description: "Quickgold es tu tienda compro oro de confianza. Obt\xe9n dinero extra por las joyas de oro que ya no quieras. Tasaci\xf3n transparente y segura.",
     address: {
         "@type": "PostalAddress",
         addressCountry: "Espa\xf1a"
@@ -2559,12 +2468,12 @@ const schema = {
         contactType: "info@quickgold.es"
     }
 };
-function Home({ menu_list , ListadoCiudades , listadoCiudadesServicios  }) {
+function Home({ menu_list , ListadoCiudades , listadoCiudadesServicios , ciudad  }) {
     return /*#__PURE__*/ (0,jsx_runtime_.jsxs)(jsx_runtime_.Fragment, {
         children: [
             /*#__PURE__*/ jsx_runtime_.jsx((next_seo_default()), {
-                title: "Cambiar d\xf3lares a euros | Precio del d\xf3lar hoy en Quickgold",
-                description: "Cambia d\xf3lares por euros en nuestras oficinas de cambio de divisas Quickgold. Precio del d\xf3lar siempre actualizado y el mejor tipo de cambio de tu ciudad.",
+                title: "Compro Oro al Mejor Precio. Tiendas Compro Oro | Quickgold",
+                description: "Quickgold es tu tienda compro oro de confianza. Obt\xe9n dinero extra por las joyas de oro que ya no quieras. Tasaci\xf3n transparente y segura.",
                 icon: "../../../../assets/favicon.png",
                 facebook: {
                     image: "/facebook.png",
@@ -2586,10 +2495,6 @@ function Home({ menu_list , ListadoCiudades , listadoCiudadesServicios  }) {
                         }
                     }),
                     /*#__PURE__*/ jsx_runtime_.jsx("meta", {
-                        name: "TTBUdVkwdzVOOVRpSWV3Nk03anRNMj10",
-                        value: "934244db009f8690634f7f94258d34e2"
-                    }),
-                    /*#__PURE__*/ jsx_runtime_.jsx("meta", {
                         name: "viewport",
                         content: "width=device-width, initial-scale=1"
                     }),
@@ -2604,15 +2509,29 @@ function Home({ menu_list , ListadoCiudades , listadoCiudadesServicios  }) {
                 children: /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
                     className: (Home_module_default()).main,
                     children: [
-                        /*#__PURE__*/ jsx_runtime_.jsx(Breadcrumbs_Breadcrumbs, {}),
-                        /*#__PURE__*/ jsx_runtime_.jsx(Section_1_Section_uno, {}),
-                        /*#__PURE__*/ jsx_runtime_.jsx(SectionTres, {
+                        /*#__PURE__*/ jsx_runtime_.jsx(Breadcrumbs_Breadcrumbs, {
+                            raiz: "Quickgold",
+                            iconoRaiz: /*#__PURE__*/ jsx_runtime_.jsx((KeyboardArrowRight_default()), {}),
+                            urlUbicacionActual: "https://quickgold.es/compro-oro/",
+                            iconoUbiccionActual: /*#__PURE__*/ jsx_runtime_.jsx((KeyboardArrowRight_default()), {}),
+                            ubicacionActual: "Compro Oro"
+                        }),
+                        /*#__PURE__*/ jsx_runtime_.jsx(Section_1_Section_uno, {
+                            ciudad: ciudad
+                        }),
+                        /*#__PURE__*/ jsx_runtime_.jsx(Section_2_Section_dos, {
+                            ciudad: ciudad
+                        }),
+                        /*#__PURE__*/ jsx_runtime_.jsx(Section_3_Section_tres, {
+                            ciudad: ciudad,
                             ListadoCiudades: ListadoCiudades
                         }),
-                        /*#__PURE__*/ jsx_runtime_.jsx(Section_2_Section_dos, {}),
-                        /*#__PURE__*/ jsx_runtime_.jsx(Section_5_Section_cinco, {}),
+                        /*#__PURE__*/ jsx_runtime_.jsx(Section_5_Section_cinco, {
+                            ciudad: ciudad
+                        }),
                         /*#__PURE__*/ jsx_runtime_.jsx(Section_6_Section_seis, {
-                            listadoCiudadesServicios: listadoCiudadesServicios
+                            listadoCiudadesServicios: listadoCiudadesServicios,
+                            ciudad: ciudad
                         })
                     ]
                 })
@@ -2620,23 +2539,26 @@ function Home({ menu_list , ListadoCiudades , listadoCiudadesServicios  }) {
         ]
     });
 }
-//const idWp = "13848";
+const idPaginaWp = "326";
 async function getStaticProps() {
     /*const response = await fetch(
     `https://quickgold.es/wp-json/wp/v2/pages/${idWp}`
   );
   const dataIdWp = await response.json();*/ const Listado = await fetch(`https://quickgold.es/listadoCiudades.json`);
     const ListadoCiudades = await Listado.json();
-    const listadoServicio = await fetch(`https://quickgold.es/listadoCiudadesServicio.json`);
+    const listadoServicio = await fetch(`https://quickgold.es/listadoCiudadesServicioOro.json`);
     const listadoCiudadesServicios = await listadoServicio.json();
     const menu = await fetch(`https://admin.quickgold.es/wp-json/menus/v1/menus/2`);
     const menu_list = await menu.json();
+    const ciudad1 = await fetch(`https://quickgold.es/wp-json/acf/v3/pages/${idPaginaWp}`);
+    const ciudad = await ciudad1.json();
     // Pass data to the page via props
     return {
         props: {
             menu_list,
             ListadoCiudades,
-            listadoCiudadesServicios
+            listadoCiudadesServicios,
+            ciudad
         },
         revalidate: 1
     };
@@ -2740,7 +2662,7 @@ module.exports = require("react/jsx-runtime");
 var __webpack_require__ = require("../webpack-runtime.js");
 __webpack_require__.C(exports);
 var __webpack_exec__ = (moduleId) => (__webpack_require__(__webpack_require__.s = moduleId))
-var __webpack_exports__ = __webpack_require__.X(0, [210,121,675], () => (__webpack_exec__(7431)));
+var __webpack_exports__ = __webpack_require__.X(0, [210,121,675], () => (__webpack_exec__(7555)));
 module.exports = __webpack_exports__;
 
 })();

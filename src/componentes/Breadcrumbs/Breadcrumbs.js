@@ -11,11 +11,8 @@ const Breadcrumbs = () => {
         </a>
         <KeyboardArrowRightIcon />
       </div>
-      <a
-        href="https://quickgold.es/dolar-euro/"
-        title="Ir a casa cambio madrid"
-      >
-        Cambio dolares - euros
+      <a href="https://quickgold.es/compro-oro/" title="Compro oro">
+        Compro oro
       </a>
     </div>
   );
