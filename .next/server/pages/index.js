@@ -2116,7 +2116,7 @@ const Section_tres = ({ ciudad , ListadoCiudades  })=>{
                                             children: "Compra de oro"
                                         }),
                                         /*#__PURE__*/ jsx_runtime_.jsx("p", {
-                                            children: "Ciudad donde quieres comprar"
+                                            children: "Ciudad donde quieres vender"
                                         })
                                     ]
                                 })

@@ -51,7 +51,7 @@ const Section_tres = ({ ciudad, ListadoCiudades }) => {
             </div>
             <div>
               <p>Compra de oro</p>
-              <p>Ciudad donde quieres comprar</p>
+              <p>Ciudad donde quieres vender</p>
             </div>
           </div>
           <CalculadoraOro ciudad={ciudad} ListadoCiudades={ListadoCiudades} />
