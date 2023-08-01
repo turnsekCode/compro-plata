@@ -20,11 +20,10 @@ const Section_tres = ({ ciudad, ListadoCiudades }) => {
             por ti mismo los datos aportados por nuestras compañeras.{" "}
           </p>
           <p>
-            Puedes traernos cualquier pieza de oro de la cual te quieras
-            desprender, no importa si está deteriorada o desparejada. Una vez
-            que hayamos comprobado la pureza de la misma y estés conforme con el
-            precio de venta, basado en la cotización del momento, se te otorgará
-            el efectivo.
+            Puedes traernos cualquier pieza de oro, no importa si está
+            deteriorada o desparejada. Una vez que hayamos comprobado la pureza
+            de la misma calculamos su valor basado en la cotización del momento,
+            y te abonamos el importe en efectivo o por transferencia.
           </p>
           <p>
             En quickgold llevamos al frente más de 15 años ofreciendo nuestro

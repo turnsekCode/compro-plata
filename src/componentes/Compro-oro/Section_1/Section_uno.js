@@ -15,7 +15,7 @@ const Section_uno = ({ ciudad }) => {
         <p>
           Si tienes joyas de oro que ya no desees tener y quieres obtener dinero
           extra por ellas, elige vender tus piezas de oro en quickgold y te
-          garantizamos el servicio que estabas buscando, con una tasación a la
+          garantizamos el servicio que estabas buscando, con una valoración a la
           vista, detallada y a un precio justo. Somos tu Compro Oro de
           confianza.
         </p>

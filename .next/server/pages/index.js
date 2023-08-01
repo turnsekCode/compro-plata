@@ -1410,7 +1410,7 @@ const Section_uno = ({ ciudad  })=>{
                         ]
                     }),
                     /*#__PURE__*/ jsx_runtime_.jsx("p", {
-                        children: "Si tienes joyas de oro que ya no desees tener y quieres obtener dinero extra por ellas, elige vender tus piezas de oro en quickgold y te garantizamos el servicio que estabas buscando, con una tasaci\xf3n a la vista, detallada y a un precio justo. Somos tu Compro Oro de confianza."
+                        children: "Si tienes joyas de oro que ya no desees tener y quieres obtener dinero extra por ellas, elige vender tus piezas de oro en quickgold y te garantizamos el servicio que estabas buscando, con una valoraci\xf3n a la vista, detallada y a un precio justo. Somos tu Compro Oro de confianza."
                     }),
                     /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
                         className: (section_uno_module_default()).botones,
@@ -2084,7 +2084,7 @@ const Section_tres = ({ ciudad , ListadoCiudades  })=>{
                             ]
                         }),
                         /*#__PURE__*/ jsx_runtime_.jsx("p", {
-                            children: "Puedes traernos cualquier pieza de oro de la cual te quieras desprender, no importa si est\xe1 deteriorada o desparejada. Una vez que hayamos comprobado la pureza de la misma y est\xe9s conforme con el precio de venta, basado en la cotizaci\xf3n del momento, se te otorgar\xe1 el efectivo."
+                            children: "Puedes traernos cualquier pieza de oro, no importa si est\xe1 deteriorada o desparejada. Una vez que hayamos comprobado la pureza de la misma calculamos su valor basado en la cotizaci\xf3n del momento, y te abonamos el importe en efectivo o por transferencia."
                         }),
                         /*#__PURE__*/ jsx_runtime_.jsx("p", {
                             children: "En quickgold llevamos al frente m\xe1s de 15 a\xf1os ofreciendo nuestro servicio de compro oro, por lo que cuentas con especialistas con una larga trayectoria que te ayudar\xe1n en todo lo que necesites. Como nos encanta recibir tu satisfacci\xf3n y confianza nos adaptamos a tus circunstancias ofreci\xe9ndote siempre el mejor servicio posible."
