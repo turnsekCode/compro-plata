@@ -18,67 +18,37 @@ const Section_dos = ({ ciudad }) => {
       <div className={styles.bloqueInferior}>
         <div className={styles.contenedorVentajas}>
           <div className={styles.imagenventaja1}>
-            <img
-              src="/imagenventaja1.png"
-              alt="compro plata"
-              width={40}
-              height={42}
-            />
+            <img src="/imagenVentaja1.png" alt="compro plata" />
           </div>
           <p>Mejor servicio y precio garantizado.</p>
         </div>
         <div className={styles.contenedorVentajas}>
           <div className={styles.imagenventaja1}>
-            <img
-              src="/imagenventaja2.png"
-              alt="precio plata"
-              width={39}
-              height={36}
-            />
+            <img src="/imagenVentaja2.png" alt="precio plata" />
           </div>
           <p>Precio de la plata siempre actualizado.</p>
         </div>
         <div className={styles.contenedorVentajas}>
           <div className={styles.imagenventaja1}>
-            <img
-              src="/imagenventaja3.png"
-              alt="tiendas compro plata"
-              width={36}
-              height={36}
-            />
+            <img src="/imagenVentaja3.png" alt="tiendas compro plata" />
           </div>
           <p>Más de 50 tiendas para vender plata.</p>
         </div>
         <div className={styles.contenedorVentajas}>
           <div className={styles.imagenventaja1}>
-            <img
-              src="/imagenventaja4.png"
-              alt="vender plata"
-              width={41}
-              height={32}
-            />
+            <img src="/imagenVentaja4.png" alt="vender plata" />
           </div>
           <p>Atención personalizada.</p>
         </div>
         <div className={styles.contenedorVentajas}>
           <div className={styles.imagenventaja1}>
-            <img
-              src="/imagenventaja5.png"
-              alt="compra de plata"
-              width={38}
-              height={38}
-            />
+            <img src="/imagenVentaja5.png" alt="compra de plata" />
           </div>
           <p>Dinero en efectivo al instante.</p>
         </div>
         <div className={styles.contenedorVentajas}>
           <div className={styles.imagenventaja1}>
-            <img
-              src="/imagenventaja6.png"
-              alt="vender plata precio"
-              width={39}
-              height={39}
-            />
+            <img src="/imagenVentaja6.png" alt="vender plata precio" />
           </div>
           <p>Tasación profesional, justa y segura.</p>
         </div>

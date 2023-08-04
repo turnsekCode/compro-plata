@@ -1539,10 +1539,8 @@ const Section_dos = ({ ciudad  })=>{
                             /*#__PURE__*/ jsx_runtime_.jsx("div", {
                                 className: (sectionDos_module_default()).imagenventaja1,
                                 children: /*#__PURE__*/ jsx_runtime_.jsx("img", {
-                                    src: "/imagenventaja1.png",
-                                    alt: "compro plata",
-                                    width: 40,
-                                    height: 42
+                                    src: "/imagenVentaja1.png",
+                                    alt: "compro plata"
                                 })
                             }),
                             /*#__PURE__*/ jsx_runtime_.jsx("p", {
@@ -1556,10 +1554,8 @@ const Section_dos = ({ ciudad  })=>{
                             /*#__PURE__*/ jsx_runtime_.jsx("div", {
                                 className: (sectionDos_module_default()).imagenventaja1,
                                 children: /*#__PURE__*/ jsx_runtime_.jsx("img", {
-                                    src: "/imagenventaja2.png",
-                                    alt: "precio plata",
-                                    width: 39,
-                                    height: 36
+                                    src: "/imagenVentaja2.png",
+                                    alt: "precio plata"
                                 })
                             }),
                             /*#__PURE__*/ jsx_runtime_.jsx("p", {
@@ -1573,10 +1569,8 @@ const Section_dos = ({ ciudad  })=>{
                             /*#__PURE__*/ jsx_runtime_.jsx("div", {
                                 className: (sectionDos_module_default()).imagenventaja1,
                                 children: /*#__PURE__*/ jsx_runtime_.jsx("img", {
-                                    src: "/imagenventaja3.png",
-                                    alt: "tiendas compro plata",
-                                    width: 36,
-                                    height: 36
+                                    src: "/imagenVentaja3.png",
+                                    alt: "tiendas compro plata"
                                 })
                             }),
                             /*#__PURE__*/ jsx_runtime_.jsx("p", {
@@ -1590,10 +1584,8 @@ const Section_dos = ({ ciudad  })=>{
                             /*#__PURE__*/ jsx_runtime_.jsx("div", {
                                 className: (sectionDos_module_default()).imagenventaja1,
                                 children: /*#__PURE__*/ jsx_runtime_.jsx("img", {
-                                    src: "/imagenventaja4.png",
-                                    alt: "vender plata",
-                                    width: 41,
-                                    height: 32
+                                    src: "/imagenVentaja4.png",
+                                    alt: "vender plata"
                                 })
                             }),
                             /*#__PURE__*/ jsx_runtime_.jsx("p", {
@@ -1607,10 +1599,8 @@ const Section_dos = ({ ciudad  })=>{
                             /*#__PURE__*/ jsx_runtime_.jsx("div", {
                                 className: (sectionDos_module_default()).imagenventaja1,
                                 children: /*#__PURE__*/ jsx_runtime_.jsx("img", {
-                                    src: "/imagenventaja5.png",
-                                    alt: "compra de plata",
-                                    width: 38,
-                                    height: 38
+                                    src: "/imagenVentaja5.png",
+                                    alt: "compra de plata"
                                 })
                             }),
                             /*#__PURE__*/ jsx_runtime_.jsx("p", {
@@ -1624,10 +1614,8 @@ const Section_dos = ({ ciudad  })=>{
                             /*#__PURE__*/ jsx_runtime_.jsx("div", {
                                 className: (sectionDos_module_default()).imagenventaja1,
                                 children: /*#__PURE__*/ jsx_runtime_.jsx("img", {
-                                    src: "/imagenventaja6.png",
-                                    alt: "vender plata precio",
-                                    width: 39,
-                                    height: 39
+                                    src: "/imagenVentaja6.png",
+                                    alt: "vender plata precio"
                                 })
                             }),
                             /*#__PURE__*/ jsx_runtime_.jsx("p", {
