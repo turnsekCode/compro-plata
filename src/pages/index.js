@@ -4,11 +4,14 @@ import Breadcrumbs from "@/componentes/Breadcrumbs/Breadcrumbs";
 import KeyboardArrowRightIcon from "@mui/icons-material/KeyboardArrowRight";
 import Layout from "@/componentes/Layout/Layout";
 import SEO from "@bradgarropy/next-seo";
-import Section_uno from "@/componentes/Compro-oro/Section_1/Section_uno";
-import Section_dos from "@/componentes/Compro-oro/Section_2/Section_dos";
-import Section_tres from "@/componentes/Compro-oro/Section_3/Section_tres";
-import Section_cinco from "@/componentes/Compro-oro/Section_5/Section_cinco";
-import Section_seis from "@/componentes/Compro-oro/Section_6/Section_seis";
+import Section_uno from "@/componentes/Compro-plata/Section_1/Section_uno";
+import Section_dos from "@/componentes/Compro-plata/Section_2/Section_dos";
+import Section_tres from "@/componentes/Compro-plata/Section_3/Section_tres";
+import Section_cuatro from "@/componentes/Compro-plata/Section_4/Section_cuatro";
+import Section_cinco from "@/componentes/Compro-plata/Section_5/Section_cinco";
+import Section_Seis from "@/componentes/Compro-plata/Section_6/Section_seis";
+import Section_seis_mobil from "@/componentes/Compro-plata/Section_6_mobil/Section_seis_mobil";
+import Section_siete from "@/componentes/Compro-plata/Section_7/Section_siete";
 
 const schema = {
   "@context": "http://www.schema.org",
@@ -44,8 +47,8 @@ export default function Home({
   return (
     <>
       <SEO
-        title="Compro Oro al Mejor Precio. Tiendas Compro Oro | Quickgold"
-        description="Quickgold es tu tienda compro oro de confianza. Obtén dinero extra por las joyas de oro que ya no quieras. Tasación transparente y segura."
+        title="Vender Plata | Tiendas Compro Plata | Precio Plata Hoy"
+        description="Vende tus piezas de plata en nuestras tiendas Quickgold. Precio de la plata siempre actualizado y el mejor precio de tu ciudad. Pago en efectivo."
         icon="/favicon.png"
         facebook={{
           image: "/facebook.png",
@@ -71,24 +74,26 @@ export default function Home({
           <Breadcrumbs
             raiz="Quickgold"
             iconoRaiz={<KeyboardArrowRightIcon />}
-            urlUbicacionActual="https://quickgold.es/compro-oro/"
+            urlUbicacionActual="https://quickgold.es/compro-plata/"
             iconoUbiccionActual={<KeyboardArrowRightIcon />}
-            ubicacionActual="Compro Oro"
+            ubicacionActual="Compro Plata"
           />
           <Section_uno ciudad={ciudad} />
           <Section_dos ciudad={ciudad} />
-          <Section_tres ciudad={ciudad} ListadoCiudades={ListadoCiudades} />
-          <Section_cinco ciudad={ciudad} />
-          <Section_seis
-            listadoCiudadesServicios={listadoCiudadesServicios}
-            ciudad={ciudad}
-          />
         </div>
+        <Section_tres ciudad={ciudad} ListadoCiudades={ListadoCiudades} />
+        <Section_cuatro ciudad={ciudad} />
+        <Section_Seis ciudad={ciudad} />
+        <Section_seis_mobil ciudad={ciudad} />
+        <Section_siete
+          ciudad={ciudad}
+          listadoCiudadesServicios={listadoCiudadesServicios}
+        />
       </Layout>
     </>
   );
 }
-const idPaginaWp = "326";
+const idPaginaWp = "377";
 export async function getStaticProps() {
   /*const response = await fetch(
     `https://quickgold.es/wp-json/wp/v2/pages/${idWp}`
@@ -98,7 +103,7 @@ export async function getStaticProps() {
   const ListadoCiudades = await Listado.json();
 
   const listadoServicio = await fetch(
-    `https://quickgold.es/listadoCiudadesServicioOro.json`
+    `https://quickgold.es/listadoCiudadesServicioPlata.json`
   );
   const listadoCiudadesServicios = await listadoServicio.json();
 

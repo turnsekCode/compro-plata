@@ -1,0 +1,110 @@
+.contenedorSectionCincoMobil{
+    margin: 40px 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+.bloqueInferior{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.bloqueSuperior h2{
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 29px;
+    color: #000831;
+    margin-bottom: 30px;
+    text-align: center;
+    padding: 0 20px;
+}
+.bloqueSuperior p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+    color: #918F8F;
+   
+}
+.imagenventaja1{
+    background: #FFFFFF;
+    border-radius: 50%;
+    display: flex;
+}
+.contenedorVentajas p{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: left;
+    color: #0F2D45;
+    padding: 0 40px 0 10px;
+}
+.contenedorVentajas {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    margin-bottom: 30px;
+    padding: 0 20px;
+}
+.linea {
+    position: relative;
+    display: inline-block;
+    z-index: 1;
+}
+
+.linea:after {
+    content: '';
+    width: 100%;
+    z-index: -1;
+    border-bottom: 7px solid #FBBE00;
+    position: absolute;
+    display: block;
+    height: 5px;
+    transform: translateY(40%);
+}
+
+.linea:after {
+    left: 2px;
+    top: calc(50% - 1px);
+}
+.botones {
+    margin: 15px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    width: 285px;
+    height: 40px;
+}
+.botonPopUp {
+    width: 100%;
+    background: #0692D0;
+    box-shadow: 0px 8px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 2px;
+    font-weight: 700;
+    font-size: 13px;
+    line-height: 14px;
+    color: #fff;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    padding: 13px 5px;
+    text-transform: uppercase;
+    border: none;
+}
+.texto{
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 29px;
+    text-align: center;
+    color: #0F2D45;
+    padding: 0 90px;
+}
+
+@media (min-width: 1191px) {
+.contenedorSectionCincoMobil {
+       display: none;
+    }
+}

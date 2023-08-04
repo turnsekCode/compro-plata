@@ -2,9 +2,17 @@
 .contenedorMapaVisible {
   height: 1012px;
 }
+.main {
+  padding-top: 90px;
+  margin: 0 auto;
+  max-width: 1060px;
+}
 
 @media (min-width: 610px) {
-
+.main {
+    padding-top: 135px;
+    margin: 0 auto;
+  }
 }
 
 @media (min-width: 1191px) {

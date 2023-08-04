@@ -1,8 +1,8 @@
 {
-  "name": "cambio-dolares-euros",
+  "name": "compro-plata",
   "version": "0.1.0",
   "private": true,
-  "home": "quickgold.es/cambio-dolares-euros",
+  "home": "quickgold.es/compro-plata",
   "scripts": {
     "dev": "node server.js",
     "build": "next build",

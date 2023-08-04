@@ -45,148 +45,190 @@ module.exports = {
 
 /***/ }),
 
-/***/ 3588:
+/***/ 7100:
 /***/ ((module) => {
 
 // Exports
 module.exports = {
-	"contenedorSectionUno": "section_uno_contenedorSectionUno__Nb_Si",
-	"linea": "section_uno_linea__QAeTJ",
-	"bloqueIzq": "section_uno_bloqueIzq__qGolw",
-	"bloqueDer": "section_uno_bloqueDer__OmvwL",
-	"madridMobil": "section_uno_madridMobil__UfBhE",
-	"botones": "section_uno_botones__rsL_M",
-	"botonPopUp": "section_uno_botonPopUp__3rQJ8"
+	"contenedorConversor": "conversor_contenedorConversor__ScLoc",
+	"conversorTitulo": "conversor_conversorTitulo__kfSbb",
+	"conversorTexto": "conversor_conversorTexto__qdJoA",
+	"botonLlamarTienda": "conversor_botonLlamarTienda__XZwZE",
+	"contenedorAmbosBloquesOro": "conversor_contenedorAmbosBloquesOro__ONhvV",
+	"contenedorBloqueSuperior": "conversor_contenedorBloqueSuperior__AJlTn",
+	"botones": "conversor_botones__CilrA",
+	"button": "conversor_button__MwDJD",
+	"botonActivo": "conversor_botonActivo__dNhCc",
+	"contenedorPrecios": "conversor_contenedorPrecios__lUgZW",
+	"contenedorPreciosPlata": "conversor_contenedorPreciosPlata__Cw8Rj",
+	"contenedorprecioDestacado": "conversor_contenedorprecioDestacado__cMjen",
+	"contenedorprecioDestacadoPlata": "conversor_contenedorprecioDestacadoPlata__SoVx8",
+	"precioDestacado": "conversor_precioDestacado__SYWd7",
+	"precioDestacadoPlata": "conversor_precioDestacadoPlata__0rLCf",
+	"masde": "conversor_masde__p_3vW",
+	"precio18k": "conversor_precio18k__bAxbX",
+	"kilates": "conversor_kilates__QjLCy",
+	"contenedorOtrosPrecios": "conversor_contenedorOtrosPrecios__0rzYT",
+	"OtrosPrecios": "conversor_OtrosPrecios__7SVuo",
+	"precio": "conversor_precio__Nk5IA",
+	"preciok": "conversor_preciok___m4NP",
+	"contenedorCalculadora": "conversor_contenedorCalculadora__yz5er",
+	"contenedorSelect": "conversor_contenedorSelect__IOPtG",
+	"Select": "conversor_Select__XBebi",
+	"input": "conversor_input__ED0lo",
+	"SelectDiv": "conversor_SelectDiv__BBYO_",
+	"contenedorKilates": "conversor_contenedorKilates__wMJvP",
+	"contenedorKilatesActive": "conversor_contenedorKilatesActive__Ywa4_",
+	"contenedorUl": "conversor_contenedorUl__h14T4",
+	"SelectDivKilate": "conversor_SelectDivKilate__MhuTb",
+	"tituloInferior": "conversor_tituloInferior__NAc4q",
+	"precioFinal": "conversor_precioFinal__6nCCl",
+	"promocion": "conversor_promocion__MkEyj",
+	"linea": "conversor_linea__sDbcx",
+	"contenedorPrecioPlata": "conversor_contenedorPrecioPlata__S4yTF",
+	"bloqueIzq": "conversor_bloqueIzq___BVP9",
+	"bloqueDer": "conversor_bloqueDer__0TBRo",
+	"bloqueIzqTexto": "conversor_bloqueIzqTexto__lD11i",
+	"select": "conversor_select__8sdUe",
+	"botonLlamar": "conversor_botonLlamar__Yl8nm",
+	"botonPopUp": "conversor_botonPopUp__jqll4",
+	"selectCiudad_mobil": "conversor_selectCiudad_mobil__GPiWM",
+	"select_ciudad": "conversor_select_ciudad___hXW6",
+	"select_monedas": "conversor_select_monedas__eXgrH",
+	"select_ciudad_mobil": "conversor_select_ciudad_mobil__RCODy",
+	"select_ciudadOptionUno": "conversor_select_ciudadOptionUno__zqdPl",
+	"contenedorOptions": "conversor_contenedorOptions__Q_qqm",
+	"contenedorOptionsActivo": "conversor_contenedorOptionsActivo__iWHyE",
+	"listaCiudad": "conversor_listaCiudad__Ted34",
+	"contenedorSectionCuatro": "conversor_contenedorSectionCuatro__h_XgL",
+	"contenedorSectionCuatroMargen": "conversor_contenedorSectionCuatroMargen__wcuRN",
+	"select_activo": "conversor_select_activo__5pWiY"
 };
 
 
 /***/ }),
 
-/***/ 1738:
+/***/ 9685:
 /***/ ((module) => {
 
 // Exports
 module.exports = {
-	"contenedorSectionDos": "sectionDos_contenedorSectionDos__gB9C_",
-	"bloqueInferior": "sectionDos_bloqueInferior__JKSjz",
-	"bloqueSuperior": "sectionDos_bloqueSuperior__E5IEs",
-	"imagenventaja1": "sectionDos_imagenventaja1__iZ1Xc",
-	"contenedorVentajas": "sectionDos_contenedorVentajas__pg1iM",
-	"linea": "sectionDos_linea__VbALX"
+	"contenedorSectionUno": "section_uno_contenedorSectionUno__6Uh52",
+	"linea": "section_uno_linea__AtAot",
+	"bloqueIzq": "section_uno_bloqueIzq__OW4MR",
+	"bloqueDer": "section_uno_bloqueDer__hz272",
+	"madridMobil": "section_uno_madridMobil__DjzJL",
+	"botones": "section_uno_botones__t_oTm",
+	"botonPopUp": "section_uno_botonPopUp__M1mDT"
 };
 
 
 /***/ }),
 
-/***/ 7211:
+/***/ 2250:
 /***/ ((module) => {
 
 // Exports
 module.exports = {
-	"contenedorSectionTresMargen": "sectionTres_contenedorSectionTresMargen__XMZeB",
-	"bloqueIzq": "sectionTres_bloqueIzq__EL1Ww",
-	"bloqueDer": "sectionTres_bloqueDer__0nyKB",
-	"contenidoBloqueDer": "sectionTres_contenidoBloqueDer__VsHQs",
-	"linea": "sectionTres_linea__lHMlx",
-	"bloqueSuperiorTexto": "sectionTres_bloqueSuperiorTexto__9HSws",
-	"bloqueIzqInferior": "sectionTres_bloqueIzqInferior__YAjgO"
+	"contenedorSectionDos": "sectionDos_contenedorSectionDos__knVDp",
+	"bloqueInferior": "sectionDos_bloqueInferior__y5Sdy",
+	"bloqueSuperior": "sectionDos_bloqueSuperior__7YGfP",
+	"imagenventaja1": "sectionDos_imagenventaja1__4X73_",
+	"contenedorVentajas": "sectionDos_contenedorVentajas__qc1o0",
+	"linea": "sectionDos_linea__e_WO9"
 };
 
 
 /***/ }),
 
-/***/ 1470:
+/***/ 376:
 /***/ ((module) => {
 
 // Exports
 module.exports = {
-	"contenedorSectionCinco": "sectionCinco_contenedorSectionCinco__Jmvg_",
-	"sectionCincoContenido": "sectionCinco_sectionCincoContenido__CnR5z",
-	"contenedorSectionCincoMargen": "sectionCinco_contenedorSectionCincoMargen__M5kbc",
-	"linea": "sectionCinco_linea__523j6",
-	"contenidoCard": "sectionCinco_contenidoCard__ln_hL"
+	"contenedorSectionTresMargen": "sectionTres_contenedorSectionTresMargen__rlY_e",
+	"bloqueIzq": "sectionTres_bloqueIzq__qTtqW",
+	"bloqueDer": "sectionTres_bloqueDer__IBB0F",
+	"contenidoBloqueDer": "sectionTres_contenidoBloqueDer__CrT7q",
+	"linea": "sectionTres_linea__Tdbzw",
+	"bloqueSuperiorTexto": "sectionTres_bloqueSuperiorTexto__5TUtF",
+	"bloqueIzqInferior": "sectionTres_bloqueIzqInferior__Bboqr"
 };
 
 
 /***/ }),
 
-/***/ 4988:
+/***/ 5366:
 /***/ ((module) => {
 
 // Exports
 module.exports = {
-	"contenedorSectionSeis": "sectionSeis_contenedorSectionSeis__nlh7S",
-	"contenedorSectionSeisMargen": "sectionSeis_contenedorSectionSeisMargen__v2lGi",
-	"BannerSelectorCiudad": "sectionSeis_BannerSelectorCiudad__OsNkG",
-	"tituloMobil": "sectionSeis_tituloMobil__nHXDL",
-	"SelectCiudades": "sectionSeis_SelectCiudades__P8NR_",
-	"contenedorTexto": "sectionSeis_contenedorTexto__K_BS0",
-	"contenedorTiposOro": "sectionSeis_contenedorTiposOro__WdpmL",
-	"contenedorTiposOroCard1": "sectionSeis_contenedorTiposOroCard1__DlThX",
-	"contenedorTiposOroCard2": "sectionSeis_contenedorTiposOroCard2__NBwiU"
+	"contenedorSectionCinco": "sectionCuatro_contenedorSectionCinco__b0QAu",
+	"sectionCincoContenido": "sectionCuatro_sectionCincoContenido___REHh",
+	"contenedorSectionCincoMargen": "sectionCuatro_contenedorSectionCincoMargen__iEL05",
+	"linea": "sectionCuatro_linea__n_xXq",
+	"contenidoCard": "sectionCuatro_contenidoCard__WbZpy"
 };
 
 
 /***/ }),
 
-/***/ 7741:
+/***/ 6152:
 /***/ ((module) => {
 
 // Exports
 module.exports = {
-	"contenedorConversor": "conversor_contenedorConversor__CWQNx",
-	"conversorTitulo": "conversor_conversorTitulo__e9dzq",
-	"conversorTexto": "conversor_conversorTexto__xGwjn",
-	"botonLlamarTienda": "conversor_botonLlamarTienda__xJhg1",
-	"contenedorAmbosBloquesOro": "conversor_contenedorAmbosBloquesOro__jB1gn",
-	"contenedorBloqueSuperior": "conversor_contenedorBloqueSuperior__YnWEZ",
-	"botones": "conversor_botones__FX1Pe",
-	"button": "conversor_button__xtM1c",
-	"botonActivo": "conversor_botonActivo__GDVtR",
-	"contenedorPrecios": "conversor_contenedorPrecios__3a5F_",
-	"contenedorPreciosPlata": "conversor_contenedorPreciosPlata__S6k8H",
-	"contenedorprecioDestacado": "conversor_contenedorprecioDestacado__qdZZi",
-	"contenedorprecioDestacadoPlata": "conversor_contenedorprecioDestacadoPlata__fdj3a",
-	"precioDestacado": "conversor_precioDestacado___DI6i",
-	"precioDestacadoPlata": "conversor_precioDestacadoPlata__V5zOJ",
-	"masde": "conversor_masde__aYJtx",
-	"precio18k": "conversor_precio18k__tEwgL",
-	"kilates": "conversor_kilates__9VvK6",
-	"contenedorOtrosPrecios": "conversor_contenedorOtrosPrecios__VTwI9",
-	"OtrosPrecios": "conversor_OtrosPrecios__wCKTc",
-	"precio": "conversor_precio__8VOV7",
-	"preciok": "conversor_preciok__pT5WY",
-	"contenedorCalculadora": "conversor_contenedorCalculadora__IchYz",
-	"contenedorSelect": "conversor_contenedorSelect__DEQ9M",
-	"Select": "conversor_Select___Zv_e",
-	"input": "conversor_input__z6wsX",
-	"SelectDiv": "conversor_SelectDiv__4SahR",
-	"contenedorKilates": "conversor_contenedorKilates__EuNmv",
-	"contenedorKilatesActive": "conversor_contenedorKilatesActive__MvM2A",
-	"contenedorUl": "conversor_contenedorUl__bt1r5",
-	"SelectDivKilate": "conversor_SelectDivKilate__95YNa",
-	"tituloInferior": "conversor_tituloInferior__m_q30",
-	"precioFinal": "conversor_precioFinal__gXXE0",
-	"promocion": "conversor_promocion__O5qwK",
-	"linea": "conversor_linea__GME8W",
-	"contenedorPrecioPlata": "conversor_contenedorPrecioPlata__PgLDe",
-	"bloqueIzq": "conversor_bloqueIzq__xbsma",
-	"bloqueDer": "conversor_bloqueDer__AXXhq",
-	"bloqueIzqTexto": "conversor_bloqueIzqTexto__Mg1Vy",
-	"select": "conversor_select__cOahp",
-	"botonLlamar": "conversor_botonLlamar__xszov",
-	"botonPopUp": "conversor_botonPopUp__7FbJr",
-	"selectCiudad_mobil": "conversor_selectCiudad_mobil___1bGz",
-	"select_ciudad": "conversor_select_ciudad__NINlY",
-	"select_monedas": "conversor_select_monedas__Crwwr",
-	"select_ciudad_mobil": "conversor_select_ciudad_mobil__MmKM4",
-	"select_ciudadOptionUno": "conversor_select_ciudadOptionUno__CiLWM",
-	"contenedorOptions": "conversor_contenedorOptions__yyWGj",
-	"contenedorOptionsActivo": "conversor_contenedorOptionsActivo__ZBpFa",
-	"listaCiudad": "conversor_listaCiudad__tez6c",
-	"contenedorSectionCuatro": "conversor_contenedorSectionCuatro__rNqRr",
-	"contenedorSectionCuatroMargen": "conversor_contenedorSectionCuatroMargen__XQn_c",
-	"select_activo": "conversor_select_activo__2pnpI"
+	"contenedorSectionCinco": "sectionSeis_contenedorSectionCinco__OzQmM",
+	"bloqueInferior": "sectionSeis_bloqueInferior__3tPgO",
+	"bloqueSuperior": "sectionSeis_bloqueSuperior__5h_nQ",
+	"contenedorVentajas1": "sectionSeis_contenedorVentajas1__hLnqi",
+	"contenedorVentajas2": "sectionSeis_contenedorVentajas2__eMHpQ",
+	"contenedorVentajas3": "sectionSeis_contenedorVentajas3__jWQIi",
+	"contenedorVentajas4": "sectionSeis_contenedorVentajas4__kMPFZ",
+	"contenedorVentajas5": "sectionSeis_contenedorVentajas5__2uHuT",
+	"contenedorVentajas6": "sectionSeis_contenedorVentajas6__2qgdg",
+	"contenedorVentajas7": "sectionSeis_contenedorVentajas7__R2Lzw",
+	"contenedorVentajas8": "sectionSeis_contenedorVentajas8__mo1Ef",
+	"contenedorVentajas9": "sectionSeis_contenedorVentajas9__M8fQB",
+	"linea": "sectionSeis_linea__IeZeZ"
+};
+
+
+/***/ }),
+
+/***/ 6855:
+/***/ ((module) => {
+
+// Exports
+module.exports = {
+	"contenedorSectionCincoMobil": "sectionSeisMobil_contenedorSectionCincoMobil__IHQ__",
+	"bloqueInferior": "sectionSeisMobil_bloqueInferior__r3nUS",
+	"bloqueSuperior": "sectionSeisMobil_bloqueSuperior__oA_RL",
+	"imagenventaja1": "sectionSeisMobil_imagenventaja1__s8bFy",
+	"contenedorVentajas": "sectionSeisMobil_contenedorVentajas__de5RQ",
+	"linea": "sectionSeisMobil_linea__EAso1",
+	"botones": "sectionSeisMobil_botones__lpKcA",
+	"botonPopUp": "sectionSeisMobil_botonPopUp__aSKRI",
+	"texto": "sectionSeisMobil_texto__19IW9"
+};
+
+
+/***/ }),
+
+/***/ 8148:
+/***/ ((module) => {
+
+// Exports
+module.exports = {
+	"contenedorSectionSeis": "sectionSiete_contenedorSectionSeis__o6goM",
+	"contenedorSectionSeisMargen": "sectionSiete_contenedorSectionSeisMargen__Yb2N6",
+	"BannerSelectorCiudad": "sectionSiete_BannerSelectorCiudad__2bOlg",
+	"tituloMobil": "sectionSiete_tituloMobil__sAaaN",
+	"SelectCiudades": "sectionSiete_SelectCiudades__3hIu9",
+	"contenedorTexto": "sectionSiete_contenedorTexto___1MTw",
+	"contenedorTiposOro": "sectionSiete_contenedorTiposOro__i4p9n",
+	"contenedorTiposOroCard1": "sectionSiete_contenedorTiposOroCard1__ybJsG",
+	"contenedorTiposOroCard2": "sectionSiete_contenedorTiposOroCard2__yVbNF"
 };
 
 
@@ -303,13 +345,14 @@ module.exports = {
 
 // Exports
 module.exports = {
-	"contenedorMapaVisible": "Home_contenedorMapaVisible__piXgh"
+	"contenedorMapaVisible": "Home_contenedorMapaVisible__piXgh",
+	"main": "Home_main__EtNt2"
 };
 
 
 /***/ }),
 
-/***/ 7555:
+/***/ 5511:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -359,9 +402,9 @@ const Breadcrumbs = ()=>{
                 ]
             }),
             /*#__PURE__*/ jsx_runtime_.jsx("a", {
-                href: "https://quickgold.es/compro-oro/",
+                href: "https://quickgold.es/compro-plata/",
                 title: "Compro oro",
-                children: "Compro oro"
+                children: "Compro plata"
             })
         ]
     });
@@ -1378,22 +1421,22 @@ function Layout({ children , menu_list  }) {
 ;// CONCATENATED MODULE: external "@bradgarropy/next-seo"
 const next_seo_namespaceObject = require("@bradgarropy/next-seo");
 var next_seo_default = /*#__PURE__*/__webpack_require__.n(next_seo_namespaceObject);
-// EXTERNAL MODULE: ./src/componentes/Compro-oro/Section_1/section_uno.module.css
-var section_uno_module = __webpack_require__(3588);
+// EXTERNAL MODULE: ./src/componentes/Compro-plata/Section_1/section_uno.module.css
+var section_uno_module = __webpack_require__(9685);
 var section_uno_module_default = /*#__PURE__*/__webpack_require__.n(section_uno_module);
 // EXTERNAL MODULE: ./node_modules/next/image.js
 var next_image = __webpack_require__(5675);
 ;// CONCATENATED MODULE: external "react-scroll"
 const external_react_scroll_namespaceObject = require("react-scroll");
-;// CONCATENATED MODULE: ./src/componentes/Compro-oro/Section_1/Section_uno.js
+;// CONCATENATED MODULE: ./src/componentes/Compro-plata/Section_1/Section_uno.js
 
 
 
 
 
 
-//import PopUpCiudades from "@/componentes/PopUpCiudades/PopUpCiudades";
 const Section_uno = ({ ciudad  })=>{
+    const { width  } = utilities_useScreenSize();
     return /*#__PURE__*/ (0,jsx_runtime_.jsxs)("section", {
         className: (section_uno_module_default()).contenedorSectionUno,
         children: [
@@ -1402,7 +1445,7 @@ const Section_uno = ({ ciudad  })=>{
                 children: [
                     /*#__PURE__*/ (0,jsx_runtime_.jsxs)("h1", {
                         children: [
-                            "Tiendas compro oro ",
+                            "Tiendas compro plata ",
                             /*#__PURE__*/ jsx_runtime_.jsx("span", {
                                 className: (section_uno_module_default()).linea,
                                 children: "quickgold"
@@ -1410,7 +1453,7 @@ const Section_uno = ({ ciudad  })=>{
                         ]
                     }),
                     /*#__PURE__*/ jsx_runtime_.jsx("p", {
-                        children: "Si tienes joyas de oro que ya no desees tener y quieres obtener dinero extra por ellas, elige vender tus piezas de oro en quickgold y te garantizamos el servicio que estabas buscando, con una valoraci\xf3n a la vista, detallada y a un precio justo. Somos tu Compro Oro de confianza."
+                        children: "En quickgold compramos todo tipo de piezas de plata como joyas, monedas, elementos de decoraci\xf3n o cuberter\xedas y lingotes. Si tienes plata que quieras vender ven a cualquiera de nuestras tiendas y obt\xe9n dinero en efectivo por ellas. Garantizamos el mejor servicio y precio por tus piezas de plata"
                     }),
                     /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
                         className: (section_uno_module_default()).botones,
@@ -1426,7 +1469,7 @@ const Section_uno = ({ ciudad  })=>{
                                 children: /*#__PURE__*/ jsx_runtime_.jsx("button", {
                                     className: (section_uno_module_default()).botonPopUp,
                                     title: "texto",
-                                    children: "CONOCE EL PRECIO DEL ORO"
+                                    children: "CONOCE EL PRECIO DE LA PLATA"
                                 })
                             }),
                             /*#__PURE__*/ (0,jsx_runtime_.jsxs)("a", {
@@ -1445,8 +1488,8 @@ const Section_uno = ({ ciudad  })=>{
             /*#__PURE__*/ jsx_runtime_.jsx("div", {
                 className: (section_uno_module_default()).bloqueDer,
                 children: /*#__PURE__*/ jsx_runtime_.jsx("img", {
-                    src: "/imagenComproOro.webp",
-                    alt: "Compro oro",
+                    src: "/imagenComproPlata.webp",
+                    alt: "Compro plata",
                     className: (section_uno_module_default()).madridMobil,
                     width: 480,
                     height: 364
@@ -1457,10 +1500,10 @@ const Section_uno = ({ ciudad  })=>{
 };
 /* harmony default export */ const Section_1_Section_uno = (Section_uno);
 
-// EXTERNAL MODULE: ./src/componentes/Compro-oro/Section_2/sectionDos.module.css
-var sectionDos_module = __webpack_require__(1738);
+// EXTERNAL MODULE: ./src/componentes/Compro-plata/Section_2/sectionDos.module.css
+var sectionDos_module = __webpack_require__(2250);
 var sectionDos_module_default = /*#__PURE__*/__webpack_require__.n(sectionDos_module);
-;// CONCATENATED MODULE: ./src/componentes/Compro-oro/Section_2/Section_dos.js
+;// CONCATENATED MODULE: ./src/componentes/Compro-plata/Section_2/Section_dos.js
 
 
 
@@ -1483,7 +1526,7 @@ const Section_dos = ({ ciudad  })=>{
                         ]
                     }),
                     /*#__PURE__*/ jsx_runtime_.jsx("p", {
-                        children: "*Para realizar una venta de oro es necesario ser mayor de edad y aportar DNI en vigor."
+                        children: "*Para realizar una venta de plata es necesario ser mayor de edad y aportar DNI en vigor."
                     })
                 ]
             }),
@@ -1496,8 +1539,10 @@ const Section_dos = ({ ciudad  })=>{
                             /*#__PURE__*/ jsx_runtime_.jsx("div", {
                                 className: (sectionDos_module_default()).imagenventaja1,
                                 children: /*#__PURE__*/ jsx_runtime_.jsx("img", {
-                                    src: "https://quickgold.es/imagenVentaja1.png",
-                                    alt: "a c\xf3mo est\xe1 el oro"
+                                    src: "/imagenventaja1.png",
+                                    alt: "compro plata",
+                                    width: 40,
+                                    height: 42
                                 })
                             }),
                             /*#__PURE__*/ jsx_runtime_.jsx("p", {
@@ -1511,12 +1556,14 @@ const Section_dos = ({ ciudad  })=>{
                             /*#__PURE__*/ jsx_runtime_.jsx("div", {
                                 className: (sectionDos_module_default()).imagenventaja1,
                                 children: /*#__PURE__*/ jsx_runtime_.jsx("img", {
-                                    src: "https://quickgold.es/imagenVentaja2.png",
-                                    alt: "precio oro"
+                                    src: "/imagenventaja2.png",
+                                    alt: "precio plata",
+                                    width: 39,
+                                    height: 36
                                 })
                             }),
                             /*#__PURE__*/ jsx_runtime_.jsx("p", {
-                                children: "Precio del oro siempre actualizado."
+                                children: "Precio de la plata siempre actualizado."
                             })
                         ]
                     }),
@@ -1526,12 +1573,14 @@ const Section_dos = ({ ciudad  })=>{
                             /*#__PURE__*/ jsx_runtime_.jsx("div", {
                                 className: (sectionDos_module_default()).imagenventaja1,
                                 children: /*#__PURE__*/ jsx_runtime_.jsx("img", {
-                                    src: "https://quickgold.es/imagenVentaja3.png",
-                                    alt: "tiendas compro oro"
+                                    src: "/imagenventaja3.png",
+                                    alt: "tiendas compro plata",
+                                    width: 36,
+                                    height: 36
                                 })
                             }),
                             /*#__PURE__*/ jsx_runtime_.jsx("p", {
-                                children: "M\xe1s de 50 tiendas para realizar tu venta de oro."
+                                children: "M\xe1s de 50 tiendas para vender plata."
                             })
                         ]
                     }),
@@ -1541,8 +1590,10 @@ const Section_dos = ({ ciudad  })=>{
                             /*#__PURE__*/ jsx_runtime_.jsx("div", {
                                 className: (sectionDos_module_default()).imagenventaja1,
                                 children: /*#__PURE__*/ jsx_runtime_.jsx("img", {
-                                    src: "https://quickgold.es/imagenVentaja4.png",
-                                    alt: "vender oro"
+                                    src: "/imagenventaja4.png",
+                                    alt: "vender plata",
+                                    width: 41,
+                                    height: 32
                                 })
                             }),
                             /*#__PURE__*/ jsx_runtime_.jsx("p", {
@@ -1556,8 +1607,10 @@ const Section_dos = ({ ciudad  })=>{
                             /*#__PURE__*/ jsx_runtime_.jsx("div", {
                                 className: (sectionDos_module_default()).imagenventaja1,
                                 children: /*#__PURE__*/ jsx_runtime_.jsx("img", {
-                                    src: "https://quickgold.es/imagenVentaja5.png",
-                                    alt: "vender joyas"
+                                    src: "/imagenventaja5.png",
+                                    alt: "compra de plata",
+                                    width: 38,
+                                    height: 38
                                 })
                             }),
                             /*#__PURE__*/ jsx_runtime_.jsx("p", {
@@ -1571,8 +1624,10 @@ const Section_dos = ({ ciudad  })=>{
                             /*#__PURE__*/ jsx_runtime_.jsx("div", {
                                 className: (sectionDos_module_default()).imagenventaja1,
                                 children: /*#__PURE__*/ jsx_runtime_.jsx("img", {
-                                    src: "https://quickgold.es/imagenVentaja6.png",
-                                    alt: "tasaci\xf3n oro"
+                                    src: "/imagenventaja6.png",
+                                    alt: "vender plata precio",
+                                    width: 39,
+                                    height: 39
                                 })
                             }),
                             /*#__PURE__*/ jsx_runtime_.jsx("p", {
@@ -1587,25 +1642,24 @@ const Section_dos = ({ ciudad  })=>{
 };
 /* harmony default export */ const Section_2_Section_dos = (Section_dos);
 
-// EXTERNAL MODULE: ./src/componentes/Compro-oro/Section_3/sectionTres.module.css
-var sectionTres_module = __webpack_require__(7211);
+// EXTERNAL MODULE: ./src/componentes/Compro-plata/Section_3/sectionTres.module.css
+var sectionTres_module = __webpack_require__(376);
 var sectionTres_module_default = /*#__PURE__*/__webpack_require__.n(sectionTres_module);
-// EXTERNAL MODULE: ./src/componentes/ConversorPlata/conversor.module.css
-var conversor_module = __webpack_require__(7741);
+// EXTERNAL MODULE: ./src/componentes/Compro-plata/ConversorPlata/conversor.module.css
+var conversor_module = __webpack_require__(7100);
 var conversor_module_default = /*#__PURE__*/__webpack_require__.n(conversor_module);
-;// CONCATENATED MODULE: ./src/componentes/ConversorPlata/CalculadoraOro.js
+;// CONCATENATED MODULE: ./src/componentes/Compro-plata/ConversorPlata/BloquePrecioPlata.js
 
 
 
 
 const CalculadoraOro = ({ ciudad , ListadoCiudades  })=>{
     //const nombreCiudad = ciudad?.acf?.ciudad_oro;
-    //const nombreCiudad = "alcaladehenares";
     const [data, setData] = (0,external_react_.useState)([]);
     const [loading, setLoading] = (0,external_react_.useState)(null);
-    const [ciudadSelect, setCiudadSelect] = (0,external_react_.useState)("");
+    const [ciudadSelect, setCiudadSelect] = (0,external_react_.useState)("alcaladehenares");
     (0,external_react_.useEffect)(()=>{
-        fetch(`https://quickgold.es/archivos-cache/Fixing${ciudadSelect}.txt`, {
+        fetch(`https://panel.quickgold.es/archivos-cache/Fixing${ciudadSelect}.txt`, {
             cache: "no-cache"
         }).then((response)=>response.json()).then((response)=>{
             setData(response);
@@ -1614,29 +1668,29 @@ const CalculadoraOro = ({ ciudad , ListadoCiudades  })=>{
     }, [
         ciudadSelect
     ]);
+    const datosCiudad = ListadoCiudades?.arrayMarker;
     const [valorInput, setValorInput] = (0,external_react_.useState)("0.00");
     const [valorSelect, setValorSelect] = (0,external_react_.useState)("0.00");
-    const [masDe, setMasDe] = (0,external_react_.useState)(true);
-    const precio24k = data?.result?.Tarifas?.Oro[12].Productos[0].Precio / 1000;
-    const precio18k = data?.result?.Tarifas?.Oro[2].Productos[0].Precio / 1000;
-    const precio14k = data?.result?.Tarifas?.Oro[10].Productos[0].Precio / 1000;
-    //const masDeOro = ciudad?.acf?.precio_mas_de_oro;
-    const masDeOro = 0.35;
-    const precioMas24k = (precio24k + parseFloat(masDeOro)).toFixed(2);
-    const precioMas18k = (precio18k + parseFloat(masDeOro)).toFixed(2);
-    const precioMas14k = (precio14k + parseFloat(masDeOro)).toFixed(2);
-    //const paraMasOro = ciudad?.acf?.para_mas_de_oro;
-    const paraMasOro = 100;
-    const valorSelectSuma = parseFloat(valorSelect) + parseFloat(masDeOro);
-    const valorSelectNormal = parseFloat(valorSelect);
-    const [selectKilates2, setSelectKilates2] = (0,external_react_.useState)(null);
-    const datosCiudad = ListadoCiudades.arrayMarker;
     const [opened, setOpened] = (0,external_react_.useState)(true);
     const [ciudadOpen, setCiudadOpen] = (0,external_react_.useState)(null);
+    const [selectKilates, setSelectKilates] = (0,external_react_.useState)(true);
+    const [selectKilates2, setSelectKilates2] = (0,external_react_.useState)(null);
+    const [selectKilates3, setSelectKilates3] = (0,external_react_.useState)(false);
     const [DataNombre, setDataNombre] = (0,external_react_.useState)("");
     const [DataNombreKilate, setDataNombreKilate] = (0,external_react_.useState)("");
-    const [selectKilates, setSelectKilates] = (0,external_react_.useState)(true);
-    const [selectKilates3, setSelectKilates3] = (0,external_react_.useState)(false);
+    const [masDe, setMasDe] = (0,external_react_.useState)(true);
+    const precio999 = data?.result?.Tarifas?.Plata[3].Productos[0].Precio.toFixed(2);
+    const precio925 = data?.result?.Tarifas?.Plata[2].Productos[0].Precio.toFixed(2);
+    const precio800 = data?.result?.Tarifas?.Plata[0].Productos[0].Precio.toFixed(2);
+    //const masDePlata = ciudad?.acf?.para_mas_de_plata;
+    //const PrecioMasPlata = ciudad?.acf?.precio_mas_de_plata;
+    const masDePlata = 10;
+    const PrecioMasPlata = 20;
+    const precio999Suma = (parseFloat(precio999) + parseFloat(PrecioMasPlata)).toFixed(2);
+    const precio925Suma = (parseFloat(precio925) + parseFloat(PrecioMasPlata)).toFixed(2);
+    const precio800Suma = (parseFloat(precio800) + parseFloat(PrecioMasPlata)).toFixed(2);
+    const valorSelectSuma = (parseFloat(valorSelect) + parseFloat(PrecioMasPlata)).toFixed(2);
+    const valorSelectNormal = parseFloat(valorSelect).toFixed(2);
     return /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
         className: (conversor_module_default()).contenedorAmbosBloquesOro,
         children: [
@@ -1724,8 +1778,8 @@ const CalculadoraOro = ({ ciudad , ListadoCiudades  })=>{
                                 className: masDe ? `${(conversor_module_default()).button} ${(conversor_module_default()).botonActivo}` : `${(conversor_module_default()).button} `,
                                 children: [
                                     "M\xe1s de ",
-                                    paraMasOro,
-                                    "g"
+                                    masDePlata,
+                                    "kg"
                                 ]
                             }),
                             /*#__PURE__*/ (0,jsx_runtime_.jsxs)("button", {
@@ -1735,8 +1789,8 @@ const CalculadoraOro = ({ ciudad , ListadoCiudades  })=>{
                                 className: masDe ? `${(conversor_module_default()).button} ` : `${(conversor_module_default()).button} ${(conversor_module_default()).botonActivo}`,
                                 children: [
                                     "Menos de ",
-                                    paraMasOro,
-                                    "g"
+                                    masDePlata,
+                                    "kg"
                                 ]
                             })
                         ]
@@ -1753,8 +1807,8 @@ const CalculadoraOro = ({ ciudad , ListadoCiudades  })=>{
                                             className: (conversor_module_default()).masde,
                                             children: [
                                                 "M\xe1s de ",
-                                                paraMasOro,
-                                                "g"
+                                                masDePlata,
+                                                "kg"
                                             ]
                                         }),
                                         !loading ? /*#__PURE__*/ jsx_runtime_.jsx("p", {
@@ -1763,15 +1817,15 @@ const CalculadoraOro = ({ ciudad , ListadoCiudades  })=>{
                                         }) : /*#__PURE__*/ (0,jsx_runtime_.jsxs)("p", {
                                             className: (conversor_module_default()).precio18k,
                                             children: [
-                                                selectKilates ? "--- " : precioMas18k,
+                                                selectKilates ? "--- " : precio999Suma,
                                                 /*#__PURE__*/ jsx_runtime_.jsx("span", {
-                                                    children: "€/g"
+                                                    children: "€/kg"
                                                 })
                                             ]
                                         }),
                                         /*#__PURE__*/ jsx_runtime_.jsx("p", {
                                             className: (conversor_module_default()).kilates,
-                                            children: "18K"
+                                            children: "999"
                                         })
                                     ]
                                 })
@@ -1788,16 +1842,16 @@ const CalculadoraOro = ({ ciudad , ListadoCiudades  })=>{
                                             }) : /*#__PURE__*/ (0,jsx_runtime_.jsxs)("p", {
                                                 className: (conversor_module_default()).precio,
                                                 children: [
-                                                    selectKilates ? "--- " : precioMas24k,
+                                                    selectKilates ? "--- " : precio925Suma,
                                                     " ",
                                                     /*#__PURE__*/ jsx_runtime_.jsx("span", {
-                                                        children: "€/g"
+                                                        children: "€/kg"
                                                     })
                                                 ]
                                             }),
                                             /*#__PURE__*/ jsx_runtime_.jsx("p", {
                                                 className: (conversor_module_default()).preciok,
-                                                children: "24K"
+                                                children: "925"
                                             })
                                         ]
                                     }),
@@ -1810,16 +1864,16 @@ const CalculadoraOro = ({ ciudad , ListadoCiudades  })=>{
                                             }) : /*#__PURE__*/ (0,jsx_runtime_.jsxs)("p", {
                                                 className: (conversor_module_default()).precio,
                                                 children: [
-                                                    selectKilates ? "--- " : precioMas14k,
+                                                    selectKilates ? "--- " : precio800Suma,
                                                     " ",
                                                     /*#__PURE__*/ jsx_runtime_.jsx("span", {
-                                                        children: "€/g"
+                                                        children: "€/kg"
                                                     })
                                                 ]
                                             }),
                                             /*#__PURE__*/ jsx_runtime_.jsx("p", {
                                                 className: (conversor_module_default()).preciok,
-                                                children: "14K"
+                                                children: "800"
                                             })
                                         ]
                                     })
@@ -1838,22 +1892,22 @@ const CalculadoraOro = ({ ciudad , ListadoCiudades  })=>{
                                             className: (conversor_module_default()).masde,
                                             children: [
                                                 "Menos de ",
-                                                paraMasOro,
-                                                "g"
+                                                masDePlata,
+                                                "kg"
                                             ]
                                         }),
                                         /*#__PURE__*/ (0,jsx_runtime_.jsxs)("p", {
                                             className: (conversor_module_default()).precio18k,
                                             children: [
-                                                selectKilates ? "--- " : precio18k.toFixed(2),
+                                                selectKilates ? "--- " : precio999,
                                                 /*#__PURE__*/ jsx_runtime_.jsx("span", {
-                                                    children: "€/g"
+                                                    children: "€/kg"
                                                 })
                                             ]
                                         }),
                                         /*#__PURE__*/ jsx_runtime_.jsx("p", {
                                             className: (conversor_module_default()).kilates,
-                                            children: "18K"
+                                            children: "999"
                                         })
                                     ]
                                 })
@@ -1867,16 +1921,16 @@ const CalculadoraOro = ({ ciudad , ListadoCiudades  })=>{
                                             /*#__PURE__*/ (0,jsx_runtime_.jsxs)("p", {
                                                 className: (conversor_module_default()).precio,
                                                 children: [
-                                                    selectKilates ? "--- " : precio24k.toFixed(2),
+                                                    selectKilates ? "--- " : precio925,
                                                     " ",
                                                     /*#__PURE__*/ jsx_runtime_.jsx("span", {
-                                                        children: "€/g"
+                                                        children: "€/kg"
                                                     })
                                                 ]
                                             }),
                                             /*#__PURE__*/ jsx_runtime_.jsx("p", {
                                                 className: (conversor_module_default()).preciok,
-                                                children: "24K"
+                                                children: "925"
                                             })
                                         ]
                                     }),
@@ -1886,16 +1940,16 @@ const CalculadoraOro = ({ ciudad , ListadoCiudades  })=>{
                                             /*#__PURE__*/ (0,jsx_runtime_.jsxs)("p", {
                                                 className: (conversor_module_default()).precio,
                                                 children: [
-                                                    selectKilates ? "--- " : precio14k.toFixed(2),
+                                                    selectKilates ? "--- " : precio800,
                                                     " ",
                                                     /*#__PURE__*/ jsx_runtime_.jsx("span", {
-                                                        children: "€/g"
+                                                        children: "€/kg"
                                                     })
                                                 ]
                                             }),
                                             /*#__PURE__*/ jsx_runtime_.jsx("p", {
                                                 className: (conversor_module_default()).preciok,
-                                                children: "14K"
+                                                children: "800"
                                             })
                                         ]
                                     })
@@ -1924,7 +1978,7 @@ const CalculadoraOro = ({ ciudad , ListadoCiudades  })=>{
                                 className: (conversor_module_default()).Select,
                                 children: [
                                     /*#__PURE__*/ jsx_runtime_.jsx("p", {
-                                        children: "Selecciona kilates"
+                                        children: "Selecciona pureza"
                                     }),
                                     /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
                                         className: (conversor_module_default()).SelectDiv,
@@ -1934,7 +1988,6 @@ const CalculadoraOro = ({ ciudad , ListadoCiudades  })=>{
                                         children: [
                                             /*#__PURE__*/ jsx_runtime_.jsx("span", {
                                                 className: (conversor_module_default()).SelectDivKilate,
-                                                "data-precio": precio18k.toFixed(2),
                                                 children: selectKilates3 ? DataNombreKilate : /*#__PURE__*/ (0,jsx_runtime_.jsxs)(jsx_runtime_.Fragment, {
                                                     children: [
                                                         /*#__PURE__*/ jsx_runtime_.jsx("span", {
@@ -1963,9 +2016,9 @@ const CalculadoraOro = ({ ciudad , ListadoCiudades  })=>{
                                                                 setDataNombreKilate(e.target.dataset.nombre);
                                                                 setSelectKilates3(true);
                                                             },
-                                                            "data-precio": precio18k.toFixed(2),
-                                                            "data-nombre": "18k",
-                                                            children: "18K"
+                                                            "data-precio": precio999,
+                                                            "data-nombre": "999",
+                                                            children: "999"
                                                         }),
                                                         /*#__PURE__*/ jsx_runtime_.jsx("li", {
                                                             onClick: (e)=>{
@@ -1973,9 +2026,9 @@ const CalculadoraOro = ({ ciudad , ListadoCiudades  })=>{
                                                                 setDataNombreKilate(e.target.dataset.nombre);
                                                                 setSelectKilates3(true);
                                                             },
-                                                            "data-precio": precio14k.toFixed(2),
-                                                            "data-nombre": "14k",
-                                                            children: "14K"
+                                                            "data-precio": precio925,
+                                                            "data-nombre": "925",
+                                                            children: "925"
                                                         }),
                                                         /*#__PURE__*/ jsx_runtime_.jsx("li", {
                                                             onClick: (e)=>{
@@ -1983,9 +2036,9 @@ const CalculadoraOro = ({ ciudad , ListadoCiudades  })=>{
                                                                 setDataNombreKilate(e.target.dataset.nombre);
                                                                 setSelectKilates3(true);
                                                             },
-                                                            "data-precio": precio24k.toFixed(2),
-                                                            "data-nombre": "24k",
-                                                            children: "24K"
+                                                            "data-precio": precio800,
+                                                            "data-nombre": "800",
+                                                            children: "800"
                                                         })
                                                     ]
                                                 })
@@ -2015,18 +2068,18 @@ const CalculadoraOro = ({ ciudad , ListadoCiudades  })=>{
                     }),
                     /*#__PURE__*/ jsx_runtime_.jsx("p", {
                         className: (conversor_module_default()).tituloInferior,
-                        children: "TE DAMOS POR TU ORO"
+                        children: "TE DAMOS POR TU PLATA"
                     }),
                     /*#__PURE__*/ (0,jsx_runtime_.jsxs)("p", {
                         className: (conversor_module_default()).precioFinal,
                         children: [
-                            selectKilates3 ? valorInput > parseFloat(paraMasOro) ? (valorInput * valorSelectSuma).toLocaleString("es", {
+                            selectKilates3 ? valorInput >= parseFloat(masDePlata * 1000) ? (valorInput / 1000 * valorSelectSuma).toLocaleString("es", {
                                 style: "currency",
                                 currency: "EUR"
-                            }) : (valorInput * valorSelectNormal).toLocaleString("es", {
+                            }) : (valorInput / 1000 * valorSelectNormal).toLocaleString("es", {
                                 style: "currency",
                                 currency: "EUR"
-                            }) : "----",
+                            }) : "---",
                             /*#__PURE__*/ jsx_runtime_.jsx("span", {})
                         ]
                     }),
@@ -2036,23 +2089,23 @@ const CalculadoraOro = ({ ciudad , ListadoCiudades  })=>{
                             className: (conversor_module_default()).linea,
                             children: "Promoci\xf3n Online"
                         })
-                    }),
-                    /*#__PURE__*/ (0,jsx_runtime_.jsxs)("a", {
-                        className: (conversor_module_default()).botonLlamarTienda,
-                        href: `tel:${ciudad?.acf?.telefono}`,
-                        children: [
-                            "LLAMA GRATIS AL ",
-                            ciudad?.acf?.telefono
-                        ]
                     })
+                ]
+            }),
+            /*#__PURE__*/ (0,jsx_runtime_.jsxs)("a", {
+                className: (conversor_module_default()).botonLlamarTienda,
+                href: `tel:${ciudad?.acf?.telefono}`,
+                children: [
+                    "LLAMA GRATIS AL ",
+                    ciudad?.acf?.telefono
                 ]
             })
         ]
     });
 };
-/* harmony default export */ const ConversorPlata_CalculadoraOro = (CalculadoraOro);
+/* harmony default export */ const BloquePrecioPlata = (CalculadoraOro);
 
-;// CONCATENATED MODULE: ./src/componentes/Compro-oro/Section_3/Section_tres.js
+;// CONCATENATED MODULE: ./src/componentes/Compro-plata/Section_3/Section_tres.js
 
 
 
@@ -2069,7 +2122,7 @@ const Section_tres = ({ ciudad , ListadoCiudades  })=>{
                     children: [
                         /*#__PURE__*/ (0,jsx_runtime_.jsxs)("h2", {
                             children: [
-                                "Vender oro en ",
+                                "Vender plata en ",
                                 /*#__PURE__*/ jsx_runtime_.jsx("span", {
                                     className: (sectionTres_module_default()).linea,
                                     children: "quickgold"
@@ -2077,22 +2130,29 @@ const Section_tres = ({ ciudad , ListadoCiudades  })=>{
                                 " es f\xe1cil"
                             ]
                         }),
+                        /*#__PURE__*/ jsx_runtime_.jsx("p", {
+                            children: "Al igual que con cualquier otro metal precioso, el precio de la plata var\xeda en el tiempo seg\xfan ciertos criterios como: el peso o la pureza. Por eso es necesario realizar una tasaci\xf3n previa a la venta de plata."
+                        }),
+                        /*#__PURE__*/ jsx_runtime_.jsx("p", {
+                            children: "Nuestro equipo cualificado ser\xe1 el encargado de realizar todas las pruebas necesarias para fijar el precio de las piezas. \xc9stas se realizan, como siempre, a la vista del cliente y se complementan aportando toda la informaci\xf3n precisa por cada paso que van dando."
+                        }),
                         /*#__PURE__*/ (0,jsx_runtime_.jsxs)("p", {
                             children: [
-                                "El proceso de venta es muy sencillo y c\xf3modo. Primeramente, realizamos la tasaci\xf3n por parte de nuestro equipo de profesionales que te informar\xe1n en todo momento de los pasos que van efectuando. Adem\xe1s, \xe9sta se realiza siempre a la vista para que puedas comprobar por ti mismo los datos aportados por nuestras compa\xf1eras.",
-                                " "
+                                "Obt\xe9n r\xe1pidamente dinero extra al vender tus piezas de plata en Quickgold, puedes fijar el precio de venta directamente llam\xe1ndonos gratuitamente al",
+                                " ",
+                                /*#__PURE__*/ jsx_runtime_.jsx("a", {
+                                    href: `tel:${ciudad?.acf?.telefono}`,
+                                    children: /*#__PURE__*/ jsx_runtime_.jsx("strong", {
+                                        children: ciudad?.acf?.telefono
+                                    })
+                                }),
+                                ", estaremos encantados de atenderte."
                             ]
-                        }),
-                        /*#__PURE__*/ jsx_runtime_.jsx("p", {
-                            children: "Puedes traernos cualquier pieza de oro, no importa si est\xe1 deteriorada o desparejada. Una vez que hayamos comprobado la pureza de la misma calculamos su valor basado en la cotizaci\xf3n del momento, y te abonamos el importe en efectivo o por transferencia."
-                        }),
-                        /*#__PURE__*/ jsx_runtime_.jsx("p", {
-                            children: "En quickgold llevamos al frente m\xe1s de 15 a\xf1os ofreciendo nuestro servicio de compro oro, por lo que cuentas con especialistas con una larga trayectoria que te ayudar\xe1n en todo lo que necesites. Como nos encanta recibir tu satisfacci\xf3n y confianza nos adaptamos a tus circunstancias ofreci\xe9ndote siempre el mejor servicio posible."
                         }),
                         /*#__PURE__*/ jsx_runtime_.jsx("div", {
                             className: (sectionTres_module_default()).bloqueIzqInferior,
                             children: /*#__PURE__*/ jsx_runtime_.jsx("p", {
-                                children: "Ven a cualquier tienda quickgold sin necesidad de cita previa, estaremos encantados de atenderte y ayudarte en la venta de tus joyas de oro."
+                                children: "Ven a cualquier tienda quickgold sin necesidad de cita previa, estaremos encantados de atenderte y ayudarte en la venta de tus piezas de plata."
                             })
                         })
                     ]
@@ -2106,14 +2166,15 @@ const Section_tres = ({ ciudad , ListadoCiudades  })=>{
                             children: [
                                 /*#__PURE__*/ jsx_runtime_.jsx("div", {
                                     children: /*#__PURE__*/ jsx_runtime_.jsx("img", {
-                                        src: "https://quickgold.es/imagenAdornoOro.png",
-                                        alt: "Logo Oro"
+                                        loading: "lazy",
+                                        src: "/adornoPlata.png",
+                                        alt: "Logo Plata"
                                     })
                                 }),
                                 /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
                                     children: [
                                         /*#__PURE__*/ jsx_runtime_.jsx("p", {
-                                            children: "Compra de oro"
+                                            children: "Venta de plata"
                                         }),
                                         /*#__PURE__*/ jsx_runtime_.jsx("p", {
                                             children: "Ciudad donde quieres vender"
@@ -2122,7 +2183,7 @@ const Section_tres = ({ ciudad , ListadoCiudades  })=>{
                                 })
                             ]
                         }),
-                        /*#__PURE__*/ jsx_runtime_.jsx(ConversorPlata_CalculadoraOro, {
+                        /*#__PURE__*/ jsx_runtime_.jsx(BloquePrecioPlata, {
                             ciudad: ciudad,
                             ListadoCiudades: ListadoCiudades
                         })
@@ -2134,85 +2195,96 @@ const Section_tres = ({ ciudad , ListadoCiudades  })=>{
 };
 /* harmony default export */ const Section_3_Section_tres = (Section_tres);
 
-// EXTERNAL MODULE: ./src/componentes/Compro-oro/Section_5/sectionCinco.module.css
-var sectionCinco_module = __webpack_require__(1470);
-var sectionCinco_module_default = /*#__PURE__*/__webpack_require__.n(sectionCinco_module);
-;// CONCATENATED MODULE: ./src/componentes/Compro-oro/Section_5/Section_cinco.js
+// EXTERNAL MODULE: ./src/componentes/Compro-plata/Section_4/sectionCuatro.module.css
+var sectionCuatro_module = __webpack_require__(5366);
+var sectionCuatro_module_default = /*#__PURE__*/__webpack_require__.n(sectionCuatro_module);
+;// CONCATENATED MODULE: ./src/componentes/Compro-plata/Section_4/Section_cuatro.js
 
 
 
-const Section_cinco = ({ ciudad  })=>{
+const Section_cuatro = ({ ciudad  })=>{
     return /*#__PURE__*/ (0,jsx_runtime_.jsxs)("section", {
-        className: (sectionCinco_module_default()).contenedorSectionCinco,
+        className: (sectionCuatro_module_default()).contenedorSectionCinco,
         children: [
             /*#__PURE__*/ jsx_runtime_.jsx("div", {
-                className: (sectionCinco_module_default()).contenedorSectionCincoMargen,
+                className: (sectionCuatro_module_default()).contenedorSectionCincoMargen,
                 children: /*#__PURE__*/ (0,jsx_runtime_.jsxs)("h4", {
                     children: [
-                        "C\xf3mo vender oro en ",
+                        "C\xf3mo vender plata en ",
                         /*#__PURE__*/ jsx_runtime_.jsx("span", {
-                            className: (sectionCinco_module_default()).linea,
+                            className: (sectionCuatro_module_default()).linea,
                             children: "quickgold"
                         })
                     ]
                 })
             }),
             /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
-                className: (sectionCinco_module_default()).sectionCincoContenido,
+                className: (sectionCuatro_module_default()).sectionCincoContenido,
                 children: [
                     /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
-                        className: (sectionCinco_module_default()).contenidoCard,
+                        className: (sectionCuatro_module_default()).contenidoCard,
                         children: [
                             /*#__PURE__*/ jsx_runtime_.jsx("p", {
                                 children: "#1"
                             }),
                             /*#__PURE__*/ jsx_runtime_.jsx("p", {
-                                children: "Comprobaci\xf3n inicial"
+                                children: "Pesaje"
                             }),
                             /*#__PURE__*/ jsx_runtime_.jsx("p", {
-                                children: "La comprobaci\xf3n del oro sigue un procedimiento riguroso y claro, independientemente de que se trate de nuestro servicio de compraventa o empe\xf1o. Nuestras compa\xf1eras, por seguridad, realizar\xe1n una comprobaci\xf3n previa para ver el estado y procedencia de \xe9stas. No importa si est\xe1n rotas o desparejadas, utilizaremos un im\xe1n y una comprobaci\xf3n visual con lupa de los contrastes de la pieza para determinar si es oro."
+                                children: "Todas las piezas se pesan a la vista de nuestros clientes en balanzas homologadas y certificadas por el Ministerio de Industria."
                             })
                         ]
                     }),
                     /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
-                        className: (sectionCinco_module_default()).contenidoCard,
+                        className: (sectionCuatro_module_default()).contenidoCard,
                         children: [
                             /*#__PURE__*/ jsx_runtime_.jsx("p", {
                                 children: "#2"
                             }),
                             /*#__PURE__*/ jsx_runtime_.jsx("p", {
-                                children: "Tasaci\xf3n profesional a la vista"
+                                children: "Comprobaci\xf3n"
                             }),
                             /*#__PURE__*/ jsx_runtime_.jsx("p", {
-                                children: "Una vez realizada la comprobaci\xf3n previa. Comenzamos con el proceso de tasaci\xf3n utilizando herramientas homologadas. Todos los pasos que nuestras compa\xf1eras van efectuando se detallan al cliente, adem\xe1s, cada uno de ellos se realiza a la vista para que resulte un proceso totalmente transparente. Utilizaremos dens\xedmetros para determinar el quilataje de la pieza y \xe1cidos que por norma general no ser\xe1 inferior a 14K."
+                                children: "La pureza de la plata viene determinada por los contrastes que se pueden encontrar en las propias piezas. Estas son visibles a simple vista."
                             })
                         ]
                     }),
                     /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
-                        className: (sectionCinco_module_default()).contenidoCard,
+                        className: (sectionCuatro_module_default()).contenidoCard,
                         children: [
                             /*#__PURE__*/ jsx_runtime_.jsx("p", {
                                 children: "#3"
                             }),
                             /*#__PURE__*/ jsx_runtime_.jsx("p", {
-                                children: "Valoraci\xf3n de las piezas de oro"
+                                children: "Importe a pagar"
                             }),
-                            /*#__PURE__*/ jsx_runtime_.jsx("p", {
-                                children: "Una vez tasadas las joyas de oro se ofrece un importe basado en la cotizaci\xf3n actual del mercado. Si est\xe1s de acuerdo con \xe9ste tan s\xf3lo necesitamos tu DNI u otra identificaci\xf3n en vigor para realizar la compra de las joyas. Recuerda que debes ser mayor de edad y presentar DNI en vigor."
+                            /*#__PURE__*/ (0,jsx_runtime_.jsxs)("p", {
+                                children: [
+                                    "En caso de haber fijado precio, se pagar\xe1n los gramos pesados por el peso fijado (para fijar precio, llame gratis al",
+                                    " ",
+                                    /*#__PURE__*/ jsx_runtime_.jsx("a", {
+                                        href: `tel:${ciudad?.acf?.telefono}`,
+                                        children: /*#__PURE__*/ jsx_runtime_.jsx("strong", {
+                                            children: ciudad?.acf?.telefono
+                                        })
+                                    }),
+                                    " ",
+                                    "). En caso contrario, se aplicar\xe1 el precio publicado en el momento de la venta."
+                                ]
                             })
                         ]
                     }),
                     /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
-                        className: (sectionCinco_module_default()).contenidoCard,
+                        className: (sectionCuatro_module_default()).contenidoCard,
                         children: [
                             /*#__PURE__*/ jsx_runtime_.jsx("p", {
                                 children: "#4"
                             }),
                             /*#__PURE__*/ jsx_runtime_.jsx("p", {
-                                children: "Pago inmediato del valor fijado y acordado"
+                                children: "Pago"
                             }),
                             /*#__PURE__*/ jsx_runtime_.jsx("p", {
-                                children: "Te entregaremos el importe acordado en el momento para que dispongas de forma inmediata el efectivo de la transacci\xf3n. Te garantizamos, durante todo el proceso de venta, el mejor servicio y atenci\xf3n para tu satisfacci\xf3n. Siempre con la sonrisa que nos provoca realizar el trabajo que nos encanta poder ofrecerte."
+                                children: "Tras esto, se proceder\xe1 al pago correspondiente a la venta de las piezas. Asimismo, en cumplimiento con la legislaci\xf3n vigente, se requerir\xe1 el DNI del cliente para dejar constancia de la venta. El pago puede realizarse en efectivo o por transferencia."
                             })
                         ]
                     })
@@ -2221,11 +2293,352 @@ const Section_cinco = ({ ciudad  })=>{
         ]
     });
 };
-/* harmony default export */ const Section_5_Section_cinco = (Section_cinco);
+/* harmony default export */ const Section_4_Section_cuatro = (Section_cuatro);
 
-// EXTERNAL MODULE: ./src/componentes/Compro-oro/Section_6/sectionSeis.module.css
-var sectionSeis_module = __webpack_require__(4988);
+;// CONCATENATED MODULE: ./src/componentes/Compro-plata/Section_5/Section_cinco.js
+
+
+
+
+const Section_cinco = ({ ciudad  })=>{
+    return /*#__PURE__*/ _jsx("section", {
+        className: styles.contenedorSectionCuatro,
+        children: /*#__PURE__*/ _jsxs("div", {
+            className: styles.contenedorSectionCuatroMargen,
+            children: [
+                /*#__PURE__*/ _jsx("div", {
+                    className: styles.bloqueIzq,
+                    children: /*#__PURE__*/ _jsxs("div", {
+                        className: styles.bloqueIzqTexto,
+                        children: [
+                            /*#__PURE__*/ _jsx("h4", {
+                                children: "Compra de plata"
+                            }),
+                            /*#__PURE__*/ _jsx("p", {
+                                children: "Ciudad donde quieres comprar"
+                            }),
+                            /*#__PURE__*/ _jsxs("div", {
+                                className: styles.bloqueIzqSelect,
+                                children: [
+                                    /*#__PURE__*/ _jsx("div", {
+                                        className: styles.select,
+                                        children: "select aqui"
+                                    }),
+                                    /*#__PURE__*/ _jsx("button", {
+                                        className: styles.botonPopUp,
+                                        title: "texto",
+                                        children: "VER PRECIO ACTUAL DE LA PLATA"
+                                    })
+                                ]
+                            })
+                        ]
+                    })
+                }),
+                /*#__PURE__*/ _jsxs("div", {
+                    className: styles.bloqueDer,
+                    children: [
+                        /*#__PURE__*/ _jsx("p", {
+                            children: "\xbfQu\xe9 plata compramos?"
+                        }),
+                        /*#__PURE__*/ _jsx("p", {
+                            children: "Compramos todo tipo de objetos de plata como: joyas, monedas, bandejas, trofeos, cuberter\xedas y lingotes. Para conocer el precio por kilo de este metal accede a la p\xe1gina de tu ciudad o de tu tienda favorita."
+                        }),
+                        /*#__PURE__*/ _jsxs("a", {
+                            className: styles.botonLlamar,
+                            href: `tel:${ciudad?.acf?.telefono}`,
+                            title: "Tel\xe9fono",
+                            children: [
+                                "Llama gratis al ",
+                                ciudad?.acf?.telefono
+                            ]
+                        })
+                    ]
+                })
+            ]
+        })
+    });
+};
+/* harmony default export */ const Section_5_Section_cinco = ((/* unused pure expression or super */ null && (Section_cinco)));
+
+// EXTERNAL MODULE: ./src/componentes/Compro-plata/Section_6/sectionSeis.module.css
+var sectionSeis_module = __webpack_require__(6152);
 var sectionSeis_module_default = /*#__PURE__*/__webpack_require__.n(sectionSeis_module);
+;// CONCATENATED MODULE: ./src/componentes/Compro-plata/Section_6/Section_seis.js
+
+
+
+
+const Section_seis = ({ ciudad  })=>{
+    return /*#__PURE__*/ (0,jsx_runtime_.jsxs)("section", {
+        className: (sectionSeis_module_default()).contenedorSectionCinco,
+        children: [
+            /*#__PURE__*/ jsx_runtime_.jsx("div", {
+                className: (sectionSeis_module_default()).bloqueSuperior,
+                children: /*#__PURE__*/ jsx_runtime_.jsx("h3", {
+                    children: "\xbfPor qu\xe9 elegirnos?"
+                })
+            }),
+            /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
+                className: (sectionSeis_module_default()).bloqueInferior,
+                children: [
+                    /*#__PURE__*/ jsx_runtime_.jsx("div", {
+                        className: (sectionSeis_module_default()).contenedorVentajas1,
+                        children: /*#__PURE__*/ jsx_runtime_.jsx("p", {
+                            children: "Recibo de compra con el precio y el peso desglosado"
+                        })
+                    }),
+                    /*#__PURE__*/ jsx_runtime_.jsx("div", {
+                        className: (sectionSeis_module_default()).contenedorVentajas2,
+                        children: /*#__PURE__*/ jsx_runtime_.jsx("p", {
+                            children: "Cumplimos la normativa de seguridad privada garantizando una custodia segura"
+                        })
+                    }),
+                    /*#__PURE__*/ jsx_runtime_.jsx("div", {
+                        className: (sectionSeis_module_default()).contenedorVentajas3,
+                        children: /*#__PURE__*/ jsx_runtime_.jsx("p", {
+                            children: "Precios publicados reales y actualizados cada 3 horas"
+                        })
+                    }),
+                    /*#__PURE__*/ jsx_runtime_.jsx("div", {
+                        className: (sectionSeis_module_default()).contenedorVentajas4,
+                        children: /*#__PURE__*/ jsx_runtime_.jsx("p", {
+                            children: "Protecci\xf3n de sus piezas mediante normas de seguridad exigidas por la jefatura de polic\xeda"
+                        })
+                    }),
+                    /*#__PURE__*/ jsx_runtime_.jsx("div", {
+                        className: (sectionSeis_module_default()).contenedorVentajas5,
+                        children: /*#__PURE__*/ jsx_runtime_.jsx("p", {
+                            children: "Comprobaci\xf3n y pesaje a la vista del cliente"
+                        })
+                    }),
+                    /*#__PURE__*/ jsx_runtime_.jsx("div", {
+                        className: (sectionSeis_module_default()).contenedorVentajas6,
+                        children: /*#__PURE__*/ jsx_runtime_.jsx("p", {
+                            children: "B\xe1sculas homologadas por el ministerio de industria"
+                        })
+                    }),
+                    /*#__PURE__*/ jsx_runtime_.jsx("div", {
+                        className: (sectionSeis_module_default()).contenedorVentajas7,
+                        children: /*#__PURE__*/ jsx_runtime_.jsx("p", {
+                            children: "Profesionales formados y en constante formaci\xf3n"
+                        })
+                    }),
+                    /*#__PURE__*/ jsx_runtime_.jsx("div", {
+                        className: (sectionSeis_module_default()).contenedorVentajas8,
+                        children: /*#__PURE__*/ jsx_runtime_.jsx("p", {
+                            children: "Descartes seg\xfan cat\xe1logo de gemas"
+                        })
+                    }),
+                    /*#__PURE__*/ jsx_runtime_.jsx("div", {
+                        className: (sectionSeis_module_default()).contenedorVentajas9,
+                        children: /*#__PURE__*/ jsx_runtime_.jsx("p", {
+                            children: "Registro de todas las operaciones"
+                        })
+                    })
+                ]
+            })
+        ]
+    });
+};
+/* harmony default export */ const Section_6_Section_seis = (Section_seis);
+
+// EXTERNAL MODULE: ./src/componentes/Compro-plata/Section_6_mobil/sectionSeisMobil.module.css
+var sectionSeisMobil_module = __webpack_require__(6855);
+var sectionSeisMobil_module_default = /*#__PURE__*/__webpack_require__.n(sectionSeisMobil_module);
+;// CONCATENATED MODULE: ./src/componentes/Compro-plata/Section_6_mobil/Section_seis_mobil.js
+
+
+
+
+const Section_seis_mobil = ({ ciudad  })=>{
+    return /*#__PURE__*/ (0,jsx_runtime_.jsxs)("section", {
+        className: (sectionSeisMobil_module_default()).contenedorSectionCincoMobil,
+        children: [
+            /*#__PURE__*/ jsx_runtime_.jsx("div", {
+                className: (sectionSeisMobil_module_default()).bloqueSuperior,
+                children: /*#__PURE__*/ jsx_runtime_.jsx("h2", {
+                    children: "\xbfPor qu\xe9 elegirnos?"
+                })
+            }),
+            /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
+                className: (sectionSeisMobil_module_default()).bloqueInferior,
+                children: [
+                    /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
+                        className: (sectionSeisMobil_module_default()).contenedorVentajas,
+                        children: [
+                            /*#__PURE__*/ jsx_runtime_.jsx("div", {
+                                className: (sectionSeisMobil_module_default()).imagenventaja1,
+                                children: /*#__PURE__*/ jsx_runtime_.jsx("img", {
+                                    loading: "lazy",
+                                    src: "/imagenPorqueElegirnosMovil1.png",
+                                    alt: "compro plata",
+                                    width: 56,
+                                    height: 56
+                                })
+                            }),
+                            /*#__PURE__*/ jsx_runtime_.jsx("p", {
+                                children: "Recibo de compra con el precio y el peso desglosado."
+                            })
+                        ]
+                    }),
+                    /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
+                        className: (sectionSeisMobil_module_default()).contenedorVentajas,
+                        children: [
+                            /*#__PURE__*/ jsx_runtime_.jsx("div", {
+                                className: (sectionSeisMobil_module_default()).imagenventaja1,
+                                children: /*#__PURE__*/ jsx_runtime_.jsx("img", {
+                                    loading: "lazy",
+                                    src: "/imagenPorqueElegirnosMovil2.png",
+                                    alt: "precio plata",
+                                    width: 56,
+                                    height: 56
+                                })
+                            }),
+                            /*#__PURE__*/ jsx_runtime_.jsx("p", {
+                                children: "Cumplimos la normativa de seguridad privada garantizando una custodia segura."
+                            })
+                        ]
+                    }),
+                    /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
+                        className: (sectionSeisMobil_module_default()).contenedorVentajas,
+                        children: [
+                            /*#__PURE__*/ jsx_runtime_.jsx("div", {
+                                className: (sectionSeisMobil_module_default()).imagenventaja1,
+                                children: /*#__PURE__*/ jsx_runtime_.jsx("img", {
+                                    loading: "lazy",
+                                    src: "/imagenPorqueElegirnosMovil3.png",
+                                    alt: "tiendas compro plata",
+                                    width: 56,
+                                    height: 56
+                                })
+                            }),
+                            /*#__PURE__*/ jsx_runtime_.jsx("p", {
+                                children: "Precios publicados reales y actualizados cada 3 horas."
+                            })
+                        ]
+                    }),
+                    /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
+                        className: (sectionSeisMobil_module_default()).contenedorVentajas,
+                        children: [
+                            /*#__PURE__*/ jsx_runtime_.jsx("div", {
+                                className: (sectionSeisMobil_module_default()).imagenventaja1,
+                                children: /*#__PURE__*/ jsx_runtime_.jsx("img", {
+                                    loading: "lazy",
+                                    src: "/imagenPorqueElegirnosMovil4.png",
+                                    alt: "vender plata",
+                                    width: 56,
+                                    height: 56
+                                })
+                            }),
+                            /*#__PURE__*/ jsx_runtime_.jsx("p", {
+                                children: "Protecci\xf3n de sus piezas mediante normas de seguridad exigidas por la jefatura de polic\xeda."
+                            })
+                        ]
+                    }),
+                    /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
+                        className: (sectionSeisMobil_module_default()).contenedorVentajas,
+                        children: [
+                            /*#__PURE__*/ jsx_runtime_.jsx("div", {
+                                className: (sectionSeisMobil_module_default()).imagenventaja1,
+                                children: /*#__PURE__*/ jsx_runtime_.jsx("img", {
+                                    loading: "lazy",
+                                    src: "/imagenPorqueElegirnosMovil5.png",
+                                    alt: "compra de plata",
+                                    width: 56,
+                                    height: 56
+                                })
+                            }),
+                            /*#__PURE__*/ jsx_runtime_.jsx("p", {
+                                children: "Comprobaciones y pesaje a la vista del cliente."
+                            })
+                        ]
+                    }),
+                    /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
+                        className: (sectionSeisMobil_module_default()).contenedorVentajas,
+                        children: [
+                            /*#__PURE__*/ jsx_runtime_.jsx("div", {
+                                className: (sectionSeisMobil_module_default()).imagenventaja1,
+                                children: /*#__PURE__*/ jsx_runtime_.jsx("img", {
+                                    loading: "lazy",
+                                    src: "/imagenPorqueElegirnosMovil6.png",
+                                    alt: "Mejor servicio y precio",
+                                    width: 56,
+                                    height: 56
+                                })
+                            }),
+                            /*#__PURE__*/ jsx_runtime_.jsx("p", {
+                                children: "B\xe1sculas homologadas por el ministerio de industria."
+                            })
+                        ]
+                    }),
+                    /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
+                        className: (sectionSeisMobil_module_default()).contenedorVentajas,
+                        children: [
+                            /*#__PURE__*/ jsx_runtime_.jsx("div", {
+                                className: (sectionSeisMobil_module_default()).imagenventaja1,
+                                children: /*#__PURE__*/ jsx_runtime_.jsx("img", {
+                                    loading: "lazy",
+                                    src: "/imagenPorqueElegirnosMovil7.png",
+                                    alt: "vender plata precio",
+                                    width: 56,
+                                    height: 56
+                                })
+                            }),
+                            /*#__PURE__*/ jsx_runtime_.jsx("p", {
+                                children: "Profesionales formados y en constante formaci\xf3n."
+                            })
+                        ]
+                    }),
+                    /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
+                        className: (sectionSeisMobil_module_default()).contenedorVentajas,
+                        children: [
+                            /*#__PURE__*/ jsx_runtime_.jsx("div", {
+                                className: (sectionSeisMobil_module_default()).imagenventaja1,
+                                children: /*#__PURE__*/ jsx_runtime_.jsx("img", {
+                                    loading: "lazy",
+                                    src: "/imagenPorqueElegirnosMovil8.png",
+                                    alt: "Mejor servicio y precio",
+                                    width: 56,
+                                    height: 56
+                                })
+                            }),
+                            /*#__PURE__*/ jsx_runtime_.jsx("p", {
+                                children: "Descartes seg\xfan cat\xe1logo de gemas."
+                            })
+                        ]
+                    }),
+                    /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
+                        className: (sectionSeisMobil_module_default()).contenedorVentajas,
+                        children: [
+                            /*#__PURE__*/ jsx_runtime_.jsx("div", {
+                                className: (sectionSeisMobil_module_default()).imagenventaja1,
+                                children: /*#__PURE__*/ jsx_runtime_.jsx("img", {
+                                    loading: "lazy",
+                                    src: "/imagenPorqueElegirnosMovil9.png",
+                                    alt: "Mejor servicio y precio",
+                                    width: 56,
+                                    height: 56
+                                })
+                            }),
+                            /*#__PURE__*/ jsx_runtime_.jsx("p", {
+                                children: "Registro de todas las operaciones."
+                            })
+                        ]
+                    })
+                ]
+            }),
+            /*#__PURE__*/ jsx_runtime_.jsx("p", {
+                className: (sectionSeisMobil_module_default()).texto,
+                children: "Informaci\xf3n de inter\xe9s"
+            })
+        ]
+    });
+};
+/* harmony default export */ const Section_6_mobil_Section_seis_mobil = (Section_seis_mobil);
+
+// EXTERNAL MODULE: ./src/componentes/Compro-plata/Section_7/sectionSiete.module.css
+var sectionSiete_module = __webpack_require__(8148);
+var sectionSiete_module_default = /*#__PURE__*/__webpack_require__.n(sectionSiete_module);
 // EXTERNAL MODULE: ./src/componentes/SelectorCiudadesServicio/SelectorCiudades.module.css
 var SelectorCiudades_module = __webpack_require__(8410);
 var SelectorCiudades_module_default = /*#__PURE__*/__webpack_require__.n(SelectorCiudades_module);
@@ -2267,29 +2680,29 @@ const SelectorCiudadesServicio = ({ listadoCiudadesServicios  })=>{
 };
 /* harmony default export */ const SelectorCiudadesServicio_SelectorCiudadesServicio = (SelectorCiudadesServicio);
 
-;// CONCATENATED MODULE: ./src/componentes/Compro-oro/Section_6/Section_seis.js
+;// CONCATENATED MODULE: ./src/componentes/Compro-plata/Section_7/Section_siete.js
 
 
 
 
-const Section_seis = ({ listadoCiudadesServicios  })=>{
+const Section_siete = ({ ciudad , listadoCiudadesServicios  })=>{
     return /*#__PURE__*/ jsx_runtime_.jsx("section", {
-        className: (sectionSeis_module_default()).contenedorSectionSeis,
+        className: (sectionSiete_module_default()).contenedorSectionSeis,
         children: /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
-            className: (sectionSeis_module_default()).contenedorSectionSeisMargen,
+            className: (sectionSiete_module_default()).contenedorSectionSeisMargen,
             children: [
                 /*#__PURE__*/ jsx_runtime_.jsx("h5", {
-                    className: (sectionSeis_module_default()).tituloMobil,
-                    children: "Nuestras tiendas compro oro"
+                    className: (sectionSiete_module_default()).tituloMobil,
+                    children: "Nuestras tiendas compro plata"
                 }),
                 /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
-                    className: (sectionSeis_module_default()).BannerSelectorCiudad,
+                    className: (sectionSiete_module_default()).BannerSelectorCiudad,
                     children: [
                         /*#__PURE__*/ jsx_runtime_.jsx("h5", {
-                            children: "Nuestras tiendas compro oro"
+                            children: "Nuestras tiendas compro plata"
                         }),
                         /*#__PURE__*/ jsx_runtime_.jsx("div", {
-                            className: (sectionSeis_module_default()).SelectCiudades,
+                            className: (sectionSiete_module_default()).SelectCiudades,
                             children: /*#__PURE__*/ jsx_runtime_.jsx(SelectorCiudadesServicio_SelectorCiudadesServicio, {
                                 listadoCiudadesServicios: listadoCiudadesServicios
                             })
@@ -2297,115 +2710,49 @@ const Section_seis = ({ listadoCiudadesServicios  })=>{
                     ]
                 }),
                 /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
-                    className: (sectionSeis_module_default()).contenedorTexto,
+                    className: (sectionSiete_module_default()).contenedorTexto,
                     children: [
                         /*#__PURE__*/ jsx_runtime_.jsx("h5", {
-                            children: "\xbfQu\xe9 tipo de oro hay en el mercado?"
+                            children: "Los contrastes de la plata"
                         }),
                         /*#__PURE__*/ jsx_runtime_.jsx("p", {
-                            children: "Existe diferentes tipo de oro seg\xfan sus quilates, caracter\xedsticas, calidad, etc."
+                            children: "La plata como el oro tiene diferentes caracter\xedsticas que hace que se distingan diferentes tipolog\xedas, te indicamos las m\xe1s comunes."
                         })
                     ]
                 }),
                 /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
-                    className: (sectionSeis_module_default()).contenedorTiposOro,
+                    className: (sectionSiete_module_default()).contenedorTiposOro,
                     children: [
                         /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
-                            className: (sectionSeis_module_default()).contenedorTiposOroCard1,
+                            className: (sectionSiete_module_default()).contenedorTiposOroCard1,
                             children: [
                                 /*#__PURE__*/ jsx_runtime_.jsx("p", {
-                                    children: "Oro 24K "
+                                    children: "Plata 800 "
                                 }),
                                 /*#__PURE__*/ jsx_runtime_.jsx("p", {
-                                    children: "Es m\xe1s conocido por ser el llamado \xaboro de inversi\xf3n\xbb. Tiene un grado de pureza de 99,9% por lo que se le considera oro puro. Lo encontrar\xe1s en lingotes de oro."
+                                    children: "Este tipo contiene un 80% de plata y un 20% de otros metales. Se le conoce como “plata de segunda ley”. Se suele usar para cadenas por su resistencia."
                                 })
                             ]
                         }),
                         /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
-                            className: (sectionSeis_module_default()).contenedorTiposOroCard2,
+                            className: (sectionSiete_module_default()).contenedorTiposOroCard2,
                             children: [
                                 /*#__PURE__*/ jsx_runtime_.jsx("p", {
-                                    children: "Oro 18K "
+                                    children: "Plata 925 o esterlina "
                                 }),
                                 /*#__PURE__*/ jsx_runtime_.jsx("p", {
-                                    children: "El oro alto tiene una pureza del 75%. Es el m\xe1s usado en joyer\xeda y orfebrer\xeda."
+                                    children: "Est\xe1 formada por un 92,5% de plata que junto con otras fusiones le dan dureza para la elaboraci\xf3n de las joyas. Es la m\xe1s empleada y tambi\xe9n muy habitual en monedas de plata."
                                 })
                             ]
                         }),
                         /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
-                            className: (sectionSeis_module_default()).contenedorTiposOroCard1,
+                            className: (sectionSiete_module_default()).contenedorTiposOroCard1,
                             children: [
                                 /*#__PURE__*/ jsx_runtime_.jsx("p", {
-                                    children: "Oro 14K "
+                                    children: "Plata 900 "
                                 }),
                                 /*#__PURE__*/ jsx_runtime_.jsx("p", {
-                                    children: "Es conocido como oro bajo ya que tiene una pureza del 60% y est\xe1 compuesto por 14 partes de oro y 10 de otros metales."
-                                })
-                            ]
-                        }),
-                        /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
-                            className: (sectionSeis_module_default()).contenedorTiposOroCard2,
-                            children: [
-                                /*#__PURE__*/ jsx_runtime_.jsx("p", {
-                                    children: "Oro amarillo "
-                                }),
-                                /*#__PURE__*/ jsx_runtime_.jsx("p", {
-                                    children: "Se trata de oro noble cuyo color no suele cambiar y suele ser de 24K o 18K."
-                                })
-                            ]
-                        }),
-                        /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
-                            className: (sectionSeis_module_default()).contenedorTiposOroCard1,
-                            children: [
-                                /*#__PURE__*/ jsx_runtime_.jsx("p", {
-                                    children: "Oro blanco "
-                                }),
-                                /*#__PURE__*/ jsx_runtime_.jsx("p", {
-                                    children: "Com\xfanmente es de 18K y contiene un 75% de oro fino y una aleaci\xf3n de paladio o de Liga Italiana (material proveniente de Italia de alta calidad que permite realizar una mejor fundici\xf3n)."
-                                })
-                            ]
-                        }),
-                        /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
-                            className: (sectionSeis_module_default()).contenedorTiposOroCard2,
-                            children: [
-                                /*#__PURE__*/ jsx_runtime_.jsx("p", {
-                                    children: "Oro rosado "
-                                }),
-                                /*#__PURE__*/ jsx_runtime_.jsx("p", {
-                                    children: "Es una mezcla de oro fijo, cobre y plata."
-                                })
-                            ]
-                        }),
-                        /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
-                            className: (sectionSeis_module_default()).contenedorTiposOroCard1,
-                            children: [
-                                /*#__PURE__*/ jsx_runtime_.jsx("p", {
-                                    children: "Oro rojo "
-                                }),
-                                /*#__PURE__*/ jsx_runtime_.jsx("p", {
-                                    children: "Oro mezclado con cobre."
-                                })
-                            ]
-                        }),
-                        /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
-                            className: (sectionSeis_module_default()).contenedorTiposOroCard2,
-                            children: [
-                                /*#__PURE__*/ jsx_runtime_.jsx("p", {
-                                    children: "Oro gris "
-                                }),
-                                /*#__PURE__*/ jsx_runtime_.jsx("p", {
-                                    children: "Mezcla de oro y n\xedquel que se presenta en bajas denominaciones de quilates."
-                                })
-                            ]
-                        }),
-                        /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
-                            className: (sectionSeis_module_default()).contenedorTiposOroCard1,
-                            children: [
-                                /*#__PURE__*/ jsx_runtime_.jsx("p", {
-                                    children: "Oro verde "
-                                }),
-                                /*#__PURE__*/ jsx_runtime_.jsx("p", {
-                                    children: "Oro mezclado con plata."
+                                    children: "No se puede obtener plata m\xe1s fina que esta. Es el tipo con mayor pureza con un 99,9% de plata. No se trabaja en joyer\xeda porque es blanda y se marca con facilidad."
                                 })
                             ]
                         })
@@ -2415,9 +2762,12 @@ const Section_seis = ({ listadoCiudadesServicios  })=>{
         })
     });
 };
-/* harmony default export */ const Section_6_Section_seis = (Section_seis);
+/* harmony default export */ const Section_7_Section_siete = (Section_siete);
 
 ;// CONCATENATED MODULE: ./src/pages/index.js
+
+
+
 
 
 
@@ -2457,8 +2807,8 @@ function Home({ menu_list , ListadoCiudades , listadoCiudadesServicios , ciudad 
     return /*#__PURE__*/ (0,jsx_runtime_.jsxs)(jsx_runtime_.Fragment, {
         children: [
             /*#__PURE__*/ jsx_runtime_.jsx((next_seo_default()), {
-                title: "Compro Oro al Mejor Precio. Tiendas Compro Oro | Quickgold",
-                description: "Quickgold es tu tienda compro oro de confianza. Obt\xe9n dinero extra por las joyas de oro que ya no quieras. Tasaci\xf3n transparente y segura.",
+                title: "Vender Plata | Tiendas Compro Plata | Precio Plata Hoy",
+                description: "Vende tus piezas de plata en nuestras tiendas Quickgold. Precio de la plata siempre actualizado y el mejor precio de tu ciudad. Pago en efectivo.",
                 icon: "/favicon.png",
                 facebook: {
                     image: "/facebook.png",
@@ -2489,49 +2839,57 @@ function Home({ menu_list , ListadoCiudades , listadoCiudadesServicios , ciudad 
                     })
                 ]
             }),
-            /*#__PURE__*/ jsx_runtime_.jsx(Layout, {
+            /*#__PURE__*/ (0,jsx_runtime_.jsxs)(Layout, {
                 menu_list: menu_list,
-                children: /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
-                    className: (Home_module_default()).main,
-                    children: [
-                        /*#__PURE__*/ jsx_runtime_.jsx(Breadcrumbs_Breadcrumbs, {
-                            raiz: "Quickgold",
-                            iconoRaiz: /*#__PURE__*/ jsx_runtime_.jsx((KeyboardArrowRight_default()), {}),
-                            urlUbicacionActual: "https://quickgold.es/compro-oro/",
-                            iconoUbiccionActual: /*#__PURE__*/ jsx_runtime_.jsx((KeyboardArrowRight_default()), {}),
-                            ubicacionActual: "Compro Oro"
-                        }),
-                        /*#__PURE__*/ jsx_runtime_.jsx(Section_1_Section_uno, {
-                            ciudad: ciudad
-                        }),
-                        /*#__PURE__*/ jsx_runtime_.jsx(Section_2_Section_dos, {
-                            ciudad: ciudad
-                        }),
-                        /*#__PURE__*/ jsx_runtime_.jsx(Section_3_Section_tres, {
-                            ciudad: ciudad,
-                            ListadoCiudades: ListadoCiudades
-                        }),
-                        /*#__PURE__*/ jsx_runtime_.jsx(Section_5_Section_cinco, {
-                            ciudad: ciudad
-                        }),
-                        /*#__PURE__*/ jsx_runtime_.jsx(Section_6_Section_seis, {
-                            listadoCiudadesServicios: listadoCiudadesServicios,
-                            ciudad: ciudad
-                        })
-                    ]
-                })
+                children: [
+                    /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
+                        className: (Home_module_default()).main,
+                        children: [
+                            /*#__PURE__*/ jsx_runtime_.jsx(Breadcrumbs_Breadcrumbs, {
+                                raiz: "Quickgold",
+                                iconoRaiz: /*#__PURE__*/ jsx_runtime_.jsx((KeyboardArrowRight_default()), {}),
+                                urlUbicacionActual: "https://quickgold.es/compro-plata/",
+                                iconoUbiccionActual: /*#__PURE__*/ jsx_runtime_.jsx((KeyboardArrowRight_default()), {}),
+                                ubicacionActual: "Compro Plata"
+                            }),
+                            /*#__PURE__*/ jsx_runtime_.jsx(Section_1_Section_uno, {
+                                ciudad: ciudad
+                            }),
+                            /*#__PURE__*/ jsx_runtime_.jsx(Section_2_Section_dos, {
+                                ciudad: ciudad
+                            })
+                        ]
+                    }),
+                    /*#__PURE__*/ jsx_runtime_.jsx(Section_3_Section_tres, {
+                        ciudad: ciudad,
+                        ListadoCiudades: ListadoCiudades
+                    }),
+                    /*#__PURE__*/ jsx_runtime_.jsx(Section_4_Section_cuatro, {
+                        ciudad: ciudad
+                    }),
+                    /*#__PURE__*/ jsx_runtime_.jsx(Section_6_Section_seis, {
+                        ciudad: ciudad
+                    }),
+                    /*#__PURE__*/ jsx_runtime_.jsx(Section_6_mobil_Section_seis_mobil, {
+                        ciudad: ciudad
+                    }),
+                    /*#__PURE__*/ jsx_runtime_.jsx(Section_7_Section_siete, {
+                        ciudad: ciudad,
+                        listadoCiudadesServicios: listadoCiudadesServicios
+                    })
+                ]
             })
         ]
     });
 }
-const idPaginaWp = "326";
+const idPaginaWp = "377";
 async function getStaticProps() {
     /*const response = await fetch(
     `https://quickgold.es/wp-json/wp/v2/pages/${idWp}`
   );
   const dataIdWp = await response.json();*/ const Listado = await fetch(`https://quickgold.es/listadoCiudades.json`);
     const ListadoCiudades = await Listado.json();
-    const listadoServicio = await fetch(`https://quickgold.es/listadoCiudadesServicioOro.json`);
+    const listadoServicio = await fetch(`https://quickgold.es/listadoCiudadesServicioPlata.json`);
     const listadoCiudadesServicios = await listadoServicio.json();
     const menu = await fetch(`https://admin.quickgold.es/wp-json/menus/v1/menus/2`);
     const menu_list = await menu.json();
@@ -2647,7 +3005,7 @@ module.exports = require("react/jsx-runtime");
 var __webpack_require__ = require("../webpack-runtime.js");
 __webpack_require__.C(exports);
 var __webpack_exec__ = (moduleId) => (__webpack_require__(__webpack_require__.s = moduleId))
-var __webpack_exports__ = __webpack_require__.X(0, [210,121,675], () => (__webpack_exec__(7555)));
+var __webpack_exports__ = __webpack_require__.X(0, [210,121,675], () => (__webpack_exec__(5511)));
 module.exports = __webpack_exports__;
 
 })();

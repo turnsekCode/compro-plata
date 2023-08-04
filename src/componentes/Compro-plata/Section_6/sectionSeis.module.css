@@ -1,0 +1,199 @@
+.contenedorSectionCinco{
+   display: none;
+}
+
+@media (min-width: 610px) {
+.contenedorSectionCinco {
+        margin: 40px 0;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 50px;
+    }
+
+    .bloqueInferior {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        width: 990px;
+    }
+
+    .bloqueSuperior h3 {
+        font-weight: 700;
+        font-size: 30px;
+        line-height: 29px;
+        color: #000831;
+        margin-bottom: 30px;
+        padding: 0;
+    }
+
+    .bloqueSuperior p {
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 20px;
+        text-align: center;
+        color: #918F8F;
+    }    
+    .contenedorVentajas1 img, .contenedorVentajas2 img, .contenedorVentajas3 img, .contenedorVentajas4 img, .contenedorVentajas5 img, .contenedorVentajas6 img, .contenedorVentajas7 img,.contenedorVentajas8 img,.contenedorVentajas9 img {
+        opacity: 0.60;
+        width: 100%;
+    }
+    .contenedorVentajas1 p,.contenedorVentajas2 p,.contenedorVentajas3 p,.contenedorVentajas4 p,.contenedorVentajas5 p,.contenedorVentajas6 p,.contenedorVentajas7 p,.contenedorVentajas8 p,.contenedorVentajas9 p {
+        font-weight: 700;
+        font-size: 24px;
+        line-height: 24px;
+        text-align: center;
+        color: #fff;
+        width: 70%;
+        margin-top: 20px;
+        position: absolute;
+    }
+    .contenedorVentajas1 {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        margin-bottom: 30px;
+        width: 249px;
+        height: 249px;
+        background-image: linear-gradient(180deg, #0F2D45 0%, rgba(15, 45, 69, 0.5) 0%), url(/imagenPorqueElegirnosDiamantes1.png);
+        background-size: cover;
+        filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+        border-radius: 8px;
+    }
+    .contenedorVentajas2 {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        margin-bottom: 30px;
+        width: 249px;
+        height: 249px;
+        background-image: linear-gradient(180deg, #0F2D45 0%, rgba(15, 45, 69, 0.5) 0%), url(/imagenPorqueElegirnosDiamantes2.png);
+        background-size: cover;
+        filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+        border-radius: 8px;
+    }
+    .contenedorVentajas3 {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        margin-bottom: 30px;
+        width: 249px;
+        height: 249px;
+        background-image: linear-gradient(180deg, #0F2D45 0%, rgba(15, 45, 69, 0.5) 0%), url(/imagenPorqueElegirnosDiamantes3.png);
+        background-size: cover;
+        filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+        border-radius: 8px;
+    }
+    .contenedorVentajas4 {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        margin-bottom: 30px;
+        width: 249px;
+        height: 249px;
+        background-image: linear-gradient(180deg, #0F2D45 0%, rgba(15, 45, 69, 0.5) 0%), url(/imagenPorqueElegirnosDiamantes4.png);
+        background-size: cover;
+        filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+        border-radius: 8px;
+    }
+    .contenedorVentajas5 {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        margin-bottom: 30px;
+        width: 249px;
+        height: 249px;
+        background-image: linear-gradient(180deg, #0F2D45 0%, rgba(15, 45, 69, 0.5) 0%), url(/imagenPorqueElegirnosDiamantes5.png);
+        background-size: cover;
+        filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+        border-radius: 8px;
+    }
+    .contenedorVentajas6 {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        margin-bottom: 30px;
+        width: 249px;
+        height: 249px;
+        background-image: linear-gradient(180deg, #0F2D45 0%, rgba(15, 45, 69, 0.5) 0%), url(/imagenPorqueElegirnosDiamantes6.png);
+        background-size: cover;
+        filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+        border-radius: 8px;
+    }
+.contenedorVentajas7 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin-bottom: 30px;
+    width: 249px;
+    height: 249px;
+    background-image: linear-gradient(180deg, #0F2D45 0%, rgba(15, 45, 69, 0.5) 0%), url(/imagenPorqueElegirnosDiamantes7.png);
+    background-size: cover;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    border-radius: 8px;
+}
+.contenedorVentajas8 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin-bottom: 30px;
+    width: 249px;
+    height: 249px;
+    background-image: linear-gradient(180deg, #0F2D45 0%, rgba(15, 45, 69, 0.5) 0%), url(/imagenPorqueElegirnosDiamantes8.png);
+    background-size: cover;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    border-radius: 8px;
+}
+.contenedorVentajas9 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin-bottom: 30px;
+    width: 249px;
+    height: 249px;
+    background-image: linear-gradient(180deg, #0F2D45 0%, rgba(15, 45, 69, 0.5) 0%), url(/imagenPorqueElegirnosDiamantes9.png);
+    background-size: cover;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    border-radius: 8px;
+}
+    .linea {
+        position: relative;
+        display: inline-block;
+        z-index: 1;
+    }
+
+    .linea:after {
+        content: '';
+        width: 100%;
+        z-index: -1;
+        border-bottom: 7px solid #FBBE00;
+        position: absolute;
+        display: block;
+        height: 5px;
+        transform: translateY(40%);
+    }
+
+    .linea:after {
+        left: 2px;
+        top: calc(50% - 1px);
+    }
+}

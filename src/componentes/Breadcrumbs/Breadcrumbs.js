@@ -11,8 +11,8 @@ const Breadcrumbs = () => {
         </a>
         <KeyboardArrowRightIcon />
       </div>
-      <a href="https://quickgold.es/compro-oro/" title="Compro oro">
-        Compro oro
+      <a href="https://quickgold.es/compro-plata/" title="Compro oro">
+        Compro plata
       </a>
     </div>
   );
