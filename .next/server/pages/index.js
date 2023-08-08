@@ -2726,7 +2726,7 @@ const Section_siete = ({ ciudad , listadoCiudadesServicios  })=>{
                             className: (sectionSiete_module_default()).contenedorTiposOroCard2,
                             children: [
                                 /*#__PURE__*/ jsx_runtime_.jsx("p", {
-                                    children: "Plata 925 o esterlina "
+                                    children: "Plata 925 o fina "
                                 }),
                                 /*#__PURE__*/ jsx_runtime_.jsx("p", {
                                     children: "Est\xe1 formada por un 92,5% de plata que junto con otras fusiones le dan dureza para la elaboraci\xf3n de las joyas. Es la m\xe1s empleada y tambi\xe9n muy habitual en monedas de plata."
@@ -2737,10 +2737,10 @@ const Section_siete = ({ ciudad , listadoCiudadesServicios  })=>{
                             className: (sectionSiete_module_default()).contenedorTiposOroCard1,
                             children: [
                                 /*#__PURE__*/ jsx_runtime_.jsx("p", {
-                                    children: "Plata 900 "
+                                    children: "Plata 999 "
                                 }),
                                 /*#__PURE__*/ jsx_runtime_.jsx("p", {
-                                    children: "No se puede obtener plata m\xe1s fina que esta. Es el tipo con mayor pureza con un 99,9% de plata. No se trabaja en joyer\xeda porque es blanda y se marca con facilidad."
+                                    children: "Es el tipo con mayor pureza con un 99,9% de plata. No se trabaja en joyer\xeda porque es blanda y se marca con facilidad."
                                 })
                             ]
                         })
